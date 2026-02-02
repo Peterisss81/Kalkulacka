@@ -1,0 +1,97 @@
+{
+  "celky": {
+    "3": {
+      "color": "#FAFAD2",
+      "firmaCena": 140,
+      "ignored": false,
+      "nakupkaCena": 140,
+      "name": "neco",
+      "nextPolozkaId": 4,
+      "polozky": {
+        "1": {
+          "a": 3,
+          "b": 4,
+          "cena": {
+            "firmaTotal": 120,
+            "firmaUnit": 10,
+            "nakupkaTotal": 120,
+            "nakupkaUnit": 10,
+            "priceFromM2": true,
+            "ursTotal": 120,
+            "ursUnit": 10
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "neco velkeho",
+          "namerFactor": 1,
+          "ob": 60,
+          "pl": 12,
+          "unitFactor": 1,
+          "v": 5
+        },
+        "3": {
+          "a": 1,
+          "b": 2,
+          "cena": {
+            "firmaTotal": 20,
+            "firmaUnit": 10,
+            "nakupkaTotal": 20,
+            "nakupkaUnit": 10,
+            "priceFromM2": true,
+            "ursTotal": 20,
+            "ursUnit": 10
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "neco maleho",
+          "namerFactor": 1,
+          "ob": 6,
+          "pl": 2,
+          "unitFactor": 1,
+          "v": 3
+        }
+      },
+      "totalObjem": 66,
+      "totalPlocha": 14,
+      "totalUctOb": 0,
+      "totalUctPl": 14,
+      "ursCena": 140
+    },
+    "4": {
+      "color": "#FAFAD2",
+      "firmaCena": 300,
+      "ignored": false,
+      "nakupkaCena": 300,
+      "name": "uplne jinde",
+      "nextPolozkaId": 2,
+      "polozky": {
+        "1": {
+          "a": 10,
+          "b": 2,
+          "cena": {
+            "firmaTotal": 300,
+            "firmaUnit": 30,
+            "nakupkaTotal": 300,
+            "nakupkaUnit": 30,
+            "priceFromM2": false,
+            "ursTotal": 300,
+            "ursUnit": 30
+          },
+          "ignored": false,
+          "material": "podkladovyBeton",
+          "name": "levy pas nebo mozna pravy",
+          "namerFactor": 1,
+          "ob": 10,
+          "pl": 20,
+          "unitFactor": 1,
+          "v": 0.5
+        }
+      },
+      "totalObjem": 10,
+      "totalPlocha": 20,
+      "totalUctOb": 10,
+      "totalUctPl": 0,
+      "ursCena": 300
+    }
+  }
+}

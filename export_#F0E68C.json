@@ -1,0 +1,40 @@
+{
+  "celky": {
+    "4": {
+      "color": "#F0E68C",
+      "firmaCena": 4160,
+      "ignored": false,
+      "nakupkaCena": 4160,
+      "name": "pejskove na import",
+      "nextPolozkaId": 2,
+      "polozky": {
+        "1": {
+          "a": 2,
+          "b": 2,
+          "cena": {
+            "firmaTotal": 4160,
+            "firmaUnit": 20,
+            "nakupkaTotal": 4160,
+            "nakupkaUnit": 20,
+            "priceFromM2": true,
+            "ursTotal": 4160,
+            "ursUnit": 20
+          },
+          "ignored": false,
+          "material": "zelezo",
+          "name": "psik alergicky",
+          "namerFactor": 1,
+          "ob": 12,
+          "pl": 4,
+          "unitFactor": 52,
+          "v": 3
+        }
+      },
+      "totalObjem": 12,
+      "totalPlocha": 4,
+      "totalUctOb": 0,
+      "totalUctPl": 208,
+      "ursCena": 4160
+    }
+  }
+}

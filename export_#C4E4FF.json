@@ -1,0 +1,97 @@
+{
+  "celky": {
+    "1": {
+      "color": "#C4E4FF",
+      "firmaCena": 140,
+      "ignored": false,
+      "nakupkaCena": 140,
+      "name": "neco",
+      "nextPolozkaId": 4,
+      "polozky": {
+        "1": {
+          "a": 3,
+          "b": 4,
+          "cena": {
+            "firmaTotal": 120,
+            "firmaUnit": 10,
+            "nakupkaTotal": 120,
+            "nakupkaUnit": 10,
+            "priceFromM2": true,
+            "ursTotal": 120,
+            "ursUnit": 10
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "neco velkeho",
+          "namerFactor": 1,
+          "ob": 60,
+          "pl": 12,
+          "unitFactor": 1,
+          "v": 5
+        },
+        "3": {
+          "a": 1,
+          "b": 2,
+          "cena": {
+            "firmaTotal": 20,
+            "firmaUnit": 10,
+            "nakupkaTotal": 20,
+            "nakupkaUnit": 10,
+            "priceFromM2": true,
+            "ursTotal": 20,
+            "ursUnit": 10
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "neco maleho",
+          "namerFactor": 1,
+          "ob": 6,
+          "pl": 2,
+          "unitFactor": 1,
+          "v": 3
+        }
+      },
+      "totalObjem": 66,
+      "totalPlocha": 14,
+      "totalUctOb": 0,
+      "totalUctPl": 14,
+      "ursCena": 140
+    },
+    "5": {
+      "name": "uplne jinde",
+      "ignored": false,
+      "color": "#C4E4FF",
+      "polozky": {
+        "1": {
+          "name": "levy pas nebo mozna pravy",
+          "ignored": false,
+          "material": "podkladovyBeton",
+          "a": 10,
+          "b": 2,
+          "v": 0.5,
+          "pl": 20,
+          "ob": 10,
+          "unitFactor": 1,
+          "namerFactor": 1,
+          "cena": {
+            "nakupkaUnit": 30,
+            "ursUnit": 30,
+            "firmaUnit": 30,
+            "nakupkaTotal": 300,
+            "ursTotal": 300,
+            "firmaTotal": 300,
+            "priceFromM2": false
+          }
+        }
+      },
+      "nextPolozkaId": 2,
+      "totalPlocha": 20,
+      "totalObjem": 10,
+      "totalUctPl": 0,
+      "totalUctOb": 10,
+      "nakupkaCena": 300,
+      "ursCena": 300,
+      "firmaCena": 300
+    }
+  }
+}

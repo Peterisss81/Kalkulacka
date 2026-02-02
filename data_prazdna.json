@@ -1,0 +1,32 @@
+{
+    "globalData": {
+        "globalCeny": {
+            "nakupka": {
+                "cena": 0
+            },
+            "urs": {
+                "cena": 0
+            },
+            "firma": {
+                "cena": 0
+            }
+        },
+        "material": {
+            "prostyBeton": {
+                "name": "Prostý beton",
+				"unitCenaDefault": 10
+            },
+            "zelezo": {
+                "name": "Betonářská ocel",
+				"unitCenaDefault": 20
+            },
+            "podkladovyBeton": {
+                "name": "Podkladový beton",
+				"unitCenaDefault": 30
+            }
+        }
+    },
+    "celky": {},
+	"nextCelekId": 1	  
+}
+

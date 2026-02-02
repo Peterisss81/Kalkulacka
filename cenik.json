@@ -1,0 +1,119 @@
+{
+    "globalData": {
+        "globalCeny": {
+            "nakupka": {
+                "cena": 0
+            },
+            "urs": {
+                "cena": 0
+            },
+            "firma": {
+                "cena": 0
+            }
+        },
+        "material": {
+            "prostyBeton": {
+                "name": "Prostý beton",
+				"unitCenaDefault": 10
+            },
+            "zelezo": {
+                "name": "Betonářská ocel",
+				"unitCenaDefault": 20
+            },
+            "podkladovyBeton": {
+                "name": "Podkladový beton",
+				"unitCenaDefault": 30
+            }
+        }
+    },
+    "celky": {
+		"1": {
+            "name": "základové pásy - nepodsklepené",
+			"ignored": false,
+			"polozky": {
+                "1": {
+					"name": "pás levý",
+					"ignored": false,
+					"material" : "Prostý beton",
+					"a":0.5,
+					"b":3,
+					"v":0,
+					"pl":1.5,
+					"ob":0,
+					"unitFactor": 1, 
+					"namerFactor": 1,
+					"cena":{
+						"nakupkaUnit":10,
+						"nakupkaTotal":15,
+						"ursUnit":20,
+						"ursTotal":30,
+						"firmaUnit":30,
+						"firmaTotal":45,
+						"priceFromM2": true
+					}
+				},
+				"2": {
+					"name": "pás pravý patka",
+					"ignored": false,
+					"material" : "Prostý beton",
+					"a":1.5,
+					"b":3,
+					"v":2,
+					"pl":4.5,
+					"ob":9,
+					"unitFactor": 1, 
+					"namerFactor": 1,
+					"cena":{
+						"nakupkaUnit":10,
+						"nakupkaTotal":90,
+						"ursUnit":20,
+						"ursTotal":180,
+						"firmaUnit":30,
+						"firmaTotal":270,
+						"priceFromM2": false
+					}
+				}
+				,
+			"nextPolozkaId": 3,
+			"totalPlocha":6,
+			"totalObjem":9,
+			"nakupkaCena":105,
+			"ursCena":210,
+			"firmaCena":315,
+		},
+		"2": {
+            "name": "základové pásy - železo",
+			"ignored": false,
+			"polozky": {
+                "1": {
+					"name": "pás pravý podsklepený",
+					"ignored": false,
+					"material" : "Betonářská ocel",
+					"a":2,
+					"b":3,
+					"v":5,
+					"p":6,
+					"O":30,
+					"unitFactor": 1, 
+					"namerFactor": 1,
+					"cena":{
+						"nakupkaUnit":20,
+						"nakupkaTotal":120,
+						"ursUnit":50,
+						"ursTotal":300,
+						"firmaUnit":500,
+						"firmaTotal":3000,
+						"priceFromM2": true
+					}
+				}
+				,
+			"nextPolozkaId": 2,
+			"totalPlocha":6,
+			"totalObjem":30,
+			"nakupkaCena":120,
+			"ursCena":300,
+			"firmaCena":3000,
+		},
+		"nextCelekId": 2	  
+	}
+}	

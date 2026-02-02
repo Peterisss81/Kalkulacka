@@ -1,0 +1,133 @@
+{
+  "celky": {
+    "1": {
+      "firmaCena": 4160,
+      "nakupkaCena": 4160,
+      "name": "pejskove",
+      "nextPolozkaId": 2,
+      "polozky": {
+        "1": {
+          "a": 2,
+          "b": 2,
+          "cena": {
+            "firmaTotal": 4160,
+            "firmaUnit": 20,
+            "nakupkaTotal": 4160,
+            "nakupkaUnit": 20,
+            "priceFromM2": true,
+            "ursTotal": 4160,
+            "ursUnit": 20
+          },
+          "material": "zelezo",
+          "name": "psik alergicky",
+          "namerFactor": 1,
+          "ob": 12,
+          "pl": 4,
+          "unitFactor": 52,
+          "v": 3,
+          "ignored": false
+        }
+      },
+      "totalObjem": 12,
+      "totalPlocha": 4,
+      "totalUctOb": 0,
+      "totalUctPl": 208,
+      "ursCena": 4160
+    },
+    "4": {
+      "firmaCena": 660,
+      "nakupkaCena": 660,
+      "name": "neco",
+      "nextPolozkaId": 4,
+      "polozky": {
+        "1": {
+          "a": 1,
+          "b": 2,
+          "cena": {
+            "firmaTotal": 20,
+            "firmaUnit": 10,
+            "nakupkaTotal": 20,
+            "nakupkaUnit": 10,
+            "priceFromM2": true,
+            "ursTotal": 20,
+            "ursUnit": 10
+          },
+          "material": "prostyBeton",
+          "name": "neco maleho",
+          "namerFactor": 1,
+          "ob": 6,
+          "pl": 2,
+          "unitFactor": 1,
+          "v": 3,
+          "ignored": true
+        },
+        "3": {
+          "a": 3,
+          "b": 4,
+          "cena": {
+            "firmaTotal": 660,
+            "firmaUnit": 10,
+            "nakupkaTotal": 660,
+            "nakupkaUnit": 10,
+            "priceFromM2": false,
+            "ursTotal": 660,
+            "ursUnit": 10
+          },
+          "material": "prostyBeton",
+          "name": "neco velkeho",
+          "namerFactor": 1.1,
+          "ob": 60,
+          "pl": 12,
+          "unitFactor": 1,
+          "v": 5,
+          "ignored": false
+        }
+      },
+      "totalObjem": 60,
+      "totalPlocha": 12,
+      "totalUctOb": 66,
+      "totalUctPl": 0,
+      "ursCena": 660
+    },
+    "5": {
+      "firmaCena": 0,
+      "nakupkaCena": 0,
+      "name": "Nový celek",
+      "nextPolozkaId": 1,
+      "polozky": {},
+      "totalObjem": 0,
+      "totalPlocha": 0,
+      "totalUctOb": 0,
+      "totalUctPl": 0,
+      "ursCena": 0
+    }
+  },
+  "globalData": {
+    "globalCeny": {
+      "firma": {
+        "cena": 4820
+      },
+      "nakupka": {
+        "cena": 4820
+      },
+      "urs": {
+        "cena": 4820
+      }
+    },
+    "material": {
+      "podkladovyBeton": {
+        "name": "Podkladový beton",
+        "unitCenaDefault": 30
+      },
+      "prostyBeton": {
+        "name": "Prostý beton",
+        "unitCenaDefault": 10
+      },
+      "zelezo": {
+        "name": "Betonářská ocel",
+        "unitCenaDefault": 20
+      }
+    }
+  },
+  "nextCelekId": 6
+}
