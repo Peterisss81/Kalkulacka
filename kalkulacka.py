@@ -4,6 +4,8 @@ import os
 
 app = Flask(__name__)
 DATA_FILE = "data.json"
+MATERIAL_FILE = "materialy.json"
+
 
 
 def load_data():
@@ -82,8 +84,6 @@ def save_partial_json():
         return jsonify({"status": "error", "message": str(e)})
 
 
-from flask import Flask, request, jsonify
-import json
 
 @app.route("/load-partial-json", methods=["POST"])
 def load_partial_json():
@@ -103,7 +103,20 @@ def load_partial_json():
         "content": content
     })
 
-    
+# MATERIALY
+@app.route("/materials")
+def get_materials():
+    with open(MATERIAL_FILE, encoding="utf-8") as f:
+        return jsonify(json.load(f))
+
+@app.route("/materials", methods=["POST"])
+def save_materials():
+    data = request.get_json()
+    with open(MATERIAL_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    return jsonify({"status": "ok"})
+
+
 
 
 if __name__ == "__main__":
