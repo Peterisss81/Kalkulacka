@@ -1,0 +1,609 @@
+* {
+    box-sizing: border-box;
+}
+
+		#header {
+			position: sticky; /* nebo fixed */
+			top: 0;           /* drží se nahoře */
+			background-color: white; /* aby překrýval obsah */
+			z-index: 1000;    /* aby byl nad ostatním */
+			padding: 10px;    /* hezčí vzhled */
+			font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+			border-radius: 12px;
+			box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.6); /* lehký stín , offset x, offset y, rozptyleni , plocha , (barva, 0,6 intenzita)*/
+			border: 5px solid rgba(256,0,0,0.22);
+		}
+		
+		body {
+			font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+			font-size: 14px;
+			line-height: 1.4;
+			/*background: #f4f6f8;   /* jemné šedé pozadí */
+			background: #99A;   /* jemné šedé pozadí */
+			color: #55A;  /* barva pisma */
+			padding: 10px;
+		}
+		
+		.materialy-header {
+			position: fixed; /* nebo fixed */
+			top: 150px;           /* drží se nahoře */
+			background-color: white; /* aby překrýval obsah */
+			z-index: 1000;    /* aby byl nad ostatním */
+			padding: 10px;    /* hezčí vzhled */
+			font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+			border-radius: 12px;
+			box-shadow: 5px 5px 20px 15px rgba(0,0,0,0.6); /* lehký stín , offset x, offset y, rozptyleni , plocha , (barva, 0,6 intenzita)*/
+			border: 5px solid rgba(256,0,0,0.22);
+			margin-top: 20px;
+			left: 25%;
+		}
+		
+		#materialsToggleBtn {
+			padding: 4px 10px;
+			font-size: 13px;
+			cursor: pointer;
+		}
+
+        .celek {
+			background: #ffffff;
+			border-radius: 12px;
+			padding: 10px;
+			margin-top: 20px;
+
+			border: px solid #333;
+			box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+
+			display: flex;
+			flex-direction: column;
+			gap: 2px;
+			box-shadow: 0 5px 10px rgba(0,0,0,0.8); /* lehký stín */
+		}
+		
+		.celek-title {
+			font-weight: 600;
+			font-size: 0.95rem;
+			color: #333;
+			padding-bottom: 2px;
+			border-bottom: 1px solid #eee;
+			margin: 0;
+			padding-bottom: 6px;
+		}
+	
+
+
+
+        .polozka { border-top: 1px dashed #aaa; padding-top: 8px; margin-top: 8px; }
+        input { width: 70px; }
+		
+		.polozka {
+			display: flex;
+			flex-direction: column;
+			gap: 6px;
+			padding: 12px 14px;
+			align-items: flex-start;
+
+			border: 1px solid rgba(0,0,0,0.12);
+			border-radius: 12px;
+			margin: 10px 0;
+
+			background: rgba(255,255,255,0.7);
+
+			/* 🆕 karta efekt */
+			box-shadow:
+				0 2px 6px rgba(0,0,0,0.12),
+				inset 0 0 0 rgba(0,0,0,0);
+
+			transition:
+				box-shadow 0.2s ease,
+				transform 0.15s ease,
+				background 0.2s ease;
+		}
+
+		
+		.polozka:hover {
+			box-shadow:
+				0 6px 16px rgba(0,0,0,0.18);
+			transform: translateY(-1px);
+			background: rgba(255,255,255,0.9);
+		}
+		
+		/* 🟦 m² položka */
+		.polozka:has(.highlight-m2) {
+			border-left: 6px solid #4a90e2;
+			border-bottom: 4px solid #4a90e2;
+		}
+
+		/* 🟩 m³ položka */
+		.polozka:has(.highlight-m3) {
+			border-left: 6px solid #3cb371;
+			border-bottom: 4px solid #2e8b57;
+		}
+		
+		.polozka:has(.highlight-m2)::after,
+		.polozka:has(.highlight-m3)::after {
+			content: "";
+			position: absolute;
+			left: 0;
+			right: 0;
+			bottom: -2px;
+			height: 6px;
+			border-radius: 0 0 12px 12px;
+			opacity: 0.35;
+		}
+
+		/*
+		.polozka:has(.highlight-m2)::after {
+			background: linear-gradient(
+				to right,
+				transparent,
+				#4a90e2,
+				transparent
+			);
+		}
+
+		.polozka:has(.highlight-m3)::after {
+			background: linear-gradient(
+				to right,
+				transparent,
+				#2e8b57,
+				transparent
+			);
+		}*/
+		
+		.polozka:focus-within:has(.highlight-m2) {
+			box-shadow:
+				0 0 0 4px rgba(74, 144, 226, 0.9),
+				0 16px 36px 20px rgba(0,0,0,0.9);
+		}
+
+		.polozka:focus-within:has(.highlight-m3) {
+			box-shadow:
+				0 0 0 4px rgba(46, 139, 87, 0.9),
+				0 16px 36px 20px rgba(0,0,0,0.9);
+		}
+
+
+		
+		.polozka.ignored {
+			opacity: 0.55;
+			filter: grayscale(0.8);
+
+			box-shadow: none;
+			border-left-color: #999;
+
+			background: repeating-linear-gradient(
+				45deg,
+				#f5f5f5,
+				#f5f5f5 8px,
+				#eeeeee 8px,
+				#eeeeee 16px
+			);
+		}
+
+		.polozka-row {
+			display: grid;                     /* ⬅️ MUSÍ být grid */
+			grid-template-columns: 1fr 1fr;    /* levá / pravá půlka */
+			align-items: center;
+			column-gap: 8px;
+		}
+		
+		.polozka-left {
+			grid-column: 1;
+		}
+
+		.polozka-celkem {
+			grid-column: 2;        /* ⬅️ druhá polovina */
+			justify-self: start;   /* levý okraj = střed */
+
+			margin-top: 3px;
+			padding: 3px 5px;
+
+			background: #C3C1BE;
+			border: 1px solid #d0d7e4;
+			border-radius: 8px;
+
+			display: flex;
+			gap: 7px;
+			align-items: center;
+
+			font-size: 13px;
+			width: fit-content;
+		}
+
+
+		
+		.polozka-celkem input.readonly{
+			width: 120px;
+		}	
+	
+		/*
+		.polozka-row {
+			display: flex;
+			align-items: center;
+			gap: 6px;
+			flex-wrap: wrap;
+		}*/
+		
+
+
+
+		input[type="text"],
+		input[type="number"] {
+			/*height: 28px;*/
+			padding: 6px 10px;
+			border-radius: 6px;
+			border: 1px solid #ccc;
+			outline: none;
+			font-size: 0.9rem;
+			transition: 0.2s all;
+			background: #fafafa;
+		}
+
+		input[type="text"]:focus,
+		input[type="number"]:focus {
+			border-color: #4a90e2;
+			box-shadow: 0 0 4px rgba(74,144,226,0.5);
+			background: #fff;
+		}
+
+		.polozka input[type="number"] {
+			width: 80px;
+		}
+
+		.polozka input[type="text"] {
+			width: 200px;
+		}
+		
+		button {
+			height: 29px;
+			padding: 5px 12px;
+			border-radius: 6px;
+			border: 1px solid #999;
+			background-color: #E7E5E1;
+			color: black;
+			font-size: 0.85rem;
+			cursor: pointer;
+			transition: 0.2s all;
+		}
+
+		button:hover {
+			background-color: #357ab7;
+		}
+
+		button:active {
+			transform: scale(0.97);
+		}
+
+
+		.polozka select {
+			width: 200px;
+		}
+		
+		.polozka .row {
+			width: 100%;
+			padding: 4px 0;
+		}
+
+		.polozka .row-main {
+			border-bottom: 1px dashed rgba(0,0,0,0.25);
+		}
+
+
+		.polozka .group {
+			display: flex;
+			align-items: center;
+			gap: 4px;
+		}
+		.readonly {
+			width: 150px;
+			padding: 6px 10px;
+			border-radius: 6px;
+			border: 1px solid #ccc;
+			outline: none;
+			font-size: 0.9rem;
+			transition: 0.2s all;
+			background-color: #f2f2f2;
+			/*color: #555;
+			text-align: right;
+			font-family: inherit;
+			font-size: 13px;*/
+		}
+
+		.readonly.small {
+					width: 70px;
+				}
+				
+		.readonly .big {
+					width: 150px;
+				}		
+				
+		.group.radio {
+			display: flex;
+			align-items: center;
+			gap: 4px;
+		}
+
+		.group.radio label {
+			display: inline-flex;
+			align-items: center;
+			gap: 2px;
+
+			line-height: 1;
+			padding: 0;
+			margin: 0;
+
+			font-size: 12px;
+			white-space: nowrap;
+		}
+
+		.group.radio input[type="radio"] {
+			margin: 0;
+			padding: 0;
+		}
+		.price-switch {
+			border: 1px solid #aaa;
+			border-radius: 6px;
+			padding: 3px 10px;
+			font-size: 12px;
+			cursor: pointer;
+
+			white-space: nowrap;
+			transition: background-color 0.2s, color 0.2s;
+		}
+
+		/* cena z m² */
+		.price-switch.m2 {
+			background-color: #e6f2ff;   /* světle modrá */
+			color: #004a99;
+		}
+
+		/* cena z m³ */
+		.price-switch.m3 {
+			background-color: #e8f7ec;   /* světle zelená */
+			color: #1e7a3b;
+		}
+
+		.price-switch:hover {
+			filter: brightness(0.96);
+		}
+		.celek-header {
+			display: flex;
+			align-items: center;
+			gap: 8px;           /* mezera mezi prvky */
+			margin-bottom: 6px;
+		}
+
+		.celek-header .celek-name {
+			padding: 6px 10px;
+			border-radius: 6px;
+			border: 1px solid #ccc;
+			outline: none;
+			font-size: 0.9rem;
+			transition: 0.2s all;
+			width: 400px;
+		}
+
+		.celek-header .add-polozka {
+			background-color: #e6f2ff; /* světle modrá */
+			border: 1px solid #aaa;
+			border-radius: 6px;
+			cursor: pointer;
+			padding: 3px 8px;
+		}
+
+		.celek-header .delete-celek {
+			margin-left: 70px; /* odsunuté dál, aby se neklikal omylem */
+			background-color: #ffe6e6; /* světle červené */
+			border: 1px solid #aaa;
+			border-radius: 6px;
+			cursor: pointer;
+			padding: 3px 8px;
+		}
+		
+
+		
+
+		.row {
+			display: flex;
+			flex-wrap: wrap;        /* zalamuje inputy do dalšího řádku pokud se nevejdou */
+			align-items: center;
+			justify-content: flex-start; /* ⬅️ všechny položky vlevo */
+			gap: 6px;
+		}
+		
+		.row-main input,
+		.row-main select {
+			width: 220px;
+		}
+
+		.row-main input[type="text"] {
+			width: 300px;
+		}
+		
+		.row-price {
+			margin: 1px;
+			background: #d5d5d5;
+			padding: 4px 6px;
+			border-radius: 2px;
+			/*display: flex;
+			/*flex-wrap: wrap;
+			/*justify-content: flex-start; /* ⬅️ zajistí, že ceny a tlačítko budou vlevo */
+			display: grid;
+			grid-template-columns: 1fr 1fr auto; /* levá | pravá | tlačítko */
+			align-items: center;
+			column-gap: 12px;
+		}
+		
+
+		.row-left {
+			grid-column: 1;
+			display: flex;
+			gap: 8px;
+			align-items: center;
+		}
+
+		.row-right {
+			grid-column: 2;
+			justify-self: start;   /* ⬅️ LEVÝ OKRAJ = STŘED */
+		}
+
+
+		.row-price input {
+			width: 90px;
+		}
+
+		.row-price .readonly {
+			background: #f3f3f3;
+		}
+		
+		.celek-soucet {
+			/*display: flex;*/
+			flex-wrap: wrap;
+			gap: 8px;
+			/*align-items: center;*/
+			background-color: #e0e0e0; /* světle šedé */
+			padding: 1px;
+			border-radius: 8px;
+			margin-top: 6px; /* oddělení od poslední položky */
+		}
+		.celek-soucet input {
+			width: 130px; /* stejně jako malé readonly inputy */
+		}
+		
+		.celek-soucet input.readonly {
+			width: 130px;        /* vejde se ~11–12 číslic */
+			font-weight: 600;
+			text-align: right;
+		}
+		
+		.price-switch.m2 {
+			background-color: lightblue;
+		}
+
+		.price-switch.m3 {
+			background-color: lightgreen;
+		}
+
+		.highlight-m2 {
+			background-color: #d0ebff; /* světle modrá pro pl(m2) */
+		}
+
+		.highlight-m3 {
+			background-color: #d0ffd6; /* světle zelená pro ob(m3) */
+		}
+
+		/* Celá ignorovaná položka */
+		.polozka.ignored {
+			opacity: 0.45;
+			filter: grayscale(70%);
+		}
+		
+		.ignore-switch {
+			background: #4caf50;
+			color: white;
+		}
+
+		.ignore-switch.ignored {
+			background: #F00;
+		}
+		/* Tlačítko “Ignoruju” */
+		.ignore-switch.ignoruj {
+			background-color: #F00;  /* červená */
+			color: #FFF;
+		}
+
+		/* Tlačítko “Započítávám” */
+		.ignore-switch.zapocitej {
+			background-color: #0A0;  /* zelená */
+			color: #FFF;
+		}
+
+		/* Celý ignorovaný celek */
+		.celek.ignored {
+			opacity: 0.45;
+			filter: grayscale(1);
+		}
+		
+		.celek-color-summary {
+			margin-top: 6px;
+			padding: 6px 8px;
+			font-size: 12px;
+			background: rgba(255,255,255,0.55);
+			border-left: 5px solid rgba(0,0,0,0.35);
+			border-radius: 4px;
+		}
+
+		select {
+			padding: 5px 8px;
+			border-radius: 6px;
+			border: 1px solid #ccc;
+			background: #fafafa;
+			font-size: 0.9rem;
+			transition: 0.2s all;
+			cursor: pointer;
+		}
+
+		select:focus {
+			border-color: #4a90e2;
+			box-shadow: 0 0 4px rgba(74,144,226,0.5);
+			background: #fff;
+		}
+
+
+		/*
+		.celek {
+			outline: 2px solid red;
+		}
+
+		.celek-title {
+			outline: 2px solid blue;
+		}
+		*/
+		
+		/* Pokud chceš, aby „pulsování“ bylo ještě výraznější, můžeš zvýšit hodnoty 15px → 20px a 5px → 8px. */
+		@keyframes highlightNew {
+			0%   { box-shadow: 0 0 15px 5px rgba(255, 0, 0, 0.9); }
+			50%  { box-shadow: 0 0 15px 5px rgba(255, 0, 0, 0.5); }
+			100% { box-shadow: none; }
+		}
+		
+		@keyframes popIn {
+			0% {
+				opacity: 0;
+				transform: translateY(-10px) scaleY(0.9);
+			}
+			50% {
+				opacity: 1;
+				transform: translateY(2px) scaleY(1.02);
+			}
+			100% {
+				opacity: 1;
+				transform: translateY(0) scaleY(1);
+			}
+		}
+
+
+		.celek-new {
+			/* dvě animace najednou: popIn a highlightNew */
+			animation: popIn 0.5s ease-out, highlightNew 20s ease-out;
+		}
+		
+
+		#material-manager input {
+			width: 250px;
+			box-sizing: border-box;
+			height: 28px;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
