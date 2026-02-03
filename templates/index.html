@@ -1,1 +1,80 @@
 
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <title>Stavební kalkulačka</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script>
+        const DATA = {{ data | tojson }};
+    </script>
+    <script src="{{ url_for('static', filename='app.js') }}" defer></script>
+</head>
+<body>
+
+<div id="header" class="header">
+	<h3>Stavební kalkulačka</h3>
+    <div id="globalCeny" class="global-ceny">
+        Nákupka: <span id="globalNakupka">0</span>
+        URS: <span id="globalURS">0</span>
+        Firma: <span id="globalFirma">0</span>
+    </div>
+
+
+
+	<button onclick="addCelek()">➕ Přidat celek</button>
+	<button onclick="Object.keys(data.celky).forEach(cid => recalcCelek(cid)); render();">Přepočítej</button>
+	<input type="text" id="saveFileName" value="kalkulacka" placeholder="Název souboru" style="width:200px;">
+	<button onclick="saveDataServer()">💾 Save JSON</button>
+	<!-- Načtení souboru -->
+	<button onclick="document.getElementById('loadFileInput').click()">📂 Načíst JSON</button>
+	<input type="file" id="loadFileInput" style="display:none" accept=".json" onchange="loadJSON(event)">
+	<button onclick="ignoreAll()">Ignorovat vše</button>
+	<button onclick="includeAll()">Započítat vše</button>
+	<button onclick="collapseAll()">Minimalizuj vše</button>
+	<button onclick="expandAll()">Maximalizuj vše</button>
+	<button onclick="toggleMaterials()"
+            id="materialsToggleBtn">
+        Správa materiálů
+    </button>
+	<span id="ignoredSummary" style="margin-left:50px;"></span>
+
+</div>
+<div id="celky"></div>
+
+
+<section id="material-manager">
+<div class="materialy-header">
+    <h3>Správa materiálů</h3>
+    <table id="material-table">
+        <thead>
+            <tr>
+                <th>ID (klíč)</th>
+                <th>Název</th>
+                <th>Jednotková cena</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <h4>Přidat nový materiál</h4>
+    <input id="newMatId" placeholder="ID (např. asfalt)" />
+    <input id="newMatName" placeholder="Název" />
+    <input id="newMatCena" type="number" placeholder="Cena" />
+    <button onclick="addMaterial()">Přidat</button>
+
+    <br><br>
+    <button onclick="saveMaterials()">💾 Uložit materiály</button>
+</div>	
+</section>
+
+
+</body>
+</html>
+
+
+
