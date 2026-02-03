@@ -1,0 +1,38 @@
+{
+  "azbest": {
+    "name": "Azbest Hnusný 1",
+    "unitCenaDefault": 120
+  },
+  "azbest2": {
+    "name": "Azbest Hnusný 2",
+    "unitCenaDefault": 124
+  },
+  "kohout": {
+    "name": "divoký kohout",
+    "unitCenaDefault": 1254
+  },
+  "novyMatros": {
+    "name": "Nový Matroš",
+    "unitCenaDefault": 15
+  },
+  "pejsek": {
+    "name": "Pes Pes",
+    "unitCenaDefault": 5
+  },
+  "podkladovyBeton": {
+    "name": "Podkladový Beton",
+    "unitCenaDefault": 30
+  },
+  "prostyBeton": {
+    "name": "Prostý beton",
+    "unitCenaDefault": 10
+  },
+  "ToJeSakraDlouhyPopisekMaterialu": {
+    "name": "DDlouhý název",
+    "unitCenaDefault": 3
+  },
+  "zelezo": {
+    "name": "Betonářská ocel",
+    "unitCenaDefault": 20
+  }
+}
