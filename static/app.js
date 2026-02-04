@@ -227,7 +227,6 @@ function renderPolozka(celekId, pid) {
             <!-- Rozměry -->
             <span>a</span>
             <input type="number" value="${p.a}"
-				step="0.1"
                 onchange="
                     data.celky['${celekId}'].polozky['${pid}'].a=+this.value;
                     recalcPolozka('${celekId}','${pid}');
@@ -236,16 +235,14 @@ function renderPolozka(celekId, pid) {
 
             <span>b</span>
             <input type="number" value="${p.b}"
-				step="0.1"
                 onchange="
                     data.celky['${celekId}'].polozky['${pid}'].b=+this.value;
                     recalcPolozka('${celekId}','${pid}');
                     render();
                 ">
 
-            <span>c</span>
+            <span>v</span>
             <input type="number" value="${p.v}"
-				step="0.1"
                 onchange="
                     data.celky['${celekId}'].polozky['${pid}'].v=+this.value;
                     recalcPolozka('${celekId}','${pid}');
@@ -564,10 +561,11 @@ function onMaterialChange(celekId, pid, materialKey) {
     // Pokud materiál existuje v aktuálním seznamu materials, nastav defaultní ceny
     if (materialKey && materials[materialKey]) {
         const defaultCena = materials[materialKey].unitCenaDefault || 0;
+		const firmaCena = materials[materialKey].unitCenaFirma || 0;
 
         p.cena.nakupkaUnit = defaultCena;
         p.cena.ursUnit = defaultCena;
-        p.cena.firmaUnit = defaultCena;
+        p.cena.firmaUnit = firmaCena;
     }
 
     recalculate();
@@ -1070,6 +1068,13 @@ function loadJSON(event) {
 
             // 🔹 1) nahradíme stávající data
             data = res.content;
+			
+			Object.values(data.celky).forEach(c => {
+				Object.values(c.polozky).forEach(p => {
+					p.cena.firmaUnit ??= 0;
+				});
+			});
+
 
             // 🔹 2) zajistíme pořadí celků (DŮLEŽITÉ!)
             if (!data.celkyOrder) {
@@ -1335,11 +1340,19 @@ function renderMaterialTable() {
                 <td>
                     <input 
                         type="number"
-                        step="0.01"
+                        step="0.1"
                         value="${mat.unitCenaDefault}"
                         onchange="materials['${id}'].unitCenaDefault = parseFloat(this.value) || 0"
                     >
                 </td>
+				
+				<td>
+					<input 
+						type="number" 
+						step="0.1"
+						value="${mat.unitCenaFirma ?? 0}"
+                        onchange="materials['${id}'].unitCenaFirma = parseFloat(this.value)">
+				</td>
 
                 <td>
                     <button onclick="deleteMaterial('${id}')">❌</button>
@@ -1356,6 +1369,7 @@ function addMaterial() {
     const id = newMatId.value.trim();
     const name = newMatName.value.trim();
     const cena = Number(newMatCena.value);
+	const cenaFirma = Number(newMatCenaFirma.value);
 
     if (!id || !name) {
         alert("Vyplň ID a název");
@@ -1370,7 +1384,8 @@ function addMaterial() {
     // Přidání nového materiálu
     materials[id] = {
         name,
-        unitCenaDefault: cena || 0
+        unitCenaDefault: cena || 0,
+		unitCenaFirma: cenaFirma || 0
     };
 
     // 🔹 Seřazení objektu podle klíčů
