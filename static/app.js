@@ -227,6 +227,7 @@ function renderPolozka(celekId, pid) {
             <!-- Rozměry -->
             <span>a</span>
             <input type="number" value="${p.a}"
+				step="0.1"
                 onchange="
                     data.celky['${celekId}'].polozky['${pid}'].a=+this.value;
                     recalcPolozka('${celekId}','${pid}');
@@ -235,14 +236,16 @@ function renderPolozka(celekId, pid) {
 
             <span>b</span>
             <input type="number" value="${p.b}"
+				step="0.1"
                 onchange="
                     data.celky['${celekId}'].polozky['${pid}'].b=+this.value;
                     recalcPolozka('${celekId}','${pid}');
                     render();
                 ">
 
-            <span>v</span>
+            <span>c</span>
             <input type="number" value="${p.v}"
+				step="0.1"
                 onchange="
                     data.celky['${celekId}'].polozky['${pid}'].v=+this.value;
                     recalcPolozka('${celekId}','${pid}');
