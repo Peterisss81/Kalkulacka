@@ -15,14 +15,16 @@
     "unitCenaFirma": 4500
   },
   "betonOcel_B500B_10505": {
-    "name": "betonářská ocel B500B (10 505)",
+    "name": "Betonářská ocel B500B (10 505)",
     "unitCenaDefault": 25500,
-    "unitCenaFirma": 65300
+    "unitCenaFirma": 65300,
+    "unitCenaURS": 50400
   },
   "bouraniZaklKamen ": {
     "name": "Bourání; základové zdivo, kamenné (m3)",
     "unitCenaDefault": 900,
-    "unitCenaFirma": 2950
+    "unitCenaFirma": 2950,
+    "unitCenaURS": 850
   },
   "bouraniZdenePricky400mm ": {
     "name": "Bourání zděné příčky tl.400mm (m2)",
@@ -32,7 +34,8 @@
   "bouraniZdiva": {
     "name": "Bourání zdí (m3)",
     "unitCenaDefault": 680,
-    "unitCenaFirma": 2950
+    "unitCenaFirma": 2950,
+    "unitCenaURS": 680
   },
   "demoliceBetonovéPodlahy80mm ": {
     "name": "Demolice betonové podlahy tl.80mm (m2)",
@@ -62,7 +65,8 @@
   "hydroizolaceGlastek4mm": {
     "name": "Hydroizolace; 1.PP, vodorovná, GLASTEK MINERAL SPECIAL, tl. 4 mm (m2)",
     "unitCenaDefault": 185,
-    "unitCenaFirma": 370
+    "unitCenaFirma": 370,
+    "unitCenaURS": 350
   },
   "nopovaFolie": {
     "name": "Nopová folie (m2)",
@@ -80,9 +84,10 @@
     "unitCenaFirma": 4490
   },
   "sterkPodsyp0-32mm": {
-    "name": "Štěrkový podsyp; 0-32 mm (modif: m3 = 1,7t) (Ridera 24k i s dopravou do F-M)",
-    "unitCenaDefault": 1000,
-    "unitCenaFirma": 4400
+    "name": "Štěrkový podsyp; 0-32 mm (modif: m3 = 1,7t) (Ridera 24k i s dopravou do F-M)(hutnění 163kč / m2)",
+    "unitCenaDefault": 700,
+    "unitCenaFirma": 4400,
+    "unitCenaURS": 1000
   },
   "sterkZasyp16-32mm": {
     "name": "Štěrkový zásyp; štěrkopísek, kámen 16-32 mm (modif: m3 = 1,6t)",
@@ -91,20 +96,21 @@
     "unitCenaURS": 123
   },
   "ZB150": {
-    "name": "Ztracené bednění 150 m2 (8ks) (chce dat 62kg zeleza do m2 tohohle bedneni)",
+    "name": "Ztracené bednění 150 m2 (8ks) (chce dat 62kg zeleza do m2 tohohle bedneni) (0,07m3 betonu na m2 zdi)",
     "unitCenaDefault": 518,
     "unitCenaFirma": 850,
     "unitCenaURS": 850
   },
   "ZB300": {
-    "name": "Ztracené bednění 300 m2 (8ks)",
+    "name": "Ztracené bednění 300 m2 (8ks) (0,21m3 betonu na m2 zdi)",
     "unitCenaDefault": 633,
-    "unitCenaFirma": 990
+    "unitCenaFirma": 990,
+    "unitCenaURS": 633
   },
   "ZB400": {
-    "name": "Ztracené bednění 400 m2 (8 ks)",
+    "name": "Ztracené bednění 400 m2 (8 ks) (0,29m3 betonu na m2 zdi)",
     "unitCenaDefault": 724,
-    "unitCenaFirma": 0
+    "unitCenaFirma": 1950
   },
   "ZB450": {
     "name": "Ztracené bednění 450 (neexistuje)",
@@ -112,9 +118,9 @@
     "unitCenaFirma": 1950
   },
   "ZB500": {
-    "name": "Ztracené bednění 500 m2 (10ks)",
+    "name": "Ztracené bednění 500 m2 (10ks) (0,37m3 betonu na m2 zdi)",
     "unitCenaDefault": 1018,
-    "unitCenaFirma": 0
+    "unitCenaFirma": 1950
   },
   "ZB501": {
     "name": "Ztracené bednění 501 m2 (10ks)",
