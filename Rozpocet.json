@@ -1,0 +1,486 @@
+{
+  "celky": {
+    "1": {
+      "color": "#D8FFD8",
+      "firmaCena": 222955.44,
+      "ignored": false,
+      "nakupkaCena": 211484.91,
+      "name": "Základy - prostý beton do spár a podkladů",
+      "nextPolozkaId": 13,
+      "polozky": {
+        "1": {
+          "a": 5.6,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 7543.2,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 7155.12,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 7155.12,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "Levý pás - nepodsklepený (patka)",
+          "namerFactor": 1,
+          "ob": 1.68,
+          "pl": 3.36,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "2": {
+          "a": 5.6,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 7543.2,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 7155.12,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 7155.12,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "prostřední pás - nepodsklepený  (patka)",
+          "namerFactor": 1,
+          "ob": 1.68,
+          "pl": 3.36,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "3": {
+          "a": 5.6,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 7543.2,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 7155.12,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 7155.12,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "pravý pás - nepodsklepený  (patka)",
+          "namerFactor": 1,
+          "ob": 1.68,
+          "pl": 3.36,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "4": {
+          "a": 9.6,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 12931.2,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 12265.92,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 12265.92,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "horní pás - nepodsklepený  (patka)",
+          "namerFactor": 1,
+          "ob": 2.88,
+          "pl": 5.76,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "5": {
+          "a": 9.6,
+          "b": 5.6,
+          "cena": {
+            "firmaTotal": 48276.48,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 45792.77,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 45792.77,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "podkladový beton - nepodsklepený ",
+          "namerFactor": 1,
+          "ob": 10.752,
+          "pl": 53.76,
+          "unitFactor": 1,
+          "v": 0.2
+        },
+        "6": {
+          "a": 9.6,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 12931.2,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 12265.92,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 12265.92,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "horní pás - podsklepený  (patka)",
+          "namerFactor": 1,
+          "ob": 2.88,
+          "pl": 5.76,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "7": {
+          "a": 8.7,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 11718.9,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 11115.99,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 11115.99,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "levý pás - podsklepený  (patka)",
+          "namerFactor": 1,
+          "ob": 2.61,
+          "pl": 5.22,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "8": {
+          "a": 8.7,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 11718.9,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 11115.99,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 11115.99,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "pravý pás - podsklepený  (patka)",
+          "namerFactor": 1,
+          "ob": 2.61,
+          "pl": 5.22,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "9": {
+          "a": 9.6,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 12931.2,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 12265.92,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 12265.92,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "dolní pás - podsklepený  (patka)",
+          "namerFactor": 1,
+          "ob": 2.88,
+          "pl": 5.76,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "10": {
+          "a": 11,
+          "b": 0.6,
+          "cena": {
+            "firmaTotal": 14817,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 14054.7,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 14054.7,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "prostřední stěna - podsklepený  (patka)",
+          "namerFactor": 1,
+          "ob": 3.3,
+          "pl": 6.6,
+          "unitFactor": 1,
+          "v": 0.5
+        },
+        "12": {
+          "a": 9.6,
+          "b": 8.7,
+          "cena": {
+            "firmaTotal": 75000.96,
+            "firmaUnit": 4490,
+            "nakupkaTotal": 71142.34,
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 71142.34,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "podkladový beton - podsklepený ",
+          "namerFactor": 1,
+          "ob": 16.704,
+          "pl": 83.52,
+          "unitFactor": 1,
+          "v": 0.2
+        }
+      },
+      "totalObjem": 49.656,
+      "totalPlocha": 181.68,
+      "totalUctOb": 49.656,
+      "totalUctPl": 0,
+      "ursCena": 211484.91
+    },
+    "2": {
+      "color": "#DDDDDD",
+      "firmaCena": 262880.4,
+      "ignored": false,
+      "nakupkaCena": 153726,
+      "name": "Ztracene bednění  - Základvé pásy a zdi suterénu",
+      "nextPolozkaId": 13,
+      "polozky": {
+        "1": {
+          "a": 5.6,
+          "b": 0.5,
+          "cena": {
+            "firmaTotal": 1772.4,
+            "firmaUnit": 633,
+            "nakupkaTotal": 1772.4,
+            "nakupkaUnit": 633,
+            "priceFromM2": true,
+            "ursTotal": 1772.4,
+            "ursUnit": 633
+          },
+          "ignored": false,
+          "material": "ZB300",
+          "name": "Levý pás - nepodsklepený (ZB)",
+          "namerFactor": 1,
+          "ob": 1.68,
+          "pl": 2.8,
+          "unitFactor": 1,
+          "v": 0.6
+        },
+        "2": {
+          "a": 5.6,
+          "b": 0.5,
+          "cena": {
+            "firmaTotal": 2772,
+            "firmaUnit": 990,
+            "nakupkaTotal": 1772.4,
+            "nakupkaUnit": 633,
+            "priceFromM2": true,
+            "ursTotal": 1772.4,
+            "ursUnit": 633
+          },
+          "ignored": false,
+          "material": "ZB300",
+          "name": "prostřední pás - nepodsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 1.68,
+          "pl": 2.8,
+          "unitFactor": 1,
+          "v": 0.6
+        },
+        "3": {
+          "a": 5.6,
+          "b": 0.5,
+          "cena": {
+            "firmaTotal": 2772,
+            "firmaUnit": 990,
+            "nakupkaTotal": 1772.4,
+            "nakupkaUnit": 633,
+            "priceFromM2": true,
+            "ursTotal": 1772.4,
+            "ursUnit": 633
+          },
+          "ignored": false,
+          "material": "ZB300",
+          "name": "pravý pás - nepodsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 1.68,
+          "pl": 2.8,
+          "unitFactor": 1,
+          "v": 0.6
+        },
+        "4": {
+          "a": 9.6,
+          "b": 0.5,
+          "cena": {
+            "firmaTotal": 4752,
+            "firmaUnit": 990,
+            "nakupkaTotal": 3038.4,
+            "nakupkaUnit": 633,
+            "priceFromM2": true,
+            "ursTotal": 3038.4,
+            "ursUnit": 633
+          },
+          "ignored": false,
+          "material": "ZB300",
+          "name": "horní pás - nepodsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 2.88,
+          "pl": 4.8,
+          "unitFactor": 1,
+          "v": 0.6
+        },
+        "6": {
+          "a": 9.6,
+          "b": 3,
+          "cena": {
+            "firmaTotal": 28512,
+            "firmaUnit": 990,
+            "nakupkaTotal": 29318.4,
+            "nakupkaUnit": 1018,
+            "priceFromM2": true,
+            "ursTotal": 29318.4,
+            "ursUnit": 1018
+          },
+          "ignored": false,
+          "material": "ZB500",
+          "name": "horní pás - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 17.28,
+          "pl": 28.8,
+          "unitFactor": 1,
+          "v": 0.6
+        },
+        "7": {
+          "a": 8.7,
+          "b": 3,
+          "cena": {
+            "firmaTotal": 50895,
+            "firmaUnit": 1950,
+            "nakupkaTotal": 26569.8,
+            "nakupkaUnit": 1018,
+            "priceFromM2": true,
+            "ursTotal": 26569.8,
+            "ursUnit": 1018
+          },
+          "ignored": false,
+          "material": "ZB500",
+          "name": "levý pás - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 15.66,
+          "pl": 26.1,
+          "unitFactor": 1,
+          "v": 0.6
+        },
+        "8": {
+          "a": 8.7,
+          "b": 3,
+          "cena": {
+            "firmaTotal": 50895,
+            "firmaUnit": 1950,
+            "nakupkaTotal": 26569.8,
+            "nakupkaUnit": 1018,
+            "priceFromM2": true,
+            "ursTotal": 26569.8,
+            "ursUnit": 1018
+          },
+          "ignored": false,
+          "material": "ZB500",
+          "name": "pravý pás - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 15.66,
+          "pl": 26.1,
+          "unitFactor": 1,
+          "v": 0.6
+        },
+        "9": {
+          "a": 9.6,
+          "b": 3,
+          "cena": {
+            "firmaTotal": 56160,
+            "firmaUnit": 1950,
+            "nakupkaTotal": 29318.4,
+            "nakupkaUnit": 1018,
+            "priceFromM2": true,
+            "ursTotal": 29318.4,
+            "ursUnit": 1018
+          },
+          "ignored": false,
+          "material": "ZB500",
+          "name": "dolní pás - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 17.28,
+          "pl": 28.8,
+          "unitFactor": 1,
+          "v": 0.6
+        },
+        "10": {
+          "a": 11,
+          "b": 3,
+          "cena": {
+            "firmaTotal": 64350,
+            "firmaUnit": 1950,
+            "nakupkaTotal": 33594,
+            "nakupkaUnit": 1018,
+            "priceFromM2": true,
+            "ursTotal": 33594,
+            "ursUnit": 1018
+          },
+          "ignored": false,
+          "material": "ZB500",
+          "name": "prostřední stěna - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 19.8,
+          "pl": 33,
+          "unitFactor": 1,
+          "v": 0.6
+        }
+      },
+      "totalObjem": 93.6,
+      "totalPlocha": 156,
+      "totalUctOb": 0,
+      "totalUctPl": 156,
+      "ursCena": 153726
+    }
+  },
+  "celkyOrder": [
+    "1",
+    "2"
+  ],
+  "globalData": {
+    "globalCeny": {
+      "firma": {
+        "cena": 485835.84
+      },
+      "nakupka": {
+        "cena": 365210.91000000003
+      },
+      "urs": {
+        "cena": 365210.91000000003
+      }
+    },
+    "material": {
+      "podkladovyBeton": {
+        "name": "Podkladový beton",
+        "unitCenaDefault": 30
+      },
+      "prostyBeton": {
+        "name": "Prostý beton",
+        "unitCenaDefault": 10
+      },
+      "zelezo": {
+        "name": "Betonářská ocel",
+        "unitCenaDefault": 20
+      }
+    }
+  },
+  "nextCelekId": 1
+}
