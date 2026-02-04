@@ -48,28 +48,34 @@
 <section id="material-manager">
 <div class="materialy-header">
     <h3>Správa materiálů</h3>
-    <table id="material-table">
-        <thead>
-            <tr>
-                <th>ID (klíč)</th>
-                <th>Název</th>
-                <th>Jednotková cena (nákup s DPH)</th>
-				<th>Jednotková cena (firma bez DPH)</th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
+	
+	<!-- SCROLL OBLAST -->
+    <div class="material-table-wrapper">
+		<table id="material-table">
+			<thead>
+				<tr>
+					<th>ID (klíč)</th>
+					<th>Název</th>
+					<th>Jednotková cena (nákup s DPH)</th>
+					<th>Jednotková cena (ÚRS)</th>
+					<th>Jednotková cena (firma bez DPH)</th>
+					<th></th>
+				</tr>
+			</thead>
+			<tbody></tbody>
+		</table>
 
-    <h4>Přidat nový materiál</h4>
-    <input id="newMatId" placeholder="ID (např. asfalt)" />
-    <input id="newMatName" placeholder="Název" />
-    <input id="newMatCena" type="number" placeholder="Cena" />
-	<input id="newMatCenaFirma" type="number" placeholder="Cena" />
-    <button onclick="addMaterial()">Přidat</button>
+		<h4>Přidat nový materiál</h4>
+		<input id="newMatId" placeholder="ID (např. asfalt)" />
+		<input id="newMatName" placeholder="Název" />
+		<input id="newMatCena" type="number" placeholder="Cena Nakupka s DPH" />
+		<input id="newMatCenaURS" type="number" placeholder="Cena URS" />
+		<input id="newMatCenaFirma" type="number" placeholder="Cena Firma" />
+		<button onclick="addMaterial()">Přidat</button>
 
-    <br><br>
-    <button onclick="saveMaterials()">💾 Uložit materiály</button>
+		<br><br>
+		<button onclick="saveMaterials()">💾 Uložit materiály</button>
+	</div>
 </div>	
 </section>
 
