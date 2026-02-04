@@ -25,18 +25,22 @@
 		}
 		
 		.materialy-header {
-			position: fixed; /* nebo fixed */
-			top: 150px;           /* drží se nahoře */
-			background-color: white; /* aby překrýval obsah */
-			z-index: 1000;    /* aby byl nad ostatním */
-			padding: 10px;    /* hezčí vzhled */
+			position: fixed;
+			top: 150px;
+			left: 5%;
+
+			max-height: calc(100vh - 0px); /* 👈 150px top + ~20px rezerva */
+			overflow: hidden;
+
+			background-color: white;
+			z-index: 1000;
+			padding: 10px;
 			font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 			border-radius: 12px;
-			box-shadow: 5px 5px 20px 15px rgba(0,0,0,0.6); /* lehký stín , offset x, offset y, rozptyleni , plocha , (barva, 0,6 intenzita)*/
+			box-shadow: 5px 5px 20px 15px rgba(0,0,0,0.6);
 			border: 5px solid rgba(256,0,0,0.22);
-			margin-top: 20px;
-			left: 25%;
 		}
+
 		
 		#materialsToggleBtn {
 			padding: 4px 10px;
@@ -594,6 +598,46 @@
 			box-sizing: border-box;
 			height: 28px;
 		}
+		
+		.material-table-wrapper {
+			max-height: calc(100vh - 250px); /* jemné doladění podle obsahu */
+			overflow-y: auto;
+		}
+		
+		
+		.input-tooltip {
+			position: relative;
+			display: inline-block;
+			width: 100%;
+		}
+
+		.input-tooltip::after {
+			content: attr(data-fulltext);
+			position: absolute;
+			left: 0;
+			top: 110%;
+			z-index: 3000;
+
+			background: #222;
+			color: #fff;
+			padding: 6px 10px;
+			border-radius: 6px;
+			white-space: normal;
+			max-width: 400px;
+
+			opacity: 0;
+			pointer-events: none;
+			transform: translateY(-4px);
+			transition: opacity 0.15s ease, transform 0.15s ease;
+		}
+
+		.input-tooltip:hover::after,
+		.input-tooltip:focus-within::after {
+			opacity: 1;
+			transform: translateY(0);
+		}
+
+
 
 
 
