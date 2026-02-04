@@ -1,8 +1,18 @@
 {
-  "azbest": {
-    "name": "Azbest Hnusný 1",
-    "unitCenaDefault": 120,
-    "unitCenaFirma": 120
+  "aplikaceSterku100mmVcetneZhutneniZabou": {
+    "name": "Aplikace štěrku 100mm včeně zhutnění 'žábou'(m2)",
+    "unitCenaDefault": 190,
+    "unitCenaFirma": 0
+  },
+  "bedneniZaklDesekOdstraneni": {
+    "name": "Bednění základových desek; odstranění, stavební prkna (m2)",
+    "unitCenaDefault": 250,
+    "unitCenaFirma": 650
+  },
+  "bedneniZaklDesekZrizeni": {
+    "name": "Bednění základových desek; zřízení, stavební prkna (m2)",
+    "unitCenaDefault": 750,
+    "unitCenaFirma": 4500
   },
   "betonOcel_B500B_10505": {
     "name": "betonářská ocel B500B (10 505)",
@@ -12,56 +22,113 @@
   "bouraniZaklKamen ": {
     "name": "Bourání; základové zdivo, kamenné (m3)",
     "unitCenaDefault": 900,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 2950
+  },
+  "bouraniZdenePricky400mm ": {
+    "name": "Bourání zděné příčky tl.400mm (m2)",
+    "unitCenaDefault": 381,
+    "unitCenaFirma": 2950
+  },
+  "bouraniZdiva": {
+    "name": "Bourání zdí (m3)",
+    "unitCenaDefault": 680,
+    "unitCenaFirma": 2950
+  },
+  "demoliceBetonovéPodlahy80mm ": {
+    "name": "Demolice betonové podlahy tl.80mm (m2)",
+    "unitCenaDefault": 144,
+    "unitCenaFirma": 1030
+  },
+  "drenazniPerforovanaTrubka100mmPVC ": {
+    "name": "Drenážní perforovaná trubka, tl. 100 mm, PVC (bm)",
+    "unitCenaDefault": 35,
+    "unitCenaFirma": 1040
+  },
+  "elektroinstalaceUzemneni ": {
+    "name": "Elektroinstalace; uzemnění (bm)",
+    "unitCenaDefault": 12000,
+    "unitCenaFirma": 42000
+  },
+  "geotextilie300gM2 ": {
+    "name": "Geotextilie, 300 g/m2 (m2)",
+    "unitCenaDefault": 34,
+    "unitCenaFirma": 130
   },
   "hloubeniRyhTriZeminyStrojRuka": {
     "name": "Hloubení rýh; tř. zeminy do 3, strojně a ručně (odhad 1 den práce bagrem i s přistavením)",
     "unitCenaDefault": 400,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 2240
+  },
+  "hydroizolaceGlastek4mm": {
+    "name": "Hydroizolace; 1.PP, vodorovná, GLASTEK MINERAL SPECIAL, tl. 4 mm (m2)",
+    "unitCenaDefault": 185,
+    "unitCenaFirma": 370
+  },
+  "nopovaFolie": {
+    "name": "Nopová folie (m2)",
+    "unitCenaDefault": 50,
+    "unitCenaFirma": 1260
   },
   "podkladovyBeton": {
     "name": "Podkladový Beton ??? (neco jineho nez prostý beton?) (7450 za m2)",
     "unitCenaDefault": 4259,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 7450
   },
   "prostyBeton": {
     "name": "Prostý beton c 20/25 (m3)",
     "unitCenaDefault": 4259,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 4490
   },
   "sterkPodsyp0-32mm": {
     "name": "Štěrkový podsyp; 0-32 mm (modif: m3 = 1,7t) (Ridera 24k i s dopravou do F-M)",
     "unitCenaDefault": 1000,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 4400
   },
   "sterkZasyp16-32mm": {
     "name": "Štěrkový zásyp; štěrkopísek, kámen 16-32 mm (modif: m3 = 1,6t)",
     "unitCenaDefault": 647,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 4600,
+    "unitCenaURS": 123
   },
   "ZB150": {
     "name": "Ztracené bednění 150 m2 (8ks) (chce dat 62kg zeleza do m2 tohohle bedneni)",
     "unitCenaDefault": 518,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 850,
+    "unitCenaURS": 850
   },
   "ZB300": {
     "name": "Ztracené bednění 300 m2 (8ks)",
     "unitCenaDefault": 633,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 990
   },
   "ZB400": {
     "name": "Ztracené bednění 400 m2 (8 ks)",
     "unitCenaDefault": 724,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 0
   },
   "ZB450": {
     "name": "Ztracené bednění 450 (neexistuje)",
     "unitCenaDefault": 0,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 1950
   },
   "ZB500": {
     "name": "Ztracené bednění 500 m2 (10ks)",
     "unitCenaDefault": 1018,
-    "unitCenaFirma": 120
+    "unitCenaFirma": 0
+  },
+  "ZB501": {
+    "name": "Ztracené bednění 501 m2 (10ks)",
+    "unitCenaDefault": 1018,
+    "unitCenaFirma": 0
+  },
+  "ZB502": {
+    "name": "Ztracené bednění 502 m2 (10ks)",
+    "unitCenaDefault": 1018,
+    "unitCenaFirma": 0
+  },
+  "ZB503": {
+    "name": "Ztracené bednění 503 m2 (10ks)",
+    "unitCenaDefault": 1018,
+    "unitCenaFirma": 0
   }
 }
