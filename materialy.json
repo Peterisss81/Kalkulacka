@@ -1,50 +1,67 @@
 {
   "azbest": {
     "name": "Azbest Hnusný 1",
-    "unitCenaDefault": 120
+    "unitCenaDefault": 120,
+    "unitCenaFirma": 120
   },
-  "azbest2": {
-    "name": "Azbest Hnusný 2",
-    "unitCenaDefault": 124
+  "betonOcel_B500B_10505": {
+    "name": "betonářská ocel B500B (10 505)",
+    "unitCenaDefault": 25500,
+    "unitCenaFirma": 65300
   },
-  "kohout": {
-    "name": "divoký kohout",
-    "unitCenaDefault": 1254
+  "bouraniZaklKamen ": {
+    "name": "Bourání; základové zdivo, kamenné (m3)",
+    "unitCenaDefault": 900,
+    "unitCenaFirma": 120
   },
-  "novyMatros": {
-    "name": "Nový Matroš",
-    "unitCenaDefault": 15
-  },
-  "pejsek": {
-    "name": "Pes Pes",
-    "unitCenaDefault": 5
+  "hloubeniRyhTriZeminyStrojRuka": {
+    "name": "Hloubení rýh; tř. zeminy do 3, strojně a ručně (odhad 1 den práce bagrem i s přistavením)",
+    "unitCenaDefault": 400,
+    "unitCenaFirma": 120
   },
   "podkladovyBeton": {
-    "name": "Podkladový Beton",
-    "unitCenaDefault": 30
+    "name": "Podkladový Beton ??? (neco jineho nez prostý beton?) (7450 za m2)",
+    "unitCenaDefault": 4259,
+    "unitCenaFirma": 120
   },
   "prostyBeton": {
-    "name": "Prostý beton c 20/25 (m3) s DPH ",
-    "unitCenaDefault": 4259
+    "name": "Prostý beton c 20/25 (m3)",
+    "unitCenaDefault": 4259,
+    "unitCenaFirma": 120
+  },
+  "sterkPodsyp0-32mm": {
+    "name": "Štěrkový podsyp; 0-32 mm (modif: m3 = 1,7t) (Ridera 24k i s dopravou do F-M)",
+    "unitCenaDefault": 1000,
+    "unitCenaFirma": 120
+  },
+  "sterkZasyp16-32mm": {
+    "name": "Štěrkový zásyp; štěrkopísek, kámen 16-32 mm (modif: m3 = 1,6t)",
+    "unitCenaDefault": 647,
+    "unitCenaFirma": 120
+  },
+  "ZB150": {
+    "name": "Ztracené bednění 150 m2 (8ks) (chce dat 62kg zeleza do m2 tohohle bedneni)",
+    "unitCenaDefault": 518,
+    "unitCenaFirma": 120
   },
   "ZB300": {
     "name": "Ztracené bednění 300 m2 (8ks)",
-    "unitCenaDefault": 633
+    "unitCenaDefault": 633,
+    "unitCenaFirma": 120
   },
   "ZB400": {
     "name": "Ztracené bednění 400 m2 (8 ks)",
-    "unitCenaDefault": 724
+    "unitCenaDefault": 724,
+    "unitCenaFirma": 120
   },
   "ZB450": {
-    "name": "Ztracené bednění 450",
-    "unitCenaDefault": 0
+    "name": "Ztracené bednění 450 (neexistuje)",
+    "unitCenaDefault": 0,
+    "unitCenaFirma": 120
   },
   "ZB500": {
     "name": "Ztracené bednění 500 m2 (10ks)",
-    "unitCenaDefault": 1018
-  },
-  "zelezo": {
-    "name": "Betonářská ocel",
-    "unitCenaDefault": 20
+    "unitCenaDefault": 1018,
+    "unitCenaFirma": 120
   }
 }
