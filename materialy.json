@@ -24,12 +24,24 @@
     "unitCenaDefault": 30
   },
   "prostyBeton": {
-    "name": "Prostý beton",
-    "unitCenaDefault": 10
+    "name": "Prostý beton c 20/25 (m3) s DPH ",
+    "unitCenaDefault": 4259
   },
-  "ToJeSakraDlouhyPopisekMaterialu": {
-    "name": "DDlouhý název",
-    "unitCenaDefault": 3
+  "ZB300": {
+    "name": "Ztracené bednění 300 m2 (8ks)",
+    "unitCenaDefault": 633
+  },
+  "ZB400": {
+    "name": "Ztracené bednění 400 m2 (8 ks)",
+    "unitCenaDefault": 724
+  },
+  "ZB450": {
+    "name": "Ztracené bednění 450",
+    "unitCenaDefault": 0
+  },
+  "ZB500": {
+    "name": "Ztracené bednění 500 m2 (10ks)",
+    "unitCenaDefault": 1018
   },
   "zelezo": {
     "name": "Betonářská ocel",
