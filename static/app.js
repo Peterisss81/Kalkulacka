@@ -241,7 +241,7 @@ function renderPolozka(celekId, pid) {
                     render();
                 ">
 
-            <span>v</span>
+            <span>c</span>
             <input type="number" value="${p.v}"
                 onchange="
                     data.celky['${celekId}'].polozky['${pid}'].v=+this.value;
@@ -561,10 +561,11 @@ function onMaterialChange(celekId, pid, materialKey) {
     // Pokud materiál existuje v aktuálním seznamu materials, nastav defaultní ceny
     if (materialKey && materials[materialKey]) {
         const defaultCena = materials[materialKey].unitCenaDefault || 0;
+		const URSCena = materials[materialKey].unitCenaURS || 0;
 		const firmaCena = materials[materialKey].unitCenaFirma || 0;
 
         p.cena.nakupkaUnit = defaultCena;
-        p.cena.ursUnit = defaultCena;
+        p.cena.ursUnit = URSCena;
         p.cena.firmaUnit = firmaCena;
     }
 
@@ -1071,6 +1072,7 @@ function loadJSON(event) {
 			
 			Object.values(data.celky).forEach(c => {
 				Object.values(c.polozky).forEach(p => {
+					p.cena.ursUnit ??= 0;
 					p.cena.firmaUnit ??= 0;
 				});
 			});
@@ -1331,11 +1333,14 @@ function renderMaterialTable() {
                 <td>${id}</td>
 
                 <td>
-                    <input 
-                        value="${mat.name}"
-                        onchange="materials['${id}'].name = this.value"
-                    >
-                </td>
+					<div class="input-tooltip" data-fulltext="${mat.name}">
+						<input 
+							value="${mat.name}"
+							oninput="this.parentElement.dataset.fulltext = this.value"
+							onchange="materials['${id}'].name = this.value"
+						>
+					</div>
+				</td>
 
                 <td>
                     <input 
@@ -1350,8 +1355,16 @@ function renderMaterialTable() {
 					<input 
 						type="number" 
 						step="0.1"
+						value="${mat.unitCenaURS ?? 0}"
+                        onchange="materials['${id}'].unitCenaURS = parseFloat(this.value) || 0">
+				</td>
+				
+				<td>
+					<input 
+						type="number" 
+						step="0.1"
 						value="${mat.unitCenaFirma ?? 0}"
-                        onchange="materials['${id}'].unitCenaFirma = parseFloat(this.value)">
+                        onchange="materials['${id}'].unitCenaFirma = parseFloat(this.value) || 0" >
 				</td>
 
                 <td>
@@ -1369,6 +1382,7 @@ function addMaterial() {
     const id = newMatId.value.trim();
     const name = newMatName.value.trim();
     const cena = Number(newMatCena.value);
+	const cenaURS = Number(newMatCenaURS.value);
 	const cenaFirma = Number(newMatCenaFirma.value);
 
     if (!id || !name) {
@@ -1385,6 +1399,7 @@ function addMaterial() {
     materials[id] = {
         name,
         unitCenaDefault: cena || 0,
+		unitCenaURS: cenaURS || 0,
 		unitCenaFirma: cenaFirma || 0
     };
 
