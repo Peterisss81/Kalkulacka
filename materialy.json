@@ -18,7 +18,7 @@
     "name": "Betonářská ocel B500B (10 505)",
     "unitCenaDefault": 25500,
     "unitCenaFirma": 65300,
-    "unitCenaURS": 50400
+    "unitCenaURS": 48000
   },
   "bouraniZaklKamen ": {
     "name": "Bourání; základové zdivo, kamenné (m3)",
@@ -151,3 +151,4 @@
     "unitCenaFirma": 0
   }
 }
+
