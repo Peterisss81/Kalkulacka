@@ -68,10 +68,23 @@
     "unitCenaFirma": 370,
     "unitCenaURS": 350
   },
+  "kariSit6x15x15_2x3m": {
+    "name": "Kari síť svařovaná, 6 mm oko 150×150mm 2×3m modif:0.22(ks) na přesah 2 oka, 0.25(ks) na přesah 3 oka, hmotnost  18,2kg / ks",
+    "unitCenaDefault": 476,
+    "unitCenaFirma": 65300,
+    "unitCenaURS": 0
+  },
+  "kariSit8x15x15_2x3m": {
+    "name": "Kari síť svařovaná, 8 mm oko 150×150mm 2×3m modif:0.22(ks) na přesah 2 oka, 0.25(ks) na přesah 3 oka, , hmotnost  32,4kg / ks",
+    "unitCenaDefault": 850,
+    "unitCenaFirma": 65300,
+    "unitCenaURS": 0
+  },
   "nopovaFolie": {
     "name": "Nopová folie (m2)",
     "unitCenaDefault": 50,
-    "unitCenaFirma": 1260
+    "unitCenaFirma": 1260,
+    "unitCenaURS": 300
   },
   "podkladovyBeton": {
     "name": "Podkladový Beton ??? (neco jineho nez prostý beton?) (7450 za m2)",
