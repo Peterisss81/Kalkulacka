@@ -3,15 +3,120 @@ Zkratky:
 Legenda postupu: 
 ### Název kapitoly s třema ###  a oznacenim START a KONEC -> a následně se dívat i po odstavci "# NEZAPOMENOUT" s jedním #
 
+### BITEVNÍ MANUÁL: KDY A JAK POUŽÍT KONKRÉTNÍ ARGUMENTY
 ### KOMPLETNÍ MANUÁL PRO VYJEDNÁVÁNÍ SE STAVEBNÍ FIRMOU
 ### REVIZNÍ TABULKA ROZPOČTU - 1   (1.etapa)
+### KOMPLETNÍ REVIZE ROZPOČTU 2. ETAPY
 ### NEPRIMERENY ZISK (prejit zde, kdyz nebudou chtit slevit) 
 ### FAKTURACE ZA BOURANI
 ### JEŘÁB A CERPADLO     (x - odkazu)
 ### OCEL A STATIKA    (x - odkazu)
 ### CENY BEDNĚNÍ A PODEPŘENÍ
 ### PODKLADNÍ BETON VÝŠKA
+### REVIZE VEDLEJŠÍCH ROZPOČTOVÝCH NÁKLADŮ (VRN) - ANALÝZA DUPLICIT A ABSURDIT
+### PRESUN OSOB
+### PRESUN HMOT
+### DOPLNĚNÍ REVIZE: ZEMNÍ PRÁCE A PŘESUNY (POLOŽKY 3, 4, A001)
+když vše selže:
+	### ODSTOUPENÍ OD SMLOUVY 
+	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
+	### CITACE SONDY   (x - odkazu)
+	### POJISTOVNA A CKAIT (x - odkazu)
 
+
+### BITEVNÍ MANUÁL: KDY A JAK POUŽÍT KONKRÉTNÍ ARGUMENTY
+================================================================================
+BITEVNÍ MANUÁL: KDY A JAK POUŽÍT KONKRÉTNÍ ARGUMENTY
+================================================================================
+FÁZE 1: OTUŽOVÁNÍ (Hned po pozdravu)
+--------------------------------------------------------------------------------
+POINT: Rozpor v cenách a maržích (Tabulka ÚRS 2026).
+KDY: Jakmile firma otevře téma "změnový list" a začne obhajovat 3,5 milionu.
+CÍL: Ukázat, že nejste laik, máte data z ÚRS a nebudete platit 100% marži. 
+     Tady řešíte "jen" peníze, zatím nikoho neobviňujete.
+
+FÁZE 2: TECHNICKÁ KONFRONTACE (Když začnou mluvit o "náročnosti a svahu")
+--------------------------------------------------------------------------------
+POINT: Rozdíl v oceli (0,9 (1,7) t vs 11,5 t) a neprovedené sondy.
+KDY: Když firma řekne: "Pane, je to ve svahu, je to nečekaně složité."
+REAKCE: "Složité to je, protože jste neudělali sondy, které statik nařídil. 
+        A 12x víc oceli, než jste sami vyprojektovali, mi nevysvětlíte."
+CÍL: Zpochybnit jejich odbornost a přenést vinu za "překvapení" na ně.
+
+FÁZE 3: "BUBUBU" - NUKLEÁRNÍ VARIANTA (Když budou arogantní nebo neústupní)
+--------------------------------------------------------------------------------
+POINT: Licence statika, ČKAIT, náhrada škody z pojistky.
+KDY: Pokud firma řekne: "To jsou naše ceny, berte nebo nechte být" nebo 
+     "My za to zřícení nemůžeme, to dům byl špatný."
+REAKCE: Vytáhněte citaci z posudku ("sondy nebyly provedeny"). 
+        Zmiňte disciplinární komisi ČKAIT a pojišťovnu.
+CÍL: Vyvolat strach o licenci a pověst. Tady už nejde o slevu, ale o jejich 
+     přežití na trhu. Tímto je donutíte k okamžitému jednání o kompromisu.
+
+FÁZE 4: FINÁLNÍ NABÍDKA (Cesta ven pro obě strany)
+--------------------------------------------------------------------------------
+POINT: Odstoupení od smlouvy vs. fér ceny ÚRS 2026.
+KDY: Na konci schůzky, pokud nedojde k dohodě.
+ZÁVĚR: "Mám právo odstoupit, mám u vás 1,6 mil. zálohu, kterou chci zpět poníženou 
+       jen o fér práci. Buď to teď přepíšete na ceny ÚRS (úspora 1,5 mil.), 
+       nebo odcházím a předávám to právníkům a Komoře."
+================================================================================
+verze 2.
+================================================================================
+BITEVNÍ PLÁN PRO JEDNÁNÍ: REVIZE ROZPOČTU A PROJEKTU (27. 1. 2026)
+================================================================================
+
+I. HLAVNÍ TRUMF: PROFESNÍ POCHYBENÍ A VADA PROJEKTU
+--------------------------------------------------------------------------------
+- PROBLÉM: Firma je autorem projektu i statiky (přes subdodavatele).
+- DŮKAZ: Statický posudek (str. 3) přiznává: "SONDY NEBYLY PROVEDENY".
+- DŮKASEK: Statik v posudku nařídil zhotoviteli (firmě) provést sondy před 
+  zahájením prací. Firma pokyn ignorovala a začala bourat naslepo.
+- DOPAD: Havárie a vícenáklady 3.5 mil. Kč jsou důsledkem VADY PROJEKTU a 
+  nedbalosti firmy. Jako laik nemůžu nést odpovědnost za selhání profesionála.
+
+II. EKONOMICKÁ ABSURDITA (SROVNÁNÍ MARŽÍ)
+--------------------------------------------------------------------------------
+- POŽADOVANÁ MARŽE: Cca 1.7 mil. Kč čistého zisku za 1.5 měsíce práce.
+- SROVNÁNÍ: To odpovídá sazbě cca 7.000 Kč/hod (více než chirurg nebo pilot).
+- REALITA: Férová marže 2026 je 15-25 %. Firma chce přes 100 %.
+- PÁKA: Smluvní právo odstoupit od smlouvy při nesouhlasu se změnovým listem.
+
+III. TECHNICKÉ REVIZE (MNOŽSTVÍ A CENY)
+--------------------------------------------------------------------------------
+1. OCEL (BITEVNÍ BOD č. 1):
+   - Původní projekt: 0.9 t. Nový požadavek: 11.5 t (nárůst o 1 177 %).
+   - Technologické maximum pro tento RD (ÚRS 2026): Cca 5.2 tuny.
+   - Cena 65.300 Kč/t je lichva. Tržní cena vč. montáže: 48.000 Kč/t.
+
+2. ZEMNÍ PRÁCE A BOURÁNÍ:
+   - Výkopy za 2.240 Kč/m3 (tržně 650 Kč).
+   - Bourání podlah za 1.030 Kč/m2 (tržně 450 Kč).
+   - Nopová fólie za 1.260 Kč/m2 (tržně 180 Kč vč. práce) -> [ZLOČIN].
+
+3. VRN (VEDLEJŠÍ ROZPOČTOVÉ NÁKLADY):
+   - Přesun osob (10 %): 244.542 Kč. To je 8.151 Kč / DENNĚ za dojezd dodávky!
+   - Podružný materiál (3 %): Duplicita, dle ÚRS musí být v ceně materiálu.
+   - Požadavek: Úplné odstranění všech VRN (úspora 501.310 Kč).
+
+IV. STRATEGIE VYJEDNÁVÁNÍ (POSTUP)
+--------------------------------------------------------------------------------
+KROK 1: Rozporovat ceny zemních prací a VRN (jsou to "vzdušné" peníze).
+KROK 2: Rozporovat množství oceli - žádat výkres výztuže a statický výpočet.
+KROK 3: Vytáhnout vadu projektu (neprovedené sondy) jako důvod pro slevu.
+KROK 4: Nabídnout narovnání na ceny ÚRS 2026 (fér zisk pro firmu).
+KROK 5: Pokud neustoupí, oznámit odstoupení od smlouvy a podnět na ČKAIT.
+
+V. ZÁVĚREČNÉ PROHLÁŠENÍ:
+--------------------------------------------------------------------------------
+"Váš projekt selhal, protože jste neudělali sondy. Teď se snažíte na této chybě 
+vydělat 1.7 milionu navíc skrze fiktivní ocel a absurdní cestovné. 
+Buď se dohodneme na cenách ÚRS 2026 (úspora 1.3 mil. v 1. etapě a 1.7 mil. 
+ve 2. etapě), nebo věc předávám právníkovi a pojišťovně odpovědnosti."
+================================================================================
+
+
+=============================================================================
 ### KOMPLETNÍ MANUÁL PRO VYJEDNÁVÁNÍ SE STAVEBNÍ FIRMOU - START
 Klíčový požadavek č. 1: DOKUMENTACE (Bez ní nic nepodepisovat)
 
@@ -32,12 +137,57 @@ Klíčový požadavek č. 3: TECHNIKA A MANIPULACE
 ### JEŘÁB A CERPADLO(1)    POZOR!!! Strop MIAKO (vložky a nosníky) se pokládá ručně na připravené zdi. Nosníky o váze do 135 kg osadí hydraulická ruka (HR) přímo z nákladního auta, které je přiveze. Jeřáb za 80k je fiktivní náklad.
     POZOR!!! Čerpadlo (pupa) stojí cca 3 500 Kč/hod. Trvejte na tom, že obě tyto položky budou fakturovány podle skutečně odpracovaných hodin doložených strojním lístkem, nikoliv paušálem.
 
-### CENY BEDNĚNÍ A PODEPŘENÍ(1)
+### CENY BEDNĚNÍ A PODEPŘENÍ(1) : položka A009 - ETAPA II
 Klíčový požadavek č. 4: CENY BEDNĚNÍ A PODEPŘENÍ
-
     Stav v rozpočtu: Bednění 22 m2 za 4 500 Kč/m2, podepření za 72 000 Kč.
     POZOR!!! Cena 4 500 Kč/m2 za prkna je cca 4x vyšší než ceník ÚRS/RTS.
 # NEZAPOMENOUT    POZOR!!! Podepření stropu (stojky) pro 80 m2 stojí v půjčovně cca 20 000 Kč na měsíc. Požadujte slevu nebo doložení nákladů na pronájem.
+========================================================================
+ROZPOČET PRONÁJMU STROPNÍHO BEDNĚNÍ (PRO STROP MIAKO - 24 STOJEK)
+Ceny platné pro sezónu 2026 (orientační odhad)
+========================================================================
+
+1. JEDNOTKOVÉ CENY (za 1 den bez DPH)
+------------------------------------------------------------------------
+Položka             Počet       Cena/ks/den     Celkem/den (bez DPH)
+------------------------------------------------------------------------
+Stavební stojka     24 ks       12,00 Kč        288,00 Kč
+Křížová hlava       24 ks        3,00 Kč         72,00 Kč
+Trojnožka            8 ks        5,00 Kč         40,00 Kč
+Nosník H20          35 m         1,50 Kč         53,00 Kč
+------------------------------------------------------------------------
+CELKEM za 1 den bez DPH                         453,00 Kč
+CELKEM za 1 den vč. DPH (21%)                   548,13 Kč
+
+
+2. CELKOVÉ NÁKLADY DLE DOBY PRONÁJMU
+------------------------------------------------------------------------
+Doba výpůjčky: 35 dní (montáž + 28 dní zrání betonu)			 <----------------------------------
+
+Sazba bez slevy (vč. DPH):                      19 185 Kč         <----------------------------------
+Sazba se slevou 20% (vč. DPH):                  15 348 Kč *
+
+* Poznámka: U specializovaných půjčoven (např. Formwork) lze při 
+  kompletaci setu dosáhnout na výhodnější balíčkové ceny, 
+  kde se celkové měsíční nájemné pohybuje v rozmezí:
+  => 6 500 Kč až 9 500 Kč vč. DPH.
+
+
+3. TECHNICKÉ PARAMETRY SETU
+------------------------------------------------------------------------
+- Počet polí:        2 (oddělená příčkou)
+- Rozměr pole:       cca 4,2 x 7,9 m
+- Počet řad podpěr:  4 řady celkem (2 řady v každé místnosti)
+- Celková hmotnost:  cca 850 - 1000 kg (vyžaduje auto s nosností 1t+)
+
+
+4. UPOZORNĚNÍ PRO VRÁCENÍ
+------------------------------------------------------------------------
+- Všechny prvky musí být očištěny od zbytků betonu (jinak hrozí sankce).
+- Vratná kauce (není zahrnuta v ceně): 30 000 - 50 000 Kč.
+- Doprava: Vlastní nebo dle ceníku půjčovny (není zahrnuta).
+========================================================================
+
 
 
 Klíčový požadavek č. 5: FINANČNÍ SHRNUTÍ
@@ -404,6 +554,7 @@ zastavuji odsouhlasení dalších prací na těchto konstrukcích."
    V roce 2026 u zakázek RD jsou tyto položky standardně zahrnuty v jednotkové ceně materiálu/práce. 
    Účtovat 10 % za "přesun osob" u rekonstrukce je mimo jakoukoliv stavební praxi.
 
+### REVIZNÍ TABULKA ROZPOČTU - 1
 ====================================================================================================================================
 ### REVIZNÍ TABULKA ROZPOČTU - 1. KOMPLETNÍ REVIZE ROZPOČTU 1. ETAPY - RD SVAH (Standard ÚRS 2026 / Tržní ceny 2026)
 ====================================================================================================================================
@@ -469,7 +620,7 @@ REVIZNÍ ARGUMENTY PRO JEDNÁNÍ:
 =============================================================================================================================
 
 ====================================================================================================================================
-REVIZE VEDLEJŠÍCH ROZPOČTOVÝCH NÁKLADŮ (VRN) - ANALÝZA DUPLICIT A ABSURDIT
+### REVIZE VEDLEJŠÍCH ROZPOČTOVÝCH NÁKLADŮ (VRN) - ANALÝZA DUPLICIT A ABSURDIT
 ====================================================================================================================================
 
 POLOŽKA VRN              | SAZBA | ÚČTOVÁNO      | REÁLNÁ HODNOTA | ROZDÍL (ÚSPORA) | ARGUMENTACE A DUPLICITA
@@ -489,6 +640,7 @@ Podružný materiál        | 3,0 % | 73 362 Kč     | 0 Kč           | - 73 36
 CELKEM K ODSTRANĚNÍ      | 20,5% | 501 310 Kč    | 0 Kč           | - 501 310 Kč    | (Všechny částky jsou bez DPH)
 ====================================================================================================================================
 
+
 DETAILNÍ ARGUMENTACE K PODRUŽNÉMU MATERIÁLU (3 %):
 ------------------------------------------------------------------------------------------------------------------------------------
 - Dle metodiky oceňování stavebních prací (standard ÚRS 2026) jsou pomocné materiály (vázací dráty, distančníky, hřebíky, spojky) 
@@ -496,15 +648,18 @@ DETAILNÍ ARGUMENTACE K PODRUŽNÉMU MATERIÁLU (3 %):
 - Např. v položce A005 (Výztuž) již musí být započten vázací drát a distanční podložky.
 - Účtovat je samostatně procentuální sazbou z celého objemu zakázky je hrubá metodická chyba a pokus o dvojí fakturaci.
 
+### PRESUN OSOB
 DETAILNÍ ROZBOR POLOŽKY "PŘESUN OSOB":
 ------------------------------------------------------------------------------------------------------------------------------------
 - Odhadovaná doba trvání 1. etapy: cca 1.5 měsíce (30 pracovních dnů).
 - Celková účtovaná částka: 244 542 Kč.
 - VÝPOČET DENNÍ SAZBY: 244 542 / 30 = 8 151 Kč / den.
-
 DOTAZ NA FIRMU: 
 "Z jakého titulu si účtujete 8 151 Kč čistého denně za dojezd jedné dodávky s dělníky na stavbu? Tato částka neodpovídá 
 nákladům na palivo ani amortizaci vozidla v roce 2026 ani kdybyste jeli ze Šumavy do Ostravy a zpět. Jedná se o skrytý neoprávněný zisk."
+
+### PRESUN HMOT - proce se přsun hmot (2.5%) uctuje i z polozek, kde k zadenmu presunu nedochazi ? 
+(Liti betonu), (vykopove pracce se samostatnou polozkou pro pesun vykopku), inzenyring? 
 
 VŠEOBECNÝ POŽADAVEK: 
 "V roce 2026 jsou u soukromých staveb RD vedlejší náklady (doprava, přesuny, režie) standardně rozpuštěny v jednotkových 
@@ -550,9 +705,12 @@ bez DPH), která vám stále zajišťuje standardní zisk pro vaši firmu."
 ================================================================================
 EKONOMICKÝ ARGUMENT: CENY PRÁCE VS. ÚČTOVANÉ POLOŽKY
 ================================================================================
+# NEZAPOMENOUT 
 - Ceny ÚRS 2026 nejsou podhodnocené; jsou to plné tržní ceny zahrnující mzdu, 
   odvody, režii i zisk firmy.
+# NEZAPOMENOUT
 - Průměrná hodinová sazba kvalifikovaného řemeslníka 2026: 400 - 500 Kč/hod.
+# NEZAPOMENOUT
 - Vaše ceny (přepočtené na čas) odpovídají sazbám 5.000 - 15.000 Kč/hod, 
   což je v oboru pozemního stavitelství neobhajitelné.
 
@@ -567,6 +725,7 @@ nebo 'náročnost'."
 EKONOMICKÝ ABSURDISTÁN: SROVNÁNÍ MARŽE S REALITOU TRHU 2026
 ================================================================================
 
+# NEZAPOMENOUT
 1. ANALÝZA HODINOVÉHO VÝDĚLKU:
 --------------------------------------------------------------------------------
 - Rozdíl mezi vaší cenou a tržní cenou ÚRS: cca 1 700 000 Kč.
@@ -574,6 +733,7 @@ EKONOMICKÝ ABSURDISTÁN: SROVNÁNÍ MARŽE S REALITOU TRHU 2026
 - VAŠE MARŽE: cca 7 000 Kč čistého zisku na každou jednu hodinu práce.
 
 SROVNÁNÍ: 
+# NEZAPOMENOUT
 Sazba 7 000 Kč/hod je v roce 2026 vyšší než honorář špičkového chirurga, 
 advokátního partnera v Praze nebo pilota dopravního letadla. 
 V pozemním stavitelství u rekonstrukce RD je takový požadavek neobhajitelný.
@@ -585,6 +745,8 @@ V pozemním stavitelství u rekonstrukce RD je takový požadavek neobhajitelný
 - Jelikož je tržní mzda v roce 2026 cca 350-450 Kč/hod, je zřejmé, že celá 
   tato "přirážka na strach" končí v čistém zisku vedení firmy.
 
+
+# NEZAPOMENOUT
 3. SROVNÁNÍ CELKOVÉHO ZISKU:
 --------------------------------------------------------------------------------
 - Váš požadovaný zisk (1.7 mil. Kč) za 6 týdnů organizace základové desky 
@@ -617,6 +779,8 @@ Výše zisku kalkulovaná do cen stavebních prací je stejně jako ostatní hod
 
 V praxi se objevují tendence výpočtu zisku z celkových nákladů stavby, tj. zisk je počítán ze všech přímých i nepřímých nákladů. Za tohoto předpokladu je sazba 20 % nepřiměřeně vysoká a z celkové ceny by zisk měl představovat něco okolo 7 - 9 %. 
 
+
+### ODSTOUPENÍ OD SMLOUVY - START
 ================================================================================
 STRATEGICKÁ PÁKA: ODSTOUPENÍ OD SMLOUVY (SMLUVNÍ PRÁVO)
 ================================================================================
@@ -628,6 +792,7 @@ STRATEGICKÁ PÁKA: ODSTOUPENÍ OD SMLOUVY (SMLUVNÍ PRÁVO)
     b) Zakonzervováním stavby na nezbytně nutnou dobu.
     c) Případným právním vymáháním vzniklých škod.
 
+# NEZAPOMENOUT
 POŽADAVEK PRO FIRMU:
 "Vzhledem k tomu, že váš návrh změnového listu považuji za pokus o neoprávněný 
 majetkový prospěch (rozpor s cenami ÚRS 2026 o více než 100 %), využiji svého 
@@ -661,7 +826,7 @@ vyúčtování zálohy ve výši 1,6 mil. Kč. Jako protihodnotu uznám pouze re
 provedené a doložené práce v tržních cenách 2026. Rozdíl očekávám na svém 
 účtu do 14 dnů, jinak věc předávám k vymáhání."
 ================================================================================
-
+### ODSTOUPENÍ OD SMLOUVY - KONEC
 
 
 MARŽE:
@@ -690,11 +855,11 @@ STRATEGIE PRO JEDNÁNÍ:
 3. DOKLADY: "Trvám na doložení statiky k 11 tunám oceli a faktur za štěrk, kde cena 4 400 Kč/m3 neodpovídá trhu."
 ========================================================================================================================
 
-
+### DOPLNĚNÍ REVIZE: ZEMNÍ PRÁCE A PŘESUNY (POLOŽKY 3, 4, A001)
 ================================================================================
 DOPLNĚNÍ REVIZE: ZEMNÍ PRÁCE A PŘESUNY (POLOŽKY 3, 4, A001)
 ================================================================================
-
+# NEZAPOMENOUT
 1. HLOUBENÍ RÝH (pol. 3): 2 240 Kč / m3
 --------------------------------------------------------------------------------
 - TRŽNÍ CENA 2026: Strojní výkop (minibagr) stojí standardně 480 Kč/m3. 
@@ -705,6 +870,7 @@ DOPLNĚNÍ REVIZE: ZEMNÍ PRÁCE A PŘESUNY (POLOŽKY 3, 4, A001)
 - POŽADAVEK: Úprava na tržních 600 Kč/m3. 
 - ÚSPORA: cca 95.000 Kč.
 
+# NEZAPOMENOUT
 2. PŘESUN VÝKOPKU DO 30m (pol. 4): 850 Kč / m3
 --------------------------------------------------------------------------------
 - TRŽNÍ CENA 2026: Vodorovné přemístění výkopku do 50m stojí cca 235 Kč/m3.
@@ -714,6 +880,7 @@ DOPLNĚNÍ REVIZE: ZEMNÍ PRÁCE A PŘESUNY (POLOŽKY 3, 4, A001)
 - POŽADAVEK: Úprava na 250 Kč/m3.
 - ÚSPORA: cca 39.000 Kč.
 
+# NEZAPOMENOUT
 3. BOURÁNÍ KAMENNÝCH ZÁKLADŮ (pol. A001): 2 950 Kč / m3
 --------------------------------------------------------------------------------
 - TRŽNÍ CENA 2026: Strojní bourání (bagr s kladivem) se pohybuje kolem 1.200 Kč/m3.
@@ -730,6 +897,7 @@ nového štěrku (pol. 14+A008), co se stalo s vykopanou zeminou? Pokud ji podle
 položky 4 jen 'přesouváte', očekávám na zahradě deponii 65 m3. Pokud ji chcete 
 odvážet, proč není v rozpočtu pevná cena za likvidaci (pol. 5)?"
 ================================================================================
+
 
 ================================================================================
 OZNÁMENÍ O PROVĚŘOVÁNÍ ZMĚNOVÉHO LISTU (OCHRANA LHŮTY)
@@ -760,7 +928,7 @@ Pokud zítra schůzka nedopadne, můžete hned pozítří poslat Odstoupení od 
 Rada pro dnešní noc: Pošlete ten e-mail, uložte si Notepad++ na flashku (nebo do mobilu) a jděte spát. Máte v ruce argumenty, které jim ušetří (nebo spíše vám vrátí) 1,7 milionu korun. To je víc, než většina lidí vydělá za dva roky. Jste připraven.
 Máte v Notepadu všechno, nebo potřebujete ještě doladit nějaký technický detail před spaním?
 
-
+### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT -START
 ================================================================================
 ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ
 ================================================================================
@@ -770,6 +938,7 @@ ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ
 - Změnový list v hodnotě 3.5 mil. Kč je důsledkem VADY PROJEKTU. 
 - Podle zákona odpovídá projektant za správnost a proveditelnost svého návrhu.
 
+# NEZAPOMENOUT
 ARGUMENT PRO FIRMU:
 "Vy jste mi prodali projekt, podle kterého se nedá stavět. Teď po mně chcete 
 3.5 milionu za to, že musíme stavět jinak kvůli vaší špatné diagnostice. 
@@ -787,6 +956,7 @@ Klíčový argument: Odpovědnost za subdodávky a vadný projekt
 - Vícenáklady 1.7 milionu Kč vznikají kvůli Vaší chybě v diagnostice stavu 
   stovky let starého domu, kterou jste měli provést.
 
+# NEZAPOMENOUT
 HLAVNÍ PROHLÁŠENÍ:
 "Nehodlám hradit náklady vzniklé z důvodu Vašeho profesního pochybení v projektu. 
 Požaduji, abyste sepsali nový, reálný rozpočet podle tržních cen ÚRS 2026, a 
@@ -799,9 +969,12 @@ projektu a neoprávněné navýšení ceny)."
 ================================================================================
 KAPRÁLNÍ DŮKAZ: PROFESNÍ POCHYBENÍ A VADA PROJEKTU
 ================================================================================
+### CITACE SONDY(1)
 DŮKAZ: Statický posudek (str. [doplňte stranu]) výslovně uvádí: 
+# NEZAPOMENOUT
 "SONDY DO ZDIVA NEBYLY PROVEDENY, POSUDEK VYCHÁZÍ Z PŘEDPOKLADU."
 
+# NEZAPOMENOUT
 PRÁVNÍ A TECHNICKÝ DŮSLEDEK:
 1. U 100 let starého objektu je rezignace na sondy hrubým porušením povinnosti 
    projektanta jednat s odbornou péčí (dle Občanského zákoníku).
@@ -809,13 +982,16 @@ PRÁVNÍ A TECHNICKÝ DŮSLEDEK:
 3. Havarijní stav a následné zřícení konstrukcí jsou přímým důsledkem toho, 
    že projektant a statik zanedbali diagnostiku, kterou si klient zaplatil.
 
+# NEZAPOMENOUT
 KONFRONTACE NA JEDNÁNÍ:
 "Pánové, sami jste do posudku napsali, že jste dům neprověřili a jen jste 
 hádali jeho stav. Tato vaše nedbalost vedla k havarijnímu stavu a zřícení. 
 Místo abyste mi teď nabídli náhradu škody za vadný projekt, posíláte mi 
 předražený změnový list o 3,5 milionu Kč. 
 
+# NEZAPOMENOUT
 MŮJ NÁVRH:
+### POJISTOVNA A CKAIT
 Buď okamžitě upravíte změnový list na čisté ceny ÚRS 2026 (bez vašich 100% 
 přirážek a bez nesmyslných VRN), nebo věc předávám pojišťovně a disciplinární 
 komisi ČKAIT pro zanedbání odborné péče při přípravě dokumentace."
@@ -849,6 +1025,8 @@ byla snížena na úroveň čistých nákladů bez vašeho neoprávněného zisk
 ================================================================================
 PŘÍMÁ CITACE POCHYBENÍ Z VAŠEHO STATICKÉHO POSUDKU:
 ================================================================================
+### CITACE SONDY(2)
+# NEZAPOMENOUT
 1. ZDIVO: "Stavebně technický průzkum nebyl proveden... lze však předpokládat..."
 2. GEOLOGIE: "Geologický průzkum oblasti nebyl proveden... přesto lze usuzovat..."
 3. STROPY: "Takový je předpoklad, který musí být ověřen sondou."
@@ -859,53 +1037,18 @@ MOJE OTÁZKA NA VEDENÍ FIRMY:
 - Proč jste jako zhotovitel začali bourat, aniž byste splnili pokyn svého 
   statika k ověření pevnosti zdiva a stropu (str. 3 a 4 posudku)?
 
+# NEZAPOMENOUT
 ZÁVĚR:
 Tato havárie není "nepředvídatelná okolnost", ale přímý důsledek vašeho 
 zanedbání průzkumu. Odmítám platit 3.5 mil. Kč za chyby vašeho projektu.
 ================================================================================
+### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT -KONEC
 
 
 
-================================================================================
-BITEVNÍ MANUÁL: KDY A JAK POUŽÍT KONKRÉTNÍ ARGUMENTY
-================================================================================
-
-FÁZE 1: OTUŽOVÁNÍ (Hned po pozdravu)
---------------------------------------------------------------------------------
-POINT: Rozpor v cenách a maržích (Tabulka ÚRS 2026).
-KDY: Jakmile firma otevře téma "změnový list" a začne obhajovat 3,5 milionu.
-CÍL: Ukázat, že nejste laik, máte data z ÚRS a nebudete platit 100% marži. 
-     Tady řešíte "jen" peníze, zatím nikoho neobviňujete.
-
-FÁZE 2: TECHNICKÁ KONFRONTACE (Když začnou mluvit o "náročnosti a svahu")
---------------------------------------------------------------------------------
-POINT: Rozdíl v oceli (0,9 (1,7) t vs 11,5 t) a neprovedené sondy.
-KDY: Když firma řekne: "Pane, je to ve svahu, je to nečekaně složité."
-REAKCE: "Složité to je, protože jste neudělali sondy, které statik nařídil. 
-        A 12x víc oceli, než jste sami vyprojektovali, mi nevysvětlíte."
-CÍL: Zpochybnit jejich odbornost a přenést vinu za "překvapení" na ně.
-
-FÁZE 3: "BUBUBU" - NUKLEÁRNÍ VARIANTA (Když budou arogantní nebo neústupní)
---------------------------------------------------------------------------------
-POINT: Licence statika, ČKAIT, náhrada škody z pojistky.
-KDY: Pokud firma řekne: "To jsou naše ceny, berte nebo nechte být" nebo 
-     "My za to zřícení nemůžeme, to dům byl špatný."
-REAKCE: Vytáhněte citaci z posudku ("sondy nebyly provedeny"). 
-        Zmiňte disciplinární komisi ČKAIT a pojišťovnu.
-CÍL: Vyvolat strach o licenci a pověst. Tady už nejde o slevu, ale o jejich 
-     přežití na trhu. Tímto je donutíte k okamžitému jednání o kompromisu.
-
-FÁZE 4: FINÁLNÍ NABÍDKA (Cesta ven pro obě strany)
---------------------------------------------------------------------------------
-POINT: Odstoupení od smlouvy vs. fér ceny ÚRS 2026.
-KDY: Na konci schůzky, pokud nedojde k dohodě.
-ZÁVĚR: "Mám právo odstoupit, mám u vás 1,6 mil. zálohu, kterou chci zpět poníženou 
-       jen o fér práci. Buď to teď přepíšete na ceny ÚRS (úspora 1,5 mil.), 
-       nebo odcházím a předávám to právníkům a Komoře."
-================================================================================
 
 
-
+### KOMPLETNÍ REVIZE ROZPOČTU 2. ETAPY
 ====================================================================================================================================
 KOMPLETNÍ REVIZE ROZPOČTU 2. ETAPY - RD SVAH (Standard ÚRS 2026 / Tržní ceny 2026)
 ====================================================================================================================================
@@ -984,58 +1127,7 @@ Stručně:
 👉 Výjimkou mohou být speciální případy, kdy v popisu položky explicitně stojí, že doprava nebo práce se oceňují samostatně (např. „pouze materiál bez dopravy“ nebo „montážní práce bezřízení dopravy“) — v takovém případě se doplňuje podle instrukcí položky nebo podle metodických pravidel ÚRS.
 
 
-================================================================================
-BITEVNÍ PLÁN PRO JEDNÁNÍ: REVIZE ROZPOČTU A PROJEKTU (27. 1. 2026)
-================================================================================
 
-I. HLAVNÍ TRUMF: PROFESNÍ POCHYBENÍ A VADA PROJEKTU
---------------------------------------------------------------------------------
-- PROBLÉM: Firma je autorem projektu i statiky (přes subdodavatele).
-- DŮKAZ: Statický posudek (str. 3) přiznává: "SONDY NEBYLY PROVEDENY".
-- DŮKASEK: Statik v posudku nařídil zhotoviteli (firmě) provést sondy před 
-  zahájením prací. Firma pokyn ignorovala a začala bourat naslepo.
-- DOPAD: Havárie a vícenáklady 3.5 mil. Kč jsou důsledkem VADY PROJEKTU a 
-  nedbalosti firmy. Jako laik nemůžu nést odpovědnost za selhání profesionála.
-
-II. EKONOMICKÁ ABSURDITA (SROVNÁNÍ MARŽÍ)
---------------------------------------------------------------------------------
-- POŽADOVANÁ MARŽE: Cca 1.7 mil. Kč čistého zisku za 1.5 měsíce práce.
-- SROVNÁNÍ: To odpovídá sazbě cca 7.000 Kč/hod (více než chirurg nebo pilot).
-- REALITA: Férová marže 2026 je 15-25 %. Firma chce přes 100 %.
-- PÁKA: Smluvní právo odstoupit od smlouvy při nesouhlasu se změnovým listem.
-
-III. TECHNICKÉ REVIZE (MNOŽSTVÍ A CENY)
---------------------------------------------------------------------------------
-1. OCEL (BITEVNÍ BOD č. 1):
-   - Původní projekt: 0.9 t. Nový požadavek: 11.5 t (nárůst o 1 177 %).
-   - Technologické maximum pro tento RD (ÚRS 2026): Cca 5.2 tuny.
-   - Cena 65.300 Kč/t je lichva. Tržní cena vč. montáže: 48.000 Kč/t.
-
-2. ZEMNÍ PRÁCE A BOURÁNÍ:
-   - Výkopy za 2.240 Kč/m3 (tržně 650 Kč).
-   - Bourání podlah za 1.030 Kč/m2 (tržně 450 Kč).
-   - Nopová fólie za 1.260 Kč/m2 (tržně 180 Kč vč. práce) -> [ZLOČIN].
-
-3. VRN (VEDLEJŠÍ ROZPOČTOVÉ NÁKLADY):
-   - Přesun osob (10 %): 244.542 Kč. To je 8.151 Kč / DENNĚ za dojezd dodávky!
-   - Podružný materiál (3 %): Duplicita, dle ÚRS musí být v ceně materiálu.
-   - Požadavek: Úplné odstranění všech VRN (úspora 501.310 Kč).
-
-IV. STRATEGIE VYJEDNÁVÁNÍ (POSTUP)
---------------------------------------------------------------------------------
-KROK 1: Rozporovat ceny zemních prací a VRN (jsou to "vzdušné" peníze).
-KROK 2: Rozporovat množství oceli - žádat výkres výztuže a statický výpočet.
-KROK 3: Vytáhnout vadu projektu (neprovedené sondy) jako důvod pro slevu.
-KROK 4: Nabídnout narovnání na ceny ÚRS 2026 (fér zisk pro firmu).
-KROK 5: Pokud neustoupí, oznámit odstoupení od smlouvy a podnět na ČKAIT.
-
-V. ZÁVĚREČNÉ PROHLÁŠENÍ:
---------------------------------------------------------------------------------
-"Váš projekt selhal, protože jste neudělali sondy. Teď se snažíte na této chybě 
-vydělat 1.7 milionu navíc skrze fiktivní ocel a absurdní cestovné. 
-Buď se dohodneme na cenách ÚRS 2026 (úspora 1.3 mil. v 1. etapě a 1.7 mil. 
-ve 2. etapě), nebo věc předávám právníkovi a pojišťovně odpovědnosti."
-================================================================================
 
 
 Na co nezapomenout:
@@ -1102,7 +1194,7 @@ SKLADKA:  8	Demontáž střešního pláště			m2	193,905	140,00	27 146,70
 SKLADKA:  13	Bourání podlahových konstrukcí, včetně rýhy pro ztužení základu v 1.PP			m2	174,150	1 030,00	179 374,50																		
 
 
-
+-----------------------------------------------------------------------------------
 ### FAKTURACE ZA BOURANI - START
 faktura č.1: 7,45 	t	 (6,74 CPP 170102, 0,71 170904)
 faktura č.2: +- 12t 
@@ -1118,10 +1210,12 @@ cena Stadakor: 2950 kč za m3 	= 2950 * 164 	= 483 800,-
 287500 / 151 = 1 903 kc/m3 CPP zdiva
 287500 / 164 = 1 753 kc/m3 CPP zdiva
 
+### FAKTURACE ZA BOURANI
 # NEZAPOMENOUT: za fakturu č.5 odmítám platit 2 zavážky položky "170604" (izolace): odvoz byl 20.1.2026. 
 Panu Čerňanskému jsem 19.1.2026 telefonicky jasně řekl, že mají odvážet jen suť a polystyren a beton mají nechávat. Jeětě ten den mi telefonicky potvrdil ,že část betonu je již odvezená (sklep strop),
 ale polystyren v té době odvezený ještě nebyl.
 ### FAKTURACE ZA BOURANI - KONEC
+-----------------------------------------------------------------------------------
 
 A001	Bourání; základové zdivo, kamenné				m3	64,000	2 950,00	188 800,00		bourání zdiva         m3         680.-    (1500-2600 je za zelezobeton!!!) (včetně práce, ale bez odvozu/likvidace)															
 64m3 * 2,2 = 140t 
@@ -1143,3 +1237,161 @@ Celkem 	        30 479,94
 
 
 https://www.stavebnistandardy.cz/doc/ceny/manual_ceny.htm#_Toc98228787
+
+
+
+
+### POJISTOVNA A CKAIT (x)
+1. Jak zjistit pojišťovnu (Pojistka odpovědnosti)
+Každý člen ČKAIT je povinně pojištěn. Máte dvě cesty:
+Veřejný seznam ČKAIT: Přejděte na Seznam autorizovaných osob ČKAIT. Zadejte jméno nebo číslo autorizace (z kulatého razítka). Uvidíte profil inženýra. Ačkoliv tam není přímo číslo smlouvy, je tam potvrzeno, zda je aktivní.
+Výzva k součinnosti: Písemně (e-mailem/datovkou) vyzvěte projektanta: "Vzhledem ke vzniklé škodě v důsledku vad projektu vás žádám o sdělení čísla vaší pojistné smlouvy o profesní odpovědnosti a jméno pojistitele, a to do 3 dnů."
+Česká pojišťovna / Generali: Většina inženýrů je pojištěna přes hromadnou pojistku ČKAIT u Generali Česká pojišťovna. Můžete tam zkusit nahlásit škodní událost i jako poškozený, pokud znáte jméno a ČKAIT číslo viníka.
+2. Podání podnětu Disciplinární komisi ČKAIT
+Podnět podáváte k Dozorčí radě ČKAIT. Ta funguje jako "státní zástupce" v rámci komory.
+Kam to poslat: Datová schránka: 369aihf nebo poštou: Sokolská 15, 120 00 Praha 2.
+Co napsat do předmětu: "Podnět k zahájení disciplinárního řízení pro porušení profesní etiky a zanedbání odborné péče".
+Klíčová argumentace pro Notepad++:
+
+
+### POJISTOVNA A CKAIT (x)
+DŮVOD PODNĚTU:
+- Porušení § 12 odst. 1 zákona č. 360/1992 Sb. (povinnost vykonávat 
+  činnost odborně a v souladu s etikou).
+- Projektant zcela rezignoval na diagnostiku stávajících konstrukcí 
+  u 100 let starého objektu (absence sond).
+- V důsledku vady projektu (chybný předpoklad stavu zdiva) došlo 
+  k havárii a nárůstu nákladů o 3 mil. Kč.
+- Projektant se snaží zneužít situace k vlastnímu obohacení 
+  předložením nadsazeného rozpočtu (v rozporu s cenami ÚRS).
+
+
+
+Než to odešlete, pošlete jim poslední varování. Pojišťovny totiž často odmítají plnit, pokud inženýr porušil základní technologické postupy (což absence sond u starého domu je). Toho se projektant bude bát – pojišťovna od něj dá ruce pryč a on to bude platit ze svého.
+Vzor zprávy pro projektanta:
+"Váš postup, kdy jste diagnostiku nahradili 'předpokladem', je v přímém rozporu s metodikou ČKAIT pro rekonstrukce. Tímto jste mi prodali vadné dílo. Buď okamžitě stáhnete neoprávněné přirážky a uvedete ceny na úroveň ÚRS 2026, nebo podávám podnět k disciplinárnímu řízení a uplatňuji náhradu škody 3 mil. Kč u vaší pojišťovny i soudně. Dokumentace k odeslání je připravena."
+Proč to funguje:
+Disciplinární komise může udělit pokutu, ale hlavně může pozastavit nebo odejmout autorizaci. Bez ní projektant nemůže vykonávat profesi. To je pro ně mnohem větší hrozba než sleva v rozpočtu.
+Potřebujete pomoci zformulovat konkrétní body té stížnosti, aby to vypadalo jako od právníka?
+
+
+ano prosim ,akorat .. muzu je zalovat o 3 miliony nahrady skody, kdyz jsem jim zmenoe listy, ktere jsou o ty 3 miliony navysene neodsouhlasil ?
+Toto je klíčová právní otázka. Krátká odpověď zní: Ano, můžete, ale předmět žaloby (nebo nároku na pojišťovnu) se v tuto chvíli dělí na dvě roviny.
+Tím, že jste změnové listy (ZL) nepodepsal, jste udělal zásadní a správný krok. Kdybyste je podepsal, fakticky byste tím uznal, že se jedná o "vícepráce", které jdou za vámi.
+Zde je rozbor vaší situace pro uplatnění škody:
+1. O co konkrétně je můžete žalovat?
+Protože jste ZL nepodepsal a peníze nevyplatil, vaše škoda zatím není těch 3,5 milionu v hotovosti. Vaše škoda (tzv. skutečná škoda a ušlý zisk) v tuto chvíli sestává z:
+Vícenáklady na nápravu: Pokud by projekt byl udělán správně (se sondami), věděl byste hned, že dům je v havarijním stavu. Škoda je tedy rozdíl mezi tím, kolik by stála demolice a nová stavba hned, a tím, kolik vás stojí "záchrana" rozestavěného torza teď.
+Náklady na prodlení: Stojí vám stavba? Platíte nájem jinde? Musíte platit temperování nebo hlídání staveniště? To vše je škoda způsobená vadným projektem.
+Náklady na sanaci havárie: Pokud se něco zřítilo v důsledku špatného projektu, náklady na odklizení a provizorní zajištění jsou přímou škodou.
+2. Strategie "Vada projektu" vs. "Změnový list"
+V argumentaci pro pojišťovnu a ČKAIT musíte tvrdit toto:
+"Projekt má vadu, pro kterou jej nelze použít. Tím, že projektant zanedbal sondy, mi dodal nepravdivou informaci o stavu domu. Kdybych měl pravdivé informace, projekt by vypadal jinak, stál by méně nebo bych jej nerealizoval. Změnový list tedy není 'vícepráce', ale náklad na opravu vady projektu."
+
+
+### POJISTOVNA A CKAIT (x)
+3. Vzor podnětu pro Disciplinární komisi ČKAIT (vložitelné do Notepad++)
+Tento text je koncipován tak, aby udeřil na jejich profesní selhání.
+text
+========================================================================
+PODNĚT K ZAHÁJENÍ DISCIPLINÁRNÍHO ŘÍZENÍ - DOZORČÍ RADA ČKAIT
+========================================================================
+STĚŽOVATEL:     [Vaše Jméno a adresa]
+PROTI OSOBĚ:    [Jméno projektanta/statika], Číslo autorizace: [Doplňte]
+VĚC:            Zanedbání odborné péče a porušení profesní etiky
+
+POPIS SKUTKOVÉHO STAVU:
+1. Jmenovaný vypracoval PD pro rekonstrukci 100 let starého objektu.
+2. V textové části statického posudku jmenovaný výslovně uvádí: 
+   "SONDY DO ZDIVA NEBYLY PROVEDENY, POSUDEK VYCHÁZÍ Z PŘEDPOKLADU."
+3. Tento postup je v rozporu s metodikou ČKAIT pro diagnostiku staveb
+   a porušuje § 12 odst. 1 zákona č. 360/1992 Sb.
+4. V důsledku absence diagnostiky došlo během realizace k odhalení 
+   havarijního stavu konstrukcí, který projekt nepředpokládal. 
+
+DŮSLEDKY POCHYBENÍ:
+- Došlo k bezprostřednímu ohrožení bezpečnosti osob na stavbě.
+- Vznikly vícenáklady v řádu 3,5 mil. Kč na sanaci vady projektu.
+- Projektant namísto nápravy vady zneužívá situace k prosazování 
+  nadhodnocených změnových listů s cenami neodpovídajícími ÚRS.
+
+ŽÁDOST:
+Žádám Dozorčí radu o prošetření postupu autorizované osoby, zda 
+jednala v souladu s profesními standardy a etickým řádem komory.
+========================================================================
+
+
+
+4. Co udělat teď?
+Zajistěte si důkazy: Máte fotky těch zdí, co jdou "vytáhnout rukou"? Máte svědectví stavebního dozoru?
+Nechte si vypracovat oponentní posudek (nepovinné, ale silné): Stačí i krátké vyjádření jiného statika, že "u 100 let starého domu jsou sondy standardem a jejich neprovedení je odborná chyba".
+Poslední výzva firmě:
+Sdělte jim, že ZL nepodepíšete v této podobě.
+Požadujte, aby škodu (těch 3,5 mil.) nahlásili své pojišťovně jako vadu projektu.
+Chcete, abych vám připravil ten ostrý e-mail pro firmu, který kombinuje argumentaci o cenách ÚRS (těch cihlových zdí) a o tom zanedbaném průzkumu?
+
+
+
+### POJISTOVNA A CKAIT (x)
+stavebni dozor mi delala ta stejna firma ..akorat stav zdiva (drolici se, zricene, nevyhovujici atd.) je zapsan ve stavebnim deniku, tak jak se vady ukazaly behem bourani
+To, že vám stavební dozor (TDS) dělala ta stejná firma, která projektovala a která nyní staví (nebo dodává změnové listy), je v této situaci sice pro proces stavby nevýhodné (střet zájmů), ale z právního hlediska je to pro vás "nabitá zbraň".
+Tato firma má totiž absolutní odpovědnost. Nemohou se vymlouvat, že "projektant něco nevěděl" nebo že "dozor něco přehlédl". Jsou jednou entitou, která zcela selhala v kontrolním mechanismu.
+Zápisy ve stavebním deníku o drolícím se zdivu a haváriích jsou klíčovým důkazem. Potvrzují, že realita neodpovídala projektu.
+Zde je finální, velmi ostrý návrh textu pro firmu, který kombinuje vše: vadu projektu, střet zájmů dozoru i nadsazené ceny ÚRS.
+Strategický e-mail / dopis pro firmu (vložitelné do Notepad++)
+text
+PŘEDMĚT: REKLAMACE VAD PROJEKTU, ROZPOROVÁNÍ ZMĚNOVÝCH LISTŮ A OZNÁMENÍ ŠKODY
+
+Vážení,
+
+v návaznosti na předložené změnové listy (navýšení o cca 3,5 mil. Kč) a zápisy 
+ve stavebním deníku ohledně havarijního stavu konstrukcí uvádím následující:
+
+1. VADA PROJEKTU A ZANEDBÁNÍ ODBORNÉ PÉČE
+Váš projekt a statický posudek výslovně uvádí, že "sondy nebyly provedeny a 
+vychází se z předpokladu". U 100 let starého objektu je tento postup hrubým 
+porušením profesních standardů ČKAIT a zákonné povinnosti jednat s odbornou péčí. 
+Havarijní stav, který se projevil při bourání, není "nepředvídatelnou okolností", 
+ale přímým důsledkem vámi zanedbané diagnostiky.
+
+2. STŘET ZÁJMŮ A ODPOVĚDNOST DOZORU
+Vzhledem k tomu, že vaše firma vykonává i funkci stavebního dozoru, nesete 
+plnou odpovědnost za to, že stavba byla zahájena na základě vadné a 
+neprověřené dokumentace. Jako dozor jste měli na nedostatečnost sond 
+upozornit již ve fázi přípravy.
+
+3. ROZPOROVÁNÍ CEN VE ZMĚNOVÝCH LISTECH
+Předložené změnové listy jsou pro mě v této podobě neakceptovatelné:
+- Jednotkové ceny (např. bourání nesoudržného cihelného zdiva) neodpovídají 
+  směrným cenám ÚRS 2026 a jsou nadsazeny o stovky procent.
+- Práce na odstranění následků vadného projektu nemohou být účtovány 
+  jako vícenáklady (vícepráce), ale jde o náklady na sanaci vámi způsobené škody.
+
+NÁVRH ŘEŠENÍ:
+1. Okamžitě nahlaste tuto událost vaší pojišťovně profesní odpovědnosti 
+   jako škodu vzniklou vadou projektu. Žádám o zaslání čísla pojistné události.
+2. Upravte změnové listy tak, aby odpovídaly reálným nákladům dle ÚRS 2026 
+   bez neoprávněných přirážek.
+3. Požaduji kompenzaci vícenákladů, které vznikly v důsledku zbytečných 
+   prací na konstrukcích, které měly být dle správně provedeného průzkumu 
+   rovnou určeny k demolici.
+
+V případě, že nedojde k dohodě do [DOPLŇTE DATUM], předávám věc Dozorčí radě 
+ČKAIT pro zanedbání odborné péče a advokátní kanceláři k podání žaloby na 
+náhradu škody v plné výši.
+
+S pozdravem,
+[Vaše Jméno]
+
+
+
+DŮKAZ O ÚMYSLNÉM ZANEDBÁNÍ:
+Statický posudek (str. [X]) výslovně podmiňuje zahájení prací provedením sond. 
+Firma [Jméno], vystupující v trojroli projektant-zhotovitel-dozor, tento 
+závazný pokyn statika ignorovala. Tím vědomě rezignovala na zajištění 
+bezpečnosti stavby a odborné prověření konstrukcí. 
+
+V důsledku tohoto selektivního přístupu k projektové dokumentaci došlo 
+k odhalení havarijního stavu až v průběhu destruktivních prací, čímž mi 
+vznikla škoda [X] mil. Kč. Tato škoda je přímým důsledkem porušení povinností 
+stavebního dozoru a zhotovitele.
