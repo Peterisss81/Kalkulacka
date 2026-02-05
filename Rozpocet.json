@@ -444,25 +444,25 @@
           "v": 0.45
         },
         "13": {
-          "name": "Nenosná stěna (asi u schodů)",
-          "ignored": false,
-          "material": "ZB150",
           "a": 8,
           "b": 1,
-          "v": 1,
-          "pl": 8,
-          "ob": 8,
-          "unitFactor": 1,
-          "namerFactor": 1,
           "cena": {
-            "nakupkaUnit": 518,
-            "ursUnit": 600,
+            "firmaTotal": 6800,
             "firmaUnit": 850,
             "nakupkaTotal": 4144,
+            "nakupkaUnit": 518,
+            "priceFromM2": true,
             "ursTotal": 4800,
-            "firmaTotal": 6800,
-            "priceFromM2": true
-          }
+            "ursUnit": 600
+          },
+          "ignored": false,
+          "material": "ZB150",
+          "name": "Nenosná stěna (asi u schodů)",
+          "namerFactor": 1,
+          "ob": 8,
+          "pl": 8,
+          "unitFactor": 1,
+          "v": 1
         }
       },
       "totalObjem": 76.22,
@@ -488,8 +488,8 @@
             "nakupkaTotal": 751.29,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 751.29,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -509,8 +509,8 @@
             "nakupkaTotal": 751.29,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 751.29,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -530,8 +530,8 @@
             "nakupkaTotal": 751.29,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 751.29,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -551,8 +551,8 @@
             "nakupkaTotal": 1287.92,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 1287.92,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -572,8 +572,8 @@
             "nakupkaTotal": 20422.76,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 20422.76,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -593,8 +593,8 @@
             "nakupkaTotal": 18508.12,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 18508.12,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -614,8 +614,8 @@
             "nakupkaTotal": 18508.12,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 18508.12,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -635,8 +635,8 @@
             "nakupkaTotal": 20422.76,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 20422.76,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -656,8 +656,8 @@
             "nakupkaTotal": 23401.08,
             "nakupkaUnit": 4259,
             "priceFromM2": false,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 23401.08,
+            "ursUnit": 4259
           },
           "ignored": false,
           "material": "prostyBeton",
@@ -669,32 +669,32 @@
           "v": 0.45
         },
         "13": {
-          "name": "Nenosná stěna (asi u schodů)",
-          "ignored": false,
-          "material": "prostyBeton",
           "a": 8,
           "b": 1,
-          "v": 0.15,
-          "pl": 8,
-          "ob": 1.2,
-          "unitFactor": 0.07,
-          "namerFactor": 1,
           "cena": {
-            "nakupkaUnit": 4259,
-            "ursUnit": 0,
+            "firmaTotal": 377.16,
             "firmaUnit": 4490,
             "nakupkaTotal": 357.76,
-            "ursTotal": 0,
-            "firmaTotal": 377.16,
-            "priceFromM2": false
-          }
+            "nakupkaUnit": 4259,
+            "priceFromM2": false,
+            "ursTotal": 357.76,
+            "ursUnit": 4259
+          },
+          "ignored": false,
+          "material": "prostyBeton",
+          "name": "Nenosná stěna (asi u schodů)",
+          "namerFactor": 1,
+          "ob": 1.2,
+          "pl": 8,
+          "unitFactor": 0.07,
+          "v": 0.15
         }
       },
       "totalObjem": 69.42,
       "totalPlocha": 164,
       "totalUctOb": 24.6918,
       "totalUctPl": 0,
-      "ursCena": 0
+      "ursCena": 105162.38999999998
     },
     "4": {
       "color": "#C4E4FF",
@@ -894,25 +894,25 @@
           "v": 0.45
         },
         "14": {
-          "name": "Nenosná stěna (asi u schodů)",
-          "ignored": false,
-          "material": "betonOcel_B500B_10505",
           "a": 8,
           "b": 1,
-          "v": 1,
-          "pl": 8,
-          "ob": 8,
-          "unitFactor": 0.062,
-          "namerFactor": 1,
           "cena": {
-            "nakupkaUnit": 25500,
-            "ursUnit": 50400,
+            "firmaTotal": 32388.8,
             "firmaUnit": 65300,
             "nakupkaTotal": 12648,
+            "nakupkaUnit": 25500,
+            "priceFromM2": true,
             "ursTotal": 24998.4,
-            "firmaTotal": 32388.8,
-            "priceFromM2": true
-          }
+            "ursUnit": 50400
+          },
+          "ignored": false,
+          "material": "betonOcel_B500B_10505",
+          "name": "Nenosná stěna (asi u schodů)",
+          "namerFactor": 1,
+          "ob": 8,
+          "pl": 8,
+          "unitFactor": 0.062,
+          "v": 1
         }
       },
       "totalObjem": 76.22,
@@ -979,50 +979,71 @@
       "ursCena": 26083.199999999997
     },
     "6": {
-      "name": "Bourání",
-      "ignored": false,
       "color": "#F5DEB3",
+      "firmaCena": 188800,
+      "ignored": false,
+      "nakupkaCena": 57600,
+      "name": "Bourání",
+      "nextPolozkaId": 2,
       "polozky": {
         "1": {
-          "name": "Nová položka",
-          "ignored": false,
-          "material": "bouraniZaklKamen ",
           "a": 64,
           "b": 1,
-          "v": 1,
-          "pl": 64,
-          "ob": 64,
-          "unitFactor": 1,
-          "namerFactor": 1,
           "cena": {
-            "nakupkaUnit": 900,
-            "ursUnit": 850,
+            "firmaTotal": 188800,
             "firmaUnit": 2950,
             "nakupkaTotal": 57600,
+            "nakupkaUnit": 900,
+            "priceFromM2": false,
             "ursTotal": 54400,
-            "firmaTotal": 188800,
-            "priceFromM2": false
-          }
+            "ursUnit": 850
+          },
+          "ignored": false,
+          "material": "bouraniZaklKamen ",
+          "name": "Nová položka",
+          "namerFactor": 1,
+          "ob": 64,
+          "pl": 64,
+          "unitFactor": 1,
+          "v": 1
         }
       },
-      "nextPolozkaId": 2,
-      "totalPlocha": 64,
       "totalObjem": 64,
-      "totalUctPl": 0,
+      "totalPlocha": 64,
       "totalUctOb": 64,
-      "nakupkaCena": 57600,
-      "ursCena": 54400,
-      "firmaCena": 188800
+      "totalUctPl": 0,
+      "ursCena": 54400
     },
     "8": {
       "color": "#C4E4FF",
-      "firmaCena": 552648.59,
+      "firmaCena": 46753.2,
       "ignored": false,
-      "nakupkaCena": 215818.14,
+      "nakupkaCena": 23376.6,
       "name": "Hydroizolace - netuším kam příjde.",
       "nextPolozkaId": 15,
       "polozky": {
         "1": {
+          "a": 5.6,
+          "b": 1.5,
+          "cena": {
+            "firmaTotal": 3108,
+            "firmaUnit": 370,
+            "nakupkaTotal": 1554,
+            "nakupkaUnit": 185,
+            "priceFromM2": true,
+            "ursTotal": 2940,
+            "ursUnit": 350
+          },
+          "ignored": false,
+          "material": "hydroizolaceGlastek4mm",
+          "name": "Levý pás - nepodsklepený (ZB)",
+          "namerFactor": 1,
+          "ob": 2.52,
+          "pl": 8.4,
+          "unitFactor": 1,
+          "v": 0.3
+        },
+        "2": {
           "a": 5.6,
           "b": 0.5,
           "cena": {
@@ -1031,32 +1052,11 @@
             "nakupkaTotal": 26.94,
             "nakupkaUnit": 185,
             "priceFromM2": true,
-            "ursTotal": 0,
-            "ursUnit": 0
+            "ursTotal": 50.96,
+            "ursUnit": 350
           },
-          "ignored": false,
+          "ignored": true,
           "material": "hydroizolaceGlastek4mm",
-          "name": "Levý pás - nepodsklepený (ZB)",
-          "namerFactor": 1,
-          "ob": 0.84,
-          "pl": 2.8,
-          "unitFactor": 0.052,
-          "v": 0.3
-        },
-        "2": {
-          "a": 5.6,
-          "b": 0.5,
-          "cena": {
-            "firmaTotal": 9507.68,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 3712.8,
-            "nakupkaUnit": 25500,
-            "priceFromM2": true,
-            "ursTotal": 7338.24,
-            "ursUnit": 50400
-          },
-          "ignored": false,
-          "material": "betonOcel_B500B_10505",
           "name": "prostřední pás - nepodsklepený  (ZB)",
           "namerFactor": 1,
           "ob": 0.84,
@@ -1066,144 +1066,144 @@
         },
         "3": {
           "a": 5.6,
-          "b": 0.5,
+          "b": 1.5,
           "cena": {
-            "firmaTotal": 9507.68,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 3712.8,
-            "nakupkaUnit": 25500,
+            "firmaTotal": 3108,
+            "firmaUnit": 370,
+            "nakupkaTotal": 1554,
+            "nakupkaUnit": 185,
             "priceFromM2": true,
-            "ursTotal": 7338.24,
-            "ursUnit": 50400
+            "ursTotal": 2940,
+            "ursUnit": 350
           },
           "ignored": false,
-          "material": "betonOcel_B500B_10505",
+          "material": "hydroizolaceGlastek4mm",
           "name": "pravý pás - nepodsklepený  (ZB)",
           "namerFactor": 1,
-          "ob": 0.84,
-          "pl": 2.8,
-          "unitFactor": 0.052,
+          "ob": 2.52,
+          "pl": 8.4,
+          "unitFactor": 1,
           "v": 0.3
         },
         "4": {
           "a": 9.6,
-          "b": 0.5,
+          "b": 1.5,
           "cena": {
-            "firmaTotal": 16298.88,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 6364.8,
-            "nakupkaUnit": 25500,
+            "firmaTotal": 5328,
+            "firmaUnit": 370,
+            "nakupkaTotal": 2664,
+            "nakupkaUnit": 185,
             "priceFromM2": true,
-            "ursTotal": 12579.84,
-            "ursUnit": 50400
+            "ursTotal": 5040,
+            "ursUnit": 350
           },
           "ignored": false,
-          "material": "betonOcel_B500B_10505",
+          "material": "hydroizolaceGlastek4mm",
           "name": "horní pás - nepodsklepený  (ZB)",
           "namerFactor": 1,
-          "ob": 1.44,
-          "pl": 4.8,
-          "unitFactor": 0.052,
+          "ob": 4.32,
+          "pl": 14.4,
+          "unitFactor": 1,
           "v": 0.3
         },
         "6": {
           "a": 9.6,
-          "b": 3,
+          "b": 3.7,
           "cena": {
-            "firmaTotal": 97793.28,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 38188.8,
-            "nakupkaUnit": 25500,
+            "firmaTotal": 13142.4,
+            "firmaUnit": 370,
+            "nakupkaTotal": 6571.2,
+            "nakupkaUnit": 185,
             "priceFromM2": true,
-            "ursTotal": 75479.04,
-            "ursUnit": 50400
+            "ursTotal": 12432,
+            "ursUnit": 350
           },
           "ignored": false,
-          "material": "betonOcel_B500B_10505",
+          "material": "hydroizolaceGlastek4mm",
           "name": "horní pás - podsklepený  (ZB)",
           "namerFactor": 1,
-          "ob": 12.96,
-          "pl": 28.8,
-          "unitFactor": 0.052,
+          "ob": 15.984,
+          "pl": 35.52,
+          "unitFactor": 1,
           "v": 0.45
         },
         "7": {
           "a": 8.7,
-          "b": 3,
+          "b": 3.7,
           "cena": {
-            "firmaTotal": 88625.16,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 34608.6,
-            "nakupkaUnit": 25500,
+            "firmaTotal": 11910.3,
+            "firmaUnit": 370,
+            "nakupkaTotal": 5955.15,
+            "nakupkaUnit": 185,
             "priceFromM2": true,
-            "ursTotal": 68402.88,
-            "ursUnit": 50400
+            "ursTotal": 11266.5,
+            "ursUnit": 350
           },
           "ignored": false,
-          "material": "betonOcel_B500B_10505",
+          "material": "hydroizolaceGlastek4mm",
           "name": "levý pás - podsklepený  (ZB)",
           "namerFactor": 1,
-          "ob": 11.745,
-          "pl": 26.1,
-          "unitFactor": 0.052,
+          "ob": 14.486,
+          "pl": 32.19,
+          "unitFactor": 1,
           "v": 0.45
         },
         "8": {
           "a": 8.7,
-          "b": 3,
+          "b": 1.5,
           "cena": {
-            "firmaTotal": 88625.16,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 34608.6,
-            "nakupkaUnit": 25500,
+            "firmaTotal": 4828.5,
+            "firmaUnit": 370,
+            "nakupkaTotal": 2414.25,
+            "nakupkaUnit": 185,
             "priceFromM2": true,
-            "ursTotal": 68402.88,
-            "ursUnit": 50400
+            "ursTotal": 4567.5,
+            "ursUnit": 350
           },
           "ignored": false,
-          "material": "betonOcel_B500B_10505",
+          "material": "hydroizolaceGlastek4mm",
           "name": "pravý pás - podsklepený  (ZB)",
           "namerFactor": 1,
-          "ob": 11.745,
-          "pl": 26.1,
-          "unitFactor": 0.052,
+          "ob": 5.872,
+          "pl": 13.05,
+          "unitFactor": 1,
           "v": 0.45
         },
         "9": {
           "a": 9.6,
-          "b": 3,
+          "b": 1.5,
           "cena": {
-            "firmaTotal": 97793.28,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 38188.8,
-            "nakupkaUnit": 25500,
+            "firmaTotal": 5328,
+            "firmaUnit": 370,
+            "nakupkaTotal": 2664,
+            "nakupkaUnit": 185,
             "priceFromM2": true,
-            "ursTotal": 75479.04,
-            "ursUnit": 50400
+            "ursTotal": 5040,
+            "ursUnit": 350
           },
           "ignored": false,
-          "material": "betonOcel_B500B_10505",
+          "material": "hydroizolaceGlastek4mm",
           "name": "dolní pás - podsklepený  (ZB)",
           "namerFactor": 1,
-          "ob": 12.96,
-          "pl": 28.8,
-          "unitFactor": 0.052,
+          "ob": 6.48,
+          "pl": 14.4,
+          "unitFactor": 1,
           "v": 0.45
         },
         "10": {
           "a": 11,
           "b": 3,
           "cena": {
-            "firmaTotal": 112054.8,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 43758,
-            "nakupkaUnit": 25500,
+            "firmaTotal": 634.92,
+            "firmaUnit": 370,
+            "nakupkaTotal": 317.46,
+            "nakupkaUnit": 185,
             "priceFromM2": true,
-            "ursTotal": 86486.4,
-            "ursUnit": 50400
+            "ursTotal": 600.6,
+            "ursUnit": 350
           },
-          "ignored": false,
-          "material": "betonOcel_B500B_10505",
+          "ignored": true,
+          "material": "hydroizolaceGlastek4mm",
           "name": "prostřední stěna - podsklepený  (ZB)",
           "namerFactor": 1,
           "ob": 14.85,
@@ -1212,32 +1212,257 @@
           "v": 0.45
         },
         "14": {
-          "name": "Nenosná stěna (asi u schodů)",
-          "ignored": false,
-          "material": "betonOcel_B500B_10505",
           "a": 8,
           "b": 1,
-          "v": 1,
-          "pl": 8,
-          "ob": 8,
-          "unitFactor": 0.062,
-          "namerFactor": 1,
           "cena": {
-            "nakupkaUnit": 25500,
-            "ursUnit": 50400,
-            "firmaUnit": 65300,
-            "nakupkaTotal": 12648,
-            "ursTotal": 24998.4,
-            "firmaTotal": 32388.8,
-            "priceFromM2": true
-          }
+            "firmaTotal": 183.52,
+            "firmaUnit": 370,
+            "nakupkaTotal": 91.76,
+            "nakupkaUnit": 185,
+            "priceFromM2": true,
+            "ursTotal": 173.6,
+            "ursUnit": 350
+          },
+          "ignored": true,
+          "material": "hydroizolaceGlastek4mm",
+          "name": "Nenosná stěna (asi u schodů)",
+          "namerFactor": 1,
+          "ob": 8,
+          "pl": 8,
+          "unitFactor": 0.062,
+          "v": 1
         }
       },
-      "totalObjem": 76.22,
-      "totalPlocha": 164,
+      "totalObjem": 52.182,
+      "totalPlocha": 126.36,
       "totalUctOb": 0,
-      "totalUctPl": 8.608,
-      "ursCena": 426504.95999999996
+      "totalUctPl": 126.36,
+      "ursCena": 44226
+    },
+    "9": {
+      "color": "#C4E4FF",
+      "firmaCena": 159213.6,
+      "ignored": false,
+      "nakupkaCena": 6318,
+      "name": "Nopová folie",
+      "nextPolozkaId": 15,
+      "polozky": {
+        "1": {
+          "a": 5.6,
+          "b": 1.5,
+          "cena": {
+            "firmaTotal": 10584,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 420,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 2520,
+            "ursUnit": 300
+          },
+          "ignored": false,
+          "material": "nopovaFolie",
+          "name": "Levý pás - nepodsklepený (ZB)",
+          "namerFactor": 1,
+          "ob": 2.52,
+          "pl": 8.4,
+          "unitFactor": 1,
+          "v": 0.3
+        },
+        "2": {
+          "a": 5.6,
+          "b": 0.5,
+          "cena": {
+            "firmaTotal": 183.46,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 7.28,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 43.68,
+            "ursUnit": 300
+          },
+          "ignored": true,
+          "material": "nopovaFolie",
+          "name": "prostřední pás - nepodsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 0.84,
+          "pl": 2.8,
+          "unitFactor": 0.052,
+          "v": 0.3
+        },
+        "3": {
+          "a": 5.6,
+          "b": 1.5,
+          "cena": {
+            "firmaTotal": 10584,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 420,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 2520,
+            "ursUnit": 300
+          },
+          "ignored": false,
+          "material": "nopovaFolie",
+          "name": "pravý pás - nepodsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 2.52,
+          "pl": 8.4,
+          "unitFactor": 1,
+          "v": 0.3
+        },
+        "4": {
+          "a": 9.6,
+          "b": 1.5,
+          "cena": {
+            "firmaTotal": 18144,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 720,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 4320,
+            "ursUnit": 300
+          },
+          "ignored": false,
+          "material": "nopovaFolie",
+          "name": "horní pás - nepodsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 4.32,
+          "pl": 14.4,
+          "unitFactor": 1,
+          "v": 0.3
+        },
+        "6": {
+          "a": 9.6,
+          "b": 3.7,
+          "cena": {
+            "firmaTotal": 44755.2,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 1776,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 10656,
+            "ursUnit": 300
+          },
+          "ignored": false,
+          "material": "nopovaFolie",
+          "name": "horní pás - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 15.984,
+          "pl": 35.52,
+          "unitFactor": 1,
+          "v": 0.45
+        },
+        "7": {
+          "a": 8.7,
+          "b": 3.7,
+          "cena": {
+            "firmaTotal": 40559.4,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 1609.5,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 9657,
+            "ursUnit": 300
+          },
+          "ignored": false,
+          "material": "nopovaFolie",
+          "name": "levý pás - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 14.486,
+          "pl": 32.19,
+          "unitFactor": 1,
+          "v": 0.45
+        },
+        "8": {
+          "a": 8.7,
+          "b": 1.5,
+          "cena": {
+            "firmaTotal": 16443,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 652.5,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 3915,
+            "ursUnit": 300
+          },
+          "ignored": false,
+          "material": "nopovaFolie",
+          "name": "pravý pás - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 5.872,
+          "pl": 13.05,
+          "unitFactor": 1,
+          "v": 0.45
+        },
+        "9": {
+          "a": 9.6,
+          "b": 1.5,
+          "cena": {
+            "firmaTotal": 18144,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 720,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 4320,
+            "ursUnit": 300
+          },
+          "ignored": false,
+          "material": "nopovaFolie",
+          "name": "dolní pás - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 6.48,
+          "pl": 14.4,
+          "unitFactor": 1,
+          "v": 0.45
+        },
+        "10": {
+          "a": 11,
+          "b": 3,
+          "cena": {
+            "firmaTotal": 2162.16,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 85.8,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 514.8,
+            "ursUnit": 300
+          },
+          "ignored": true,
+          "material": "nopovaFolie",
+          "name": "prostřední stěna - podsklepený  (ZB)",
+          "namerFactor": 1,
+          "ob": 14.85,
+          "pl": 33,
+          "unitFactor": 0.052,
+          "v": 0.45
+        },
+        "14": {
+          "a": 8,
+          "b": 1,
+          "cena": {
+            "firmaTotal": 624.96,
+            "firmaUnit": 1260,
+            "nakupkaTotal": 24.8,
+            "nakupkaUnit": 50,
+            "priceFromM2": true,
+            "ursTotal": 148.8,
+            "ursUnit": 300
+          },
+          "ignored": true,
+          "material": "nopovaFolie",
+          "name": "Nenosná stěna (asi u schodů)",
+          "namerFactor": 1,
+          "ob": 8,
+          "pl": 8,
+          "unitFactor": 0.062,
+          "v": 1
+        }
+      },
+      "totalObjem": 52.182,
+      "totalPlocha": 126.36,
+      "totalUctOb": 0,
+      "totalUctPl": 126.36,
+      "ursCena": 37908
     }
   },
   "celkyOrder": [
@@ -1247,18 +1472,19 @@
     "4",
     "5",
     "6",
-    "8"
+    "8",
+    "9"
   ],
   "globalData": {
     "globalCeny": {
       "firma": {
-        "cena": 2050466.71
+        "cena": 1703784.9200000002
       },
       "nakupka": {
-        "cena": 985697.68
+        "cena": 799574.14
       },
       "urs": {
-        "cena": 1310842.27
+        "cena": 1071633.7
       }
     },
     "material": {
