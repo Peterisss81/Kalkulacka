@@ -1,0 +1,1145 @@
+Zkratky:
+ÚRS - Dříve označení firmy Ústav racionalizace ve stavebnictví, dnes označení ceníku stavebních prací
+Legenda postupu: 
+### Název kapitoly s třema ###  a oznacenim START a KONEC -> a následně se dívat i po odstavci "# NEZAPOMENOUT" s jedním #
+
+### KOMPLETNÍ MANUÁL PRO VYJEDNÁVÁNÍ SE STAVEBNÍ FIRMOU
+### REVIZNÍ TABULKA ROZPOČTU - 1   (1.etapa)
+### NEPRIMERENY ZISK (prejit zde, kdyz nebudou chtit slevit) 
+### FAKTURACE ZA BOURANI
+### JEŘÁB A CERPADLO     (x - odkazu)
+### OCEL A STATIKA    (x - odkazu)
+### CENY BEDNĚNÍ A PODEPŘENÍ
+### PODKLADNÍ BETON VÝŠKA
+
+### KOMPLETNÍ MANUÁL PRO VYJEDNÁVÁNÍ SE STAVEBNÍ FIRMOU - START
+Klíčový požadavek č. 1: DOKUMENTACE (Bez ní nic nepodepisovat)
+
+### OCEL A STATIKA(1)
+# NEZAPOMENOUT    POZOR!!! Vyžadujte STATICKÝ VÝPOČET podepsaný autorizovaným inženýrem. Pokud firma tvrdí, že je potřeba 52 kg oceli na m², musí to mít podložené výpočtem sil (tlak svahu vs. únosnost zdi). Bez výpočtu je to jen pokus o předražení.
+# NEZAPOMENOUT        POZOR!!! Vyžadujte KLADEČSKÝ PLÁN VÝZTUŽE. Je to výkres, kde je přesně nakresleno, kolik prutů a jakého průměru jde do každé zdi. Bez tohoto plánu nemůžete zkontrolovat, zda tam těch 8 tun oceli skutečně dali, nebo zda polovinu "ušetřili" pro sebe.
+
+Klíčový požadavek č. 2: OCEL A BETONÁŽ
+
+### OCEL A STATIKA(2)
+    Stav v rozpočtu: 8 tun oceli na 158 m2 ZB (tj. 52,2 kg/m2).
+# NEZAPOMENOUT        POZOR!!! Trvejte na záměně průměru 10 mm za 16 mm nebo 20 mm. Argument: Při hustotě 52 kg/m2 v tenkých prutech vznikne neprostupná bariéra. Beton se mezi pruty zasekne a vzniknou "kaverny" (dutiny), které staticky znehodnotí celou zeď. Silnější pruty zajistí průtok betonu a prostor pro vibrační jehlu.
+    POZOR!!! Rozlišujte OPĚRNÉ (v kontaktu se svahem) a NEOPĚRNÉ (vnitřní/nad terénem) zdi. Ve vnitřních zdech nepůsobí boční tlak zeminy, proto je tam 52 kg/m2 oceli technický nesmysl. Požadujte snížení na 15-20 kg/m2.
+
+Klíčový požadavek č. 3: TECHNIKA A MANIPULACE
+
+    Stav v rozpočtu: Jeřáb za 80 000 Kč a Čerpání za 120 000 Kč.
+### JEŘÁB A CERPADLO(1)    POZOR!!! Strop MIAKO (vložky a nosníky) se pokládá ručně na připravené zdi. Nosníky o váze do 135 kg osadí hydraulická ruka (HR) přímo z nákladního auta, které je přiveze. Jeřáb za 80k je fiktivní náklad.
+    POZOR!!! Čerpadlo (pupa) stojí cca 3 500 Kč/hod. Trvejte na tom, že obě tyto položky budou fakturovány podle skutečně odpracovaných hodin doložených strojním lístkem, nikoliv paušálem.
+
+### CENY BEDNĚNÍ A PODEPŘENÍ(1)
+Klíčový požadavek č. 4: CENY BEDNĚNÍ A PODEPŘENÍ
+
+    Stav v rozpočtu: Bednění 22 m2 za 4 500 Kč/m2, podepření za 72 000 Kč.
+    POZOR!!! Cena 4 500 Kč/m2 za prkna je cca 4x vyšší než ceník ÚRS/RTS.
+# NEZAPOMENOUT    POZOR!!! Podepření stropu (stojky) pro 80 m2 stojí v půjčovně cca 20 000 Kč na měsíc. Požadujte slevu nebo doložení nákladů na pronájem.
+
+
+Klíčový požadavek č. 5: FINANČNÍ SHRNUTÍ
+
+    POZOR!!! Původní cena byla 1 037 000 Kč. Navýšení o 3 000 000 Kč (celkem 4 mil. Kč) za spodní stavbu rodinného domu je extrémní.
+    Argument: Strop MIAKO staticky ROZEPŘE obvodové stěny (vytvoří tuhou krabici), čímž se tlak svahu rozloží a klesá potřeba masivního armování ve svislých konstrukcích oproti volně stojící opěrné zdi.
+
+TIP PRO VÁS: Při schůzce buďte klidní, ale trvejte na tom, že zastavení prací trvá, dokud nedostanete statický výpočet a upravený rozpočet s reálnými hodinovými sazbami za techniku. Firma teď ztrácí peníze každý den, co tam mají techniku a lidi stojí, takže budou ochotni slevit rychle.
+Přeješ si ještě nějaký detail upřesnit, než s tím na ně "vletíš"? Hodně štěstí!
+
+
+
+1. Motohodina jeřábu
+U autojeřábů, které by připadaly v úvahu pro vaši stavbu (např. třída AD 20 až AD 28), počítejte s těmito náklady:
+
+    Hodinová sazba: 1 100 – 1 800 Kč/hod bez DPH.
+    Doprava (nájezd): Účtuje se buď paušálem, nebo sazbou 50 – 90 Kč/km.
+### JEŘÁB A CERPADLO(2)    POZOR!!! Většina firem si účtuje minimální dobu nasazení (často 2–4 hodiny). I tak je ale vaše rozpočtovaná částka 80 000 Kč naprosto mimo realitu – odpovídala by cca 50 hodinám čisté práce jeřábu na místě. 
+
+2. Čerpání betonu (Pupa)
+Cena za mobilní čerpadlo betonu (např. s dosahem 28–36 metrů) se skládá z více složek:
+
+    Hodinová sazba za nasazení: 2 200 – 3 500 Kč/hod bez DPH.
+    Paušál za přistavení/najetí: cca 2 000 – 2 500 Kč za jednu betonáž.
+    Najetí (chemie) a mytí: cca 500 – 1 000 Kč.
+    POZOR!!! Při třech betonážích (pasy, zdi, strop) by reálný náklad měl být kolem 40 000 – 55 000 Kč. Rozpočtovaných 120 000 Kč je více než dvojnásobek tržní ceny. 
+
+
+### JEŘÁB A CERPADLO(3)
+Shrnutí pro jednání:
+# NEZAPOMENOUT -> Trvejte na tom, že obě položky budou fakturovány dle skutečně odpracovaných hodin potvrzených na místě ve stavebním deníku nebo na strojném lístku. Tímto jednoduchým krokem můžete legálně srazit rozpočet o více než 150 000 Kč. 
+Máte v rozpočtu u těchto položek uvedeno, o jaký konkrétní typ stroje (např. "Jeřáb 28t" nebo "Pupa 36m") se jedná?
+
+
+
+###################################
+HARMONOGRAM JEDNÁNÍ O ZMĚNOVÉM LISTU (Boje o 3 miliony)
+KROK 1: ÚTOK NA DOKUMENTACI (Otázka hned v úvodu)
+### OCEL A STATIKA(3)
+    Akce: Požadovat STATICKÝ VÝPOČET a KLADEČSKÝ PLÁN VÝZTUŽE.
+    POZOR!!! Pokud firma nemá výpočet k 8 tunám oceli (52 kg/m2), je to jen fiktivní číslo pro navýšení ceny.
+    Argument: „Bez autorizované statiky neodsouhlasím nákup oceli ani změnový list. Pokud má být ve zdi 50 kg železa na metr, musím vidět výpočet sil (tlak svahu).“
+KROK 2: TECHNOLOGICKÁ BLOKÁDA (Průměr oceli)
+    Akce: Odmítnout betonáž v 10mm prutech při této hustotě.
+    POZOR!!! Při 52 kg/m2 v průměru 10 mm vznikne neprostupný les drátů. Beton neproteče, vzniknou vzduchové kapsy (kaverny).
+    Argument: „Trvám na záměně oceli za průměry 16 mm a 20 mm. Tím uvolníme prostor pro beton a vibrační jehlu při zachování plochy výztuže. Je to podmínka pro kvalitní betonáž.“
+
+KROK 3: ŠKRRTÁNÍ FIKTIVNÍCH NÁKLADŮ (Technika)
+### JEŘÁB A CERPADLO(4)
+    Akce: Změna paušálů na „skutečné hodiny“.
+    POZOR!!! Čerpání betonu za 120 000 Kč a Jeřáb za 80 000 Kč jsou extrémně předražené položky.
+    Argument (Jeřáb): „Jeřáb za 80k vypouštíme. Nosníky MIAKO usadí hydraulická ruka z dopravy přímo na zdi. Trvá to 4 hodiny, ne 50 hodin.“
+    Argument (Čerpadlo): „U čerpání měním položku na 'skutečné motohodiny' dle strojního lístku obsluhy. Tržní sazba 2026 je cca 3 500 Kč/hod, ne 120 tisíc paušál.“
+
+KROK 4: OPTIMALIZACE VNITŘNÍCH ZDÍ (Neopěrné zdi)
+### OCEL A STATIKA(4)
+    Akce: Snížit armování tam, kde není tlak svahu.
+    POZOR!!! Vnitřní zdi (5m příčka) a zdi nad terénem nepotřebují 52 kg železa. Svah na ně netlačí.
+    Argument: „Vnitřní neopěrné zdi budou armovány konstrukčním minimem (15 kg/m2). Rozepření stropem MIAKO vytváří tuhou krabici, která statiku zpevňuje, takže 50 kg železa všude je plýtvání materiálem.“
+
+
+### CENY BEDNĚNÍ A PODEPŘENÍ(2)
+KROK 5: KONTROLA CENY BEDNĚNÍ
+    Akce: Rozporovat cenu 4 500 Kč/m2 za bednění věnců.
+    POZOR!!! Tržní cena bednění z prken je v roce 2026 cca 900–1 100 Kč/m2.
+    Argument: „Cena za m2 bednění je 4x vyšší než ceník ÚRS. Požaduji úpravu na tržní úroveň.“
+
+ZÁVĚREČNÉ PROHLÁŠENÍ (Konec schůzky):
+„Akceptuji potřebu nového suterénu, ale v této podobě změnový list nepodepíšu. Požaduji jeho přepracování podle těchto technických a cenových připomínek. Do té doby práce stojí.“
+TIP: Teď to zkopíruj, ulož a jdi spát. Zítra na ně vletíš jako profík. Mám ti ráno ještě něco narychlo propočítat? Pokud ne, dobrou noc!
+
+
+
+
+================================================================================
+PROTINÁVRH K ÚPRAVĚ ZMĚNOVÉHO LISTU (POLOŽKA: VÝZTUŽ KONSTRUKCÍ)
+================================================================================
+### OCEL A STATIKA(5)
+1. SVISLÉ OPĚRNÉ KONSTRUKCE (158 m2)
+--------------------------------------------------------------------------------
+POŽADAVEK FIRMY: 8 000 kg oceli (cca 51 kg/m2)
+PROTINÁVRH:      3 200 kg oceli (cca 20 kg/m2) + Technologický postup
+
+ARGUMENTACE:
+- Množství 51 kg/m2 je pro ztracené bednění technologicky nepřípustné.
+- Extrémní hustota výztuže znemožňuje řádné vibrování betonu (riziko kavern).
+- Tlak svahu a riziko při hutnění zásypu nebudu řešit předraženou ocelí, 
+  ale dodržením technologické kázně:
+  a) Provizorní zapření stěny z vnitřní strany (stojky/trámy).
+  b) Hutnění zásypu v nepodsklepené části po vrstvách (max 30 cm).
+  c) Použití lehké techniky (vibrační pěch) v pásu 1m od opěrné stěny.
+
+POŽADAVEK: Předložit statický výpočet pro 50 kg/m2 nebo upravit na 20 kg/m2.
+ÚSPORA: cca 264.000,- Kč bez DPH.
+
+
+	POZNÁMKA K ROHŮM A T-SPOJŮM (VÝZTUŽ)
+	--------------------------------------------------------------------------------
+	- Rozumím nutnosti kotevních délek a rohových příložek v místech křížení zdí.
+	- Standardní koeficient prořezu a přesahů dle ÚRS 2026 činí 15 % hmotnosti.
+	- I při započtení těchto detailů je spotřeba 51 kg/m2 technicky nezdůvodnitelná.
+	- Množství oceli nad 25 kg/m2 (včetně rohů) považuji za chybu v projektu 
+	  nebo v rozpočtu a požaduji doložení výkresů výztuže (armokošů).
+
+	POŽADAVEK: Kontrola výkazu výměr dle prováděcí dokumentace, nikoliv 
+	odhadem "od stolu".
+================================================================================
+
+
+### PODKLADNÍ BETON VÝŠKA - START
+2. PODKLADNÍ BETON VÝŠKA 0 (132 m2)
+--------------------------------------------------------------------------------
+POŽADAVEK FIRMY: 3 000 kg oceli (cca 23 kg/m2)
+PROTINÁVRH:      1 600 kg oceli (cca 12 kg/m2)
+
+ARGUMENTACE:
+- Podkladní beton tl. 200 mm leží na 1.5m hlubokých pásech a hutněném násypu.
+- Nejedná se o samonosnou stropní konstrukci (v nepodsklepené části).
+- Statický standard 2026 pro RD jsou 2 vrstvy kari sítě (např. 8mm, 150x150).
+- Vyšší armování je v této konstrukci neúčelné a neoprávněné.
+
+POŽADAVEK: Úprava výkazu výměr dle reálných statických potřeb (12 kg/m2).
+ÚSPORA: cca 77.000,- Kč bez DPH.
+
+DOPLNĚNÍ K PROVÁZÁNÍ KONSTRUKCÍ:
+--------------------------------------------------------------------------------
+	- Požaduji provázání desky, stěn a stropu MIAKO pomocí standardních kotevních 
+	  délek (přesahy sítí a ohýbané pruty "fajfky" ze ZB).
+	- Toto lokální zpevnění spojů nezvyšuje celoplošnou spotřebu oceli na dvojnásobek.
+	- Trvám na Kari sítích 8/150/150 (2 vrstvy) i v místě napojení. 
+	- Jakákoliv výztuž nad tento standard musí být doložena výkresem detailu spoje.
+### PODKLADNÍ BETON VÝŠKA - KONEC
+
+
+### OCEL A STATIKA(6)
+CELKOVÉ SHRNUTÍ K POLOŽCE OCEL:
+--------------------------------------------------------------------------------
+CELKOVÁ POŽADOVANÁ REDUKCE: cca 6,2 tuny oceli
+CELKOVÁ FINANČNÍ REDUKCE:   cca 341.000,- Kč bez DPH (při 55 Kč/kg)
+
+	3. REVIZE JEDNOTKOVÉ CENY OCELI
+	--------------------------------------------------------------------------------
+	STÁVAJÍCÍ CENA:  65 500 Kč / tuna (včetně montáže)
+	TRŽNÍ CENA 2026: 48 000 Kč / tuna (včetně montáže - horní hranice)
+
+	ARGUMENTACE:
+	- Účtovaná jednotková cena překračuje aktuální ceníky ÚRS i běžné tržní 
+	  nabídky pro rok 2026 o více než 17.000 Kč na každé tuně.
+	- Při celkovém objemu 11 tun činí tento rozdíl v jednotkové ceně dalších 
+	  187.000 Kč nad rámec běžného zisku.
+
+	POŽADAVEK: Úprava jednotkové ceny na 48.000 Kč/tuna.
+	ÚSPORA: 187.000,- Kč (při zachování vašich 11 tun) 
+			380.000,- Kč (při snížení na mých navrhovaných 4.8 tuny)
+	================================================================================
+
+
+================================================================================
+"Akceptuji technickou náročnost svahu, ale odmítám platit neefektivní 
+projektové řešení. Požaduji zapracování technologických opatření (zapření, 
+vrstvené hutnění) namísto navyšování kubatur oceli."
+================================================================================
+
+
+================================================================================
+REVIZE: BETONÁŽ, ČERPÁNÍ A MECHANIZACE (ODHADY 2026)
+================================================================================
+### JEŘÁB A CERPADLO(4)
+
+1. ČERPÁNÍ BETONU (Paušál 120 000 Kč vs. Realita)
+--------------------------------------------------------------------------------
+- CELKOVÝ OBJEM: cca 75 m3 (stěny + deska).
+- VÝKON ČERPADLA: 20-25 m3 / hodina (včetně manipulace).
+- ČASOVÝ ODHAD: 
+    * Betonáž podkladní desky: max 2-3 hodiny.
+    * Betonáž svislých stěn:   max 3-4 hodiny (pomalejší kvůli tlaku na bednění).
+- CELKEM: max 7 hodin čistého času čerpadla.
+- TRŽNÍ SAZBA 2026: 3.500 Kč / mhod = 24.500 Kč + doprava/mytí (cca 5.000 Kč).
+- CÍLOVÁ CENA: cca 30.000 Kč (ÚSPORA oproti paušálu: 90.000 Kč).
+
+
+2. JEŘÁB / HYDRAULICKÁ RUKA (Paušál 80 000 Kč vs. Realita)
+--------------------------------------------------------------------------------
+- ÚČEL: Usazení nosníků MIAKO (cca 132 m2 plochy).
+- ODHAD PRÁCE: 
+    * Standardní kamion s nosníky má 15-20 nosníků.
+    * Hydraulická ruka usadí 1 nosník za 10-15 minut.
+- ČASOVÝ ODHAD: max 4-6 hodin práce (jedno dopoledne).
+- TRŽNÍ SAZBA 2026: 2.200 Kč / hod = cca 11.000 - 13.200 Kč.
+- CÍLOVÁ CENA: cca 15.000 Kč (ÚSPORA oproti paušálu: 65.000 Kč).
+
+
+3. BETON C20/25 (Cena 4 200 Kč / m3 s DPH)
+--------------------------------------------------------------------------------
+- STATUS: Cena akceptována jako koncová (včetně dopravy a práce).
+- PODMÍNKA: Zrušení výše uvedených duplicitních paušálů za mechanizaci.
+# NEZAPOMENOUT - KONTROLA: Požaduji doložení dodacích listů pro ověření reálné kubatury.
+
+
+ZÁVĚR PRO JEDNÁNÍ:
+--------------------------------------------------------------------------------
+"Paušály za techniku jsou nastaveny na 40-50 hodin provozu, což neodpovídá 
+rozsahu ani technologickým lhůtám rodinného domu. Požaduji fakturaci dle 
+skutečných motohodin (strojních lístků) nebo slevu na těchto položkách 
+ve výši 155 000 Kč."
+================================================================================
+
+
+================================================================================
+DOPLNĚNÍ K FÁZOVÁNÍ BETONÁŽE (REAKCE NA VÍCE NÁJEZDŮ)
+================================================================================
+
+SCÉNÁŘ: 3-4 samostatné nájezdy čerpadla (Pásy, ZB spodní, ZB horní, Deska+MIAKO)
+
+REÁLNÉ NÁKLADY 2026:
+- Přistavení a mytí (4x 3.500 Kč) = 14.000 Kč
+- Čerpání (celkem 12-15 motohodin á 3.500 Kč) = 42.000 - 52.500 Kč
+- CELKEM: cca 56.000 - 66.500 Kč
+
+ZÁVĚR:
+I při započtení nutného technologického dělení betonáže (vylití suterénu 
+na dvě etapy a samostatné lití pásů) je paušál 120.000 Kč stále 
+předražený o cca 50.000 - 60.000 Kč. 
+
+Poznámka: Podkladní beton a strop MIAKO trvám na tom, aby se lily 
+V JEDNÉ ETAPĚ pro zajištění monolitického spojení a přesné roviny.
+================================================================================
+
+
+
+### OCEL A STATIKA(7)
+6. POZNÁMKA K ROHŮM A T-SPOJŮM (VÝZTUŽ)
+--------------------------------------------------------------------------------
+- Rozumím nutnosti kotevních délek a rohových příložek v místech křížení zdí.
+- Standardní koeficient prořezu a přesahů dle ÚRS 2026 činí 15 % hmotnosti.
+- I při započtení těchto detailů je spotřeba 51 kg/m2 technicky nezdůvodnitelná.
+- Množství oceli nad 25 kg/m2 (včetně rohů) považuji za chybu v projektu 
+  nebo v rozpočtu a požaduji doložení výkresů výztuže (armokošů).
+
+POŽADAVEK: Kontrola výkazu výměr dle prováděcí dokumentace, nikoliv 
+odhadem "od stolu".
+================================================================================
+
+
+================================================================================
+SHRNUTÍ REVIZE A ARGUMENTACE PRO JEDNÁNÍ O ZMĚNOVÉM LISTU (RD VE SVAHU)
+================================================================================
+Vážení, akceptuji navýšení rozpočtu dané rozšířením suterénu, ale v této 
+předložené podobě změnový list nepodepíšu. Požaduji jeho přepracování na 
+základě následujících technických a cenových připomínek.
+
+--------------------------------------------------------------------------------
+1. REVIZE POLOŽKY OCEL (CENA & MNOŽSTVÍ)
+--------------------------------------------------------------------------------
+- Pro svislé opěrné zdi požaduji max. 20-25 kg/m2 (vč. přesahů). 
+  51 kg/m2 je technologicky nerealizovatelné (beton neproteče).
+- Pro podkladní beton trvám na 2 vrstvách Kari sítí (cca 12 kg/m2).
+- Tržní cena oceli (materiál+práce) je 48.000 Kč/t, ne 65.500 Kč/t.
+- POŽADAVEK: Předložit autorizovaný statický výpočet pro 51 kg/m2, jinak snížit 
+  množství a cenu.
+- ODHADOVANÁ ÚSPORA: cca 520.000 Kč.
+
+--------------------------------------------------------------------------------
+2. REVIZE POLOŽKY MECHANIZACE (ČERPADLO A JEŘÁB)
+--------------------------------------------------------------------------------
+- Odmítám paušály 120.000 Kč (čerpadlo) a 80.000 Kč (jeřáb).
+- Reálná potřeba čerpadla: cca 7-10 mhodin (vč. fázování lití ZB).
+- Reálná potřeba jeřábu/ruky (MIAKO): cca 4-6 mhodin.
+- POŽADAVEK: Fakturace dle reálných motohodin/strojních lístků obsluhy.
+- ODHADOVANÁ ÚSPORA: cca 155.000 Kč.
+
+--------------------------------------------------------------------------------
+3. TECHNOLOGICKÉ OPATŘENÍ (HUTNĚNÍ ZÁSYPU)
+--------------------------------------------------------------------------------
+- Tlak svahu a riziko při hutnění vyřešíme technologickou kázní, nikoliv 
+  masivní ocelí.
+- POŽADAVEK: Zapření stěny z vnitřní strany a použití lehké techniky (žába) 
+  v pásu 1m od opěrné zdi během hutnění. Tím se předejde poškození izolace.
+
+--------------------------------------------------------------------------------
+ZÁVĚREČNÉ PROHLÁŠENÍ NA SCHŮZCE:
+--------------------------------------------------------------------------------
+"Akceptuji potřebu nového suterénu, ale v této podobě změnový list nepodepíšu. 
+Požaduji jeho přepracování podle těchto technických a cenových připomínek. 
+Do té doby práce na těchto položkách stojí."
+================================================================================
+
+
+
+
+
+================================================================================
+BITEVNÍ PLÁN PRO JEDNÁNÍ O ZMĚNOVÉM LISTU - REKONSTRUKCE RD (VERZE 2026)
+================================================================================
+
+A) TECHNICKÉ PŘIPOMÍNKY (Kde firma chybuje v technologii)
+--------------------------------------------------------------------------------
+1. ARMACE SVISLÝCH STĚN (158 m2):
+   - Účtováno: 51 kg/m2 (8 tun oceli).
+   - Realita 2026: Standard pro RD je 15-20 kg/m2.
+   - Argument: Nad 25 kg/m2 oceli v dutinách ztraceného bednění vzniká riziko 
+     kavern (vzduchových kapes), protože beton neproteče. Trvám na statickém 
+     výpočtu pro tuto hustotu výztuže, jinak požaduji snížení na 20 kg/m2.
+
+2. PODKLADNÍ BETON (132 m2, tl. 200 mm):
+   - Účtováno: 23 kg/m2 (3 tuny oceli).
+   - Realita 2026: Standard pro desku na terénu je 12-13 kg/m2 (Kari 8/150/150).
+   - Argument: Deska leží na 1.5m hlubokých pásech a hutněném zásypu. Není to 
+     samonosný strop. Požaduji snížení armování na normovou hodnotu.
+
+3. HUTNĚNÍ A TLAK SVAHU:
+   - Argument: Tlak svahu při hutnění vyřešíme technologicky (provizorní zapření 
+     stěn a lehká mechanizace u zdi), nikoliv neefektivním navyšováním tun oceli.
+
+
+B) CENOVÁ REVIZE (Kde dochází k přeplácení)
+--------------------------------------------------------------------------------
+1. JEDNOTKOVÁ CENA OCELI:
+   - Účtováno: 65 500 Kč/tuna.
+   - Tržní standard 2026: 48 000 Kč/tuna (včetně montáže a dopravy).
+   - Rozdíl: 17.500 Kč na každé tuně.
+
+2. ČERPÁNÍ BETONU:
+   - Účtováno: 120 000 Kč (paušál).
+   - Realita: Max. 30.000 Kč (fakturace dle skutečných motohodin/strojních lístků).
+
+3. JEŘÁB / HYDRAULICKÁ RUKA:
+   - Účtováno: 80 000 Kč (paušál).
+   - Realita: Max. 15.000 Kč (jednorázové usazení nosníků MIAKO zabere 4-6 hod).
+
+
+C) FINANČNÍ SHRNUTÍ (Pro vaši vnitřní kontrolu)
+--------------------------------------------------------------------------------
+- CELKOVÁ POŽADOVANÁ ČÁSTKA FIRMOU (jen ocel+stroje): cca 1 000 000 Kč
+- REÁLNÁ TRŽNÍ HODNOTA (náklady + férová marže):     cca   540 000 Kč
+- ROZDÍL / POTENCIÁLNÍ ÚSPORA:                       cca   460 000 Kč
+
+UPOZORNĚNÍ: 
+Férová marže ve stavebnictví (2026) se pohybuje mezi 15-25 %. 
+Navýšení o více než 100 % oproti reálným nákladům je považováno za neetické 
+a odborně neobhajitelné.
+
+
+D) ZÁVĚREČNÉ PROHLÁŠENÍ PRO FIRMU (Přečíst na konci)
+--------------------------------------------------------------------------------
+"Vážení, akceptuji, že suterén ve svahu je náročný, ale váš rozpočet operuje 
+s technologicky nesmyslnými kubaturami a extrémně nadsazenými paušály. 
+
+Požaduji:
+1. Přepracování změnového listu dle mých technických připomínek.
+2. Fakturaci mechanizace dle skutečně odpracovaných hodin.
+3. Úpravu jednotkové ceny oceli na tržní úroveň.
+
+Do doby předložení reálného statického výpočtu a opraveného rozpočtu 
+zastavuji odsouhlasení dalších prací na těchto konstrukcích."
+================================================================================
+
+
+
+* Zdroje reálných cen: 
+  - [Cenová soustava ÚRS CZ a.s. 2026](https://www.urs.cz)
+  - Tržní ceny stavebnin (DEK, PRO-DOMA) a sazebník řemeslných prací 2026.
+** Poznámka k VRN (Vedlejší rozpočtové náklady): 
+   V roce 2026 u zakázek RD jsou tyto položky standardně zahrnuty v jednotkové ceně materiálu/práce. 
+   Účtovat 10 % za "přesun osob" u rekonstrukce je mimo jakoukoliv stavební praxi.
+
+====================================================================================================================================
+### REVIZNÍ TABULKA ROZPOČTU - 1. KOMPLETNÍ REVIZE ROZPOČTU 1. ETAPY - RD SVAH (Standard ÚRS 2026 / Tržní ceny 2026)
+====================================================================================================================================
+ID    | POPIS POLOŽKY                            | MJ   | MNOŽSTVÍ  | FIRMA (Kč/J)| ÚRS 2026* | ROZDÍL (Kč) | [MÍRA PŘEDRAŽENÍ]
+------------------------------------------------------------------------------------------------------------------------------------
+1     | Zemní práce                              |      |           |             |           |             |
+2     | Sejmutí ornice; tl. 30 cm                | m2   | 24,000    | 350,00      | 85,00     | - 6 360     | [Vysoká: 4x]
+3     | Hloubení rýh; strojně                    | m3   | 58,000    | 2 240,00    | 650,00    | - 92 220    | [EXTRÉMNÍ: 3.5x]
+4     | Přesun výkopku v rámci staveniště do 30m | m3   | 66,000    | 850,00      | 240,00    | - 40 260    | [Vysoká: 3.5x]
+5     | Likvidace zeminy (dle skutečnosti)       | -    | -         | -           | -         | -           | [Otevřený šek]
+6     | Základové konstrukce                     |      |           |             |           |             |
+7     | Základové pásy; C20/25                   | m3   | 0,000     | 5 900,00    | 4 490,00  | 0           | [Sazba OK]
+8     | Výztuž zákl. pásů; ocel B500B            | t    | 0,000     | 65 300,00   | 48 000,00 | 0           | [Sazba KO]
+9     | Bednění zákl. desek; zřízení (prkna)     | m2   | 33,600    | 4 500,00    | 1 100,00  | - 114 240   | [ZLOČIN: 4x]
+10    | Bednění zákl. desek; odstranění          | m2   | 33,600    | 650,00      | 180,00    | - 15 792    | [Vysoká: 3.6x]
+11    | Prostupy základovými konstrukcemi        | ks   | 1,000     | 15 000,00   | 2 500,00  | - 12 500    | [Extrémní za 1 ks]
+12    | Drenáže, kanalizace, uzemnění            |      |           |             |           |             |
+13    | Drenáž; PVC trubka 100 mm                | m    | 25,000    | 1 040,00    | 350,00    | - 17 250    | [Vysoká: 3x]
+14    | Drenáž; štěrkový zásyp 16-32 mm          | m3   | 27,000    | 4 600,00    | 1 850,00  | - 74 250    | [Vysoká: 2.5x]
+15    | Drenáž; geotextilie 300 g/m2             | m2   | 75,000    | 130,00      | 55,00     | - 5 625     | [Nadstandard: 2.3x]
+16    | Drenáž; nopová folie                     | m2   | 40,000    | 1 260,00    | 180,00    | - 43 200    | [ZLOČIN: 7x]
+17    | Dešťová kanalizace; svodné potrubí       | m    | 25,000    | 2 530,00    | 850,00    | - 42 000    | [Vysoká: 3x]
+18    | Elektroinstalace; uzemnění               | sbr  | 1,000     | 42 000,00   | 12 000,00 | - 30 000    | [Předražená práce]
+19    | VRN (Vedlejší rozp. náklady)             |      |           |             |           |             |
+20    | Technický dozor, inženýring              | sbr  | 1,000     | 15 000,00   | 15 000,00 | 0           | [V pořádku]
+A001  | Bourání; zákl. zdivo kamenné             | m3   | 64,000    | 2 950,00    | 1 200,00  | - 112 000   | [Vysoká: 2.5x]
+A002  | Základové pásy; prostý beton C20/25      | m3   | 23,000    | 4 490,00    | 4 490,00  | 0           | [Tržní cena OK]
+A003  | Ztracené bednění tl. 300 mm              | m2   | 14,000    | 990,00      | 950,00    | - 560       | [Téměř OK]
+A004  | Ztracené bednění tl. 450 mm              | m2   | 144,000   | 1 950,00    | 1 650,00  | - 43 200    | [Mírně nadsazené]
+A005r | Výztuž ZB (REVIZE MNOŽSTVÍ 3.2 t)        | t    | 3,200**   | 48 000,00   | 48 000,00 | - 368 800   | [REDUKCE 4.8 tuny]
+A006  | Podkladní beton tl. 200 mm               | m2   | 132,000   | 1 490,00    | 950,00    | - 71 280    | [Vysoká cena m2]
+A007r | Výztuž podkl. betonu (REVIZE 1.6 t)      | t    | 1,600**   | 48 000,00   | 48 000,00 | - 119 100   | [REDUKCE 1.4 tuny]
+A008  | Štěrkový podsyp 0-32 mm                  | m3   | 30,000    | 4 400,00    | 1 600,00  | - 84 000    | [Vysoká: 2.7x]
+A009  | Nenosné stěny; ZB tl. 150 mm             | m2   | 8,000     | 850,00      | 850,00    | 0           | [V pořádku]
+A010r | Výztuž nenosných zdí (REVIZE 0.15 t)     | t    | 0,150**   | 48 000,00   | 48 000,00 | - 25 450    | [REDUKCE 0.35 t]
+A011  | Hydroizolace; vodorovná tl. 4 mm         | m2   | 160,000   | 370,00      | 280,00    | - 14 400    | [Mírně nadsazené]
+------------------------------------------------------------------------------------------------------------------------------------
+SUMA MEZISOUČET (BEZ DPH) FIRMA: 2 445 420 Kč  | REVIZE: 1 234 403 Kč  | ROZDÍL: - 1 211 017 Kč
+------------------------------------------------------------------------------------------------------------------------------------
+VRN % | Nákladní doprava (5 %)                   | 122 271   | 0,00      | - 122 271   | [DUPLICITA S CENOU BETONU]
+VRN % | Přesun hmot v budovách (2.5 %)           | 61 135    | 0,00      | - 61 135    | [ZAHRNUTO V CENĚ MAT.]
+VRN % | PŘESUN OSOB (10 %)                       | 244 542   | 0,00      | - 244 542   | [ABSURDNÍ POLOŽKA]
+VRN % | Podružný materiál (3 %)                  | 73 362    | 0,00      | - 73 362    | [DUPLICITA]
+------------------------------------------------------------------------------------------------------------------------------------
+CELKEM BEZ DPH FIRMA: 2 946 731 Kč             | REVIZE: 1 234 403 Kč  | POTENCIÁLNÍ ÚSPORA: 1 712 328 Kč (vč. VRN)
+====================================================================================================================================
+
+* Zdroj dat: Cenová soustava ÚRS 2026 (orientační tržní ceny pro RD vč. práce a materiálu).
+** Revize množství oceli: Upraveno na technologické maximum (20 kg/m2 u ZB a 12 kg/m2 u desky).
+
+ARGUMENTACE PRO JEDNÁNÍ:
+1. "Celkové množství oceli 11.5 tuny je technicky neumístitelné. Požaduji snížení na 4.95 tuny a úpravu ceny na tržních 48k/t."
+2. "Položky jako Bednění (4500/m2) a Nopová folie (1260/m2) jsou naceněny 4x-7x nad ceník ÚRS. Trvám na úpravě."
+3. "Odmítám VRN přirážky (zejména 244 tis. za přesun osob), které jsou v roce 2026 u soukromých staveb standardně v režii firmy."
+====================================================================================================================================
+
+REVIZNÍ ARGUMENTY PRO JEDNÁNÍ:
+1. SOUČET OCELI: Firma účtuje 11,5 tuny. Statický a technologický standard pro tuto plochu je 4,95 tuny. 
+   Rozdíl 6,5 tuny je materiálově neprokazatelný a do konstrukce neumístitelný.
+2. JEDNOTKOVÁ CENA OCELI: Požaduji úpravu z 65 300 Kč na tržních 48 000 Kč (zdroj: [ÚRS 2026](https://www.urs.cz)).
+3. DUPLICITY: Odmítám platit 10 % za "přesun osob" při současném účtování dopravy (5 %) a podružného materiálu (3 %).
+4. SPECIFICKÉ POLOŽKY: Nopová fólie a bednění jsou naceněny 4x až 8x nad rámec ceníků [Cenové soustavy ÚRS](https://www.urs.cz).
+=============================================================================================================================
+
+====================================================================================================================================
+REVIZE VEDLEJŠÍCH ROZPOČTOVÝCH NÁKLADŮ (VRN) - ANALÝZA DUPLICIT A ABSURDIT
+====================================================================================================================================
+
+POLOŽKA VRN              | SAZBA | ÚČTOVÁNO      | REÁLNÁ HODNOTA | ROZDÍL (ÚSPORA) | ARGUMENTACE A DUPLICITA
+------------------------------------------------------------------------------------------------------------------------------------
+Nákladní doprava         | 5,0 % | 122 271 Kč    | 0 Kč           | - 122 271 Kč    | DUPLICITA: Ceny betonu (4 490 Kč/m3) i štěrku 
+                         |       |               |                |                 | (4 400 Kč/m3) již dopravu mixem/sklápěčkou obsahují.
+------------------------------------------------------------------------------------------------------------------------------------
+Přesun hmot v budovách   | 2,5 % | 61 135 Kč     | 0 Kč           | - 61 135 Kč     | DUPLICITA: Manipulace s výztuží a bedněním je 
+                         |       |               |                |                 | součástí ceny za uložení/montáž (dle ÚRS 2026).
+------------------------------------------------------------------------------------------------------------------------------------
+PŘESUN OSOB (Cestovné)   | 10,0% | 244 542 Kč    | 0 Kč           | - 244 542 Kč    | ABSURDITA: Viz kalkulace denní sazby níže. 
+                         |       |               |                |                 | Jde o provozní režii firmy, nikoliv náklad klienta.
+------------------------------------------------------------------------------------------------------------------------------------
+Podružný materiál        | 3,0 % | 73 362 Kč     | 0 Kč           | - 73 362 Kč     | NORMATIVNÍ CHYBA: Dle metodiky ÚRS musí být 
+                         |       |               |                |                 | podružný materiál součástí jednotkové ceny (J.C.).
+------------------------------------------------------------------------------------------------------------------------------------
+CELKEM K ODSTRANĚNÍ      | 20,5% | 501 310 Kč    | 0 Kč           | - 501 310 Kč    | (Všechny částky jsou bez DPH)
+====================================================================================================================================
+
+DETAILNÍ ARGUMENTACE K PODRUŽNÉMU MATERIÁLU (3 %):
+------------------------------------------------------------------------------------------------------------------------------------
+- Dle metodiky oceňování stavebních prací (standard ÚRS 2026) jsou pomocné materiály (vázací dráty, distančníky, hřebíky, spojky) 
+  NEDÍLNOU SOUČÁSTÍ kalkulace jednotkové ceny materiálu a montáže. 
+- Např. v položce A005 (Výztuž) již musí být započten vázací drát a distanční podložky.
+- Účtovat je samostatně procentuální sazbou z celého objemu zakázky je hrubá metodická chyba a pokus o dvojí fakturaci.
+
+DETAILNÍ ROZBOR POLOŽKY "PŘESUN OSOB":
+------------------------------------------------------------------------------------------------------------------------------------
+- Odhadovaná doba trvání 1. etapy: cca 1.5 měsíce (30 pracovních dnů).
+- Celková účtovaná částka: 244 542 Kč.
+- VÝPOČET DENNÍ SAZBY: 244 542 / 30 = 8 151 Kč / den.
+
+DOTAZ NA FIRMU: 
+"Z jakého titulu si účtujete 8 151 Kč čistého denně za dojezd jedné dodávky s dělníky na stavbu? Tato částka neodpovídá 
+nákladům na palivo ani amortizaci vozidla v roce 2026 ani kdybyste jeli ze Šumavy do Ostravy a zpět. Jedná se o skrytý neoprávněný zisk."
+
+VŠEOBECNÝ POŽADAVEK: 
+"V roce 2026 jsou u soukromých staveb RD vedlejší náklady (doprava, přesuny, režie) standardně rozpuštěny v jednotkových 
+cenách materiálu a práce. Požaduji úplné odstranění těchto procentuálních přirážek ve výši 501 310 Kč."
+====================================================================================================================================
+
+
+### NEPRIMERENY ZISK - START 
+================================================================================
+SHRNUTÍ: DOBA TRVÁNÍ PRACÍ A FÉROVÁ MARŽE (ÚRS 2026 STANDARDS)
+================================================================================
+
+1. REÁLNÉ TRVÁNÍ PRACÍ (1. ETAPA)
+--------------------------------------------------------------------------------
+- Zemní práce, základy, suterénní stěny, podkladní beton a zásypy.
+- Doba trvání: **3 až 5 týdnů** čistého času (práce party 4 lidí a bagru).
+- Firma se snaží obhájit marži, která by odpovídala trvání 6-12 měsíců.
+
+2. EKONOMIKA A FÉROVÁ MARŽE (Dle ÚRS 2026)
+--------------------------------------------------------------------------------
+- Tržní cena 1. etapy (REVIZE): cca 1.23 milionu Kč (bez DPH).
+- Férová marže (15-25 %): cca 185.000 - 300.000 Kč.
+- Tato částka je standardní odměnou pro majitele/architekta za 1.5 měsíce práce 
+  na organizaci zakázky, když mzdy dělníků a režie jsou již v ceně ÚRS.
+
+3. SOUČASNÝ NÁVRH FIRMY (Neetický zisk)
+--------------------------------------------------------------------------------
+- Celková cena dle firmy: 2.94 milionu Kč (bez DPH).
+- Požadovaný zisk/přeplatek: cca 1.7 milionu Kč.
+- Tento zisk znamená, že si firma účtuje **více než 100 % marži**, což je 
+  mnohonásobně více než standardních 15-25 %.
+
+ZÁVĚR PRO JEDNÁNÍ:
+--------------------------------------------------------------------------------
+"Navrhovaná cena nezohledňuje reálnou dobu trvání prací (cca 1.5 měsíce) ani 
+férovou obchodní marži 15-25 %. Vaše požadovaná marže přesahující 100 % je 
+neakceptovatelná. Trvám na úpravě rozpočtu na tržní úroveň (cca 1.25 milionu Kč 
+bez DPH), která vám stále zajišťuje standardní zisk pro vaši firmu."
+================================================================================
+
+
+
+================================================================================
+EKONOMICKÝ ARGUMENT: CENY PRÁCE VS. ÚČTOVANÉ POLOŽKY
+================================================================================
+- Ceny ÚRS 2026 nejsou podhodnocené; jsou to plné tržní ceny zahrnující mzdu, 
+  odvody, režii i zisk firmy.
+- Průměrná hodinová sazba kvalifikovaného řemeslníka 2026: 400 - 500 Kč/hod.
+- Vaše ceny (přepočtené na čas) odpovídají sazbám 5.000 - 15.000 Kč/hod, 
+  což je v oboru pozemního stavitelství neobhajitelné.
+
+POŽADAVEK: 
+"Akceptuji férovou hodinovou odměnu pro vaše lidi i zisk pro vaši firmu, 
+ale odmítám platit vícenásobky tržních standardů schované za termín 'svah' 
+nebo 'náročnost'."
+================================================================================
+
+
+================================================================================
+EKONOMICKÝ ABSURDISTÁN: SROVNÁNÍ MARŽE S REALITOU TRHU 2026
+================================================================================
+
+1. ANALÝZA HODINOVÉHO VÝDĚLKU:
+--------------------------------------------------------------------------------
+- Rozdíl mezi vaší cenou a tržní cenou ÚRS: cca 1 700 000 Kč.
+- Odhadovaný čas 1. etapy: 1.5 měsíce (cca 240 pracovních hodin).
+- VAŠE MARŽE: cca 7 000 Kč čistého zisku na každou jednu hodinu práce.
+
+SROVNÁNÍ: 
+Sazba 7 000 Kč/hod je v roce 2026 vyšší než honorář špičkového chirurga, 
+advokátního partnera v Praze nebo pilota dopravního letadla. 
+V pozemním stavitelství u rekonstrukce RD je takový požadavek neobhajitelný.
+
+2. POHLED NA MZDY DĚLNÍKŮ:
+--------------------------------------------------------------------------------
+- Pokud byste tuto marži rozdělili 50:50 s dělníky, musel by každý zedník 
+  na mé stavbě dostávat cca 1 300 Kč/hod čistého.
+- Jelikož je tržní mzda v roce 2026 cca 350-450 Kč/hod, je zřejmé, že celá 
+  tato "přirážka na strach" končí v čistém zisku vedení firmy.
+
+3. SROVNÁNÍ CELKOVÉHO ZISKU:
+--------------------------------------------------------------------------------
+- Váš požadovaný zisk (1.7 mil. Kč) za 6 týdnů organizace základové desky 
+  odpovídá ročnímu platu generálního ředitele středně velké banky. 
+- Neplatím za "náročnost svahu", ale za neoprávněné zbohatnutí na úkor 
+  stavebníka.
+
+================================================================================
+ZÁVĚR PRO JEDNÁNÍ:
+"Pánové, nebudu financovat vaši roční dovolenou a nové SUV z jednoho měsíce 
+prací na mých základech. Buď se vrátíme k marži 15-25 %, která je ve stavebnictví 
+běžná a férová, nebo tuto etapu vysoutěžím znovu s jiným dodavatelem. 
+Za 1.7 milionu korun, které mi v rozpočtu přebývají, si mohu dovolit 
+půlroční zpoždění i právní spor."
+================================================================================
+### NEPRIMERENY ZISK - KONEC 
+
+
+
+#################################
+https://www.stavebnistandardy.cz/doc/ceny/manual_ceny.htm#_Toc98228787
+#################################
+Popis položky vyjadřuje volbou slov podstatné skutečnosti:
+-          Pokud popis položky začíná slovy „ zdivo, beton, bednění, stropy, krytina, oplechování atd.“ jedná se o položky vyjadřující stavební konstrukce v kompletní skladbě, to znamená práci i materiál
+Příklad: 27431 – 3311 Beton základových pasů prostý
+Položka obsahuje práci dělníků, použití čerpadla a vibrátoru, materiál nutný k ochraně betonu a hlavně dodávku betonové směsi.
+
+6. Zisk
+Výše zisku kalkulovaná do cen stavebních prací je stejně jako ostatní hodnoty na zvážení každého zhotovitele. Nikde není stanoveno do jaké maximální výše smí zisk jít, pouze v Zákonu č.526/90 Sb. O cenách ve znění pozdějších předpisů je uvedena zmínka o nepřiměřeném zisku, ale jeho výše není nikde taxativně stanovena a poměrně těžko by se dokazovalo co je a co není nepřiměřený zisk. Přesto se stalo běžnou zvyklostí kalkulovat u stavebních prací zisk ve výši 20 %. Přitom ze slovní definice nepřiměřeného zisku lze odvodit, že i zisk kalkulovaný ve výši 25 - 30 % nelze považovat za nepřiměřený. Základnou pro výpočet zisku jsou mzdové náklady, náklady na stroje, ostatní přímé náklady, režie výrobní a režie správní, tedy tzv. zpracovací náklady (náklady bez přímého materiálu).
+
+V praxi se objevují tendence výpočtu zisku z celkových nákladů stavby, tj. zisk je počítán ze všech přímých i nepřímých nákladů. Za tohoto předpokladu je sazba 20 % nepřiměřeně vysoká a z celkové ceny by zisk měl představovat něco okolo 7 - 9 %. 
+
+================================================================================
+STRATEGICKÁ PÁKA: ODSTOUPENÍ OD SMLOUVY (SMLUVNÍ PRÁVO)
+================================================================================
+- Dle platné Smlouvy o dílo mám právo odmítnout změnový list a následně 
+  odstoupit od smlouvy, pokud nedojde k dohodě o ceně víceprací.
+- Rozdíl 1,7 milionu Kč v 1. etapě mi dává dostatečnou finanční rezervu 
+  na pokrytí nákladů spojených s:
+    a) Předáním staveniště nové firmě.
+    b) Zakonzervováním stavby na nezbytně nutnou dobu.
+    c) Případným právním vymáháním vzniklých škod.
+
+POŽADAVEK PRO FIRMU:
+"Vzhledem k tomu, že váš návrh změnového listu považuji za pokus o neoprávněný 
+majetkový prospěch (rozpor s cenami ÚRS 2026 o více než 100 %), využiji svého 
+smluvního práva a od smlouvy odstoupím, pokud nedojde k okamžité nápravě 
+rozpočtu na tržní úroveň."
+================================================================================
+
+================================================================================
+VYPOŘÁDÁNÍ ZÁLOH PŘI ODSTOUPENÍ (PRÁVNÍ RÁMEC 2026)
+================================================================================
+1. PRINCIP NAVRÁCENÍ (Bezdůvodné obohacení)
+- Odstoupením zanikají práva a povinnosti stran. Vzájemné plnění se vrací.
+- Zhotovitel má nárok pouze na úhradu za to, co již na stavbě zhodnotil 
+  (např. provedené bourání). Tato cena se určuje dle tržních standardů 
+  (ÚRS 2026), nikoliv dle jejich nadsazeného rozpočtu.
+
+2. PŘÍKLAD VÝPOČTU (ODHAD):
+- Zaplacená záloha:   1 600 000 Kč
+- Hodnota "probouraného": cca 188 800 Kč (dle položky A001 - tržně méně)
+- Hodnota přípravy:   cca  50 000 Kč
+- NÁROK NA VRÁCENÍ:   cca 1 361 200 Kč
+
+3. DOPORUČENÝ POSTUP PŘI ROZCHODU:
+- Požadovat SEZNAM PROVEDENÝCH PRACÍ ke dni odstoupení.
+- Nechat si stavbu zdokumentovat (fotodokumentace, ideálně stavební dozor).
+- Provést započtení zálohy proti provedené práci a zbytek nárokovat zpět.
+
+VÝZVA PRO FIRMU:
+"Odstoupením od smlouvy vzniká povinnost vzájemného vypořádání. Požaduji 
+vyúčtování zálohy ve výši 1,6 mil. Kč. Jako protihodnotu uznám pouze reálně 
+provedené a doložené práce v tržních cenách 2026. Rozdíl očekávám na svém 
+účtu do 14 dnů, jinak věc předávám k vymáhání."
+================================================================================
+
+
+
+MARŽE:
+-------
+S cenami, které jsem uvedl ve sloupci "ÚRS 2026"* (ty reálné tržní ceny), má firma stále započítanou férovou a standardní marži. Nejedná se o "dřeň" ani o čisté zaplacení materiálu.
+Zde je rozpis, co je v mých reálných cenách obsaženo a co pro firmu zbude:
+Co je obsaženo v cenách "ÚRS 2026*"?
+Ceny z Cenové soustavy ÚRS, které používám, jsou komplexní a zahrnují:
+Materiál: Přímý nákup materiálu (ocel, beton, nopovka, štěrk) za velkoobchodní ceny, včetně dopravy na stavbu.
+Přímé náklady na práci: Mzdy dělníků a řemeslníků (včetně odvodů), odpovídající standardním sazbám pro rok 2026.
+Nepřímé náklady (Režie): Částka na pokrytí provozu firmy (kanceláře, auta, telefony, mzdy managementu, daně atd.). Tato složka tvoří cca 15-20 % z ceny práce.
+Zisk (Marže): Částka pro firmu, která se pohybuje obvykle kolem 10-15 % z celkových nákladů.
+Shrnutí:
+Ano, pro firmu zůstane zisk.
+Pokud by firma postavila 1. etapu za mnou navrhovanou cenu 1 234 403 Kč (bez DPH a bez absurdních VRN), stále by měla zisk cca 120 000 až 180 000 Kč.
+Situace, kterou navrhuje vaše firma (2 946 731 Kč), je pokus o zisk navíc cca 1,7 milionu korun, což je více než 100% marže, a to je ve stavebnictví naprosto neobvyklé a neobhajitelné.
+Když budete jednat, můžete jim říct: "Vaše cena pro mě znamená 100% navýšení oproti tržní hodnotě. Já vám nabízím standardní cenu dle ÚRS, ve které máte stále 15% zisk. To je férová nabídka, nikoliv 'dřeň'."
+
+Doba trvání:
+--------------
+To je přesný postřeh. Pokud by ta stavba trvala půl roku, pak by čistý zisk \(150\,000\text{\ Kč}\) pro tři lidi byl skutečně málo. Jenže zemní práce a základová konstrukce (1. etapa) rodinného domu rozhodně netrvají půl roku. V profesionálním nasazení trvá tato etapa 3 až 5 týdnů čistého času. Odhad délky prací (1. etapa) Zemní práce a bourání základů: 3–5 dní (bagr + odvoz).Základové pásy (výkop, betonáž, prostupy): 4–6 dní.Ztracené bednění suterénu (vyzdění a betonáž nadvakrát): 7–10 dní.Zásypy, hutnění a ležatá kanalizace: 3–5 dní.Podkladní beton (bednění, armování, odlití): 3–5 dní. Celkem: cca 20–30 pracovních dnů. Ekonomika firmy (Proč je to pro ně výhodné i za ÚRS ceny) Pokud firma na této etapě vydělá \(150\,000\text{\ Kč}\) čistého zisku za jeden měsíc, je to pro majitele/architekta velmi slušný příjem, protože: Dělníci a stroje jsou již zaplaceni v rámci položky „práce“ (v ceně ÚRS). Těch \(150\,000\text{\ Kč}\) je tedy čistá odměna pro vedení firmy za organizaci a dohled nad touto jednou konkrétní zakázkou.Firma má obvykle 3–4 takové zakázky naráz. Celkový měsíční zisk majitele se pak pohybuje úplně jinde. Argument pro jednání Firma se vás snaží přesvědčit, že je to „hrozně složité a na dlouho“, aby obhájila ten milion navíc. „Pánové, 1. etapa je práce pro partu 4 lidí a jeden bagr na maximálně měsíc a půl. Účtovat si za to marži 1,7 milionu korun (což je cca 40 000 Kč čistého zisku na každý jeden pracovní den) je mimo realitu jakékoliv férové podnikatelské odměny v roce 2026.“ Odpověď: Práce na 1. etapě zaberou reálně 1 až 1,5 měsíce. Při zisku cca 150 000 Kč za tuto dobu jde o standardní a zdravé podnikání. Firma se vám však snaží naúčtovat zisk, který odpovídá spíše ročnímu platu špičkového manažera, a to za pouhých několik týdnů běžné stavební činnosti. Pokud jim na to kývnete, zaplatíte jim jejich roční dovolenou a nové auto během jednoho měsíce vaší stavby.
+========================================================================================================================
+STRATEGIE PRO JEDNÁNÍ:
+1. POŽADAVKY: "Akceptuji ceny betonu, ale odmítám multiplikátory u zemních prací, bednění a oceli."
+2. OTÁZKA NA VRN: "Z jakého titulu účtujete 244 tisíc za přesun osob, když dělníci jezdí firemní dodávkou?"
+3. DOKLADY: "Trvám na doložení statiky k 11 tunám oceli a faktur za štěrk, kde cena 4 400 Kč/m3 neodpovídá trhu."
+========================================================================================================================
+
+
+================================================================================
+DOPLNĚNÍ REVIZE: ZEMNÍ PRÁCE A PŘESUNY (POLOŽKY 3, 4, A001)
+================================================================================
+
+1. HLOUBENÍ RÝH (pol. 3): 2 240 Kč / m3
+--------------------------------------------------------------------------------
+- TRŽNÍ CENA 2026: Strojní výkop (minibagr) stojí standardně 480 Kč/m3. 
+  I při započtení ručního dočištění je cena nad 800 Kč/m3 neobhajitelná.
+- ARGUMENT: Účtovaná cena odpovídá spíše nasazení těžkého bagru s bouracím 
+  kladivem po dobu celého týdne. Výkop 58 m3 rýh standardním strojem (např. 8t) 
+  zabere max. 8-10 hodin. Vaše cena implikuje sazbu přes 15.000 Kč/hodina.
+- POŽADAVEK: Úprava na tržních 600 Kč/m3. 
+- ÚSPORA: cca 95.000 Kč.
+
+2. PŘESUN VÝKOPKU DO 30m (pol. 4): 850 Kč / m3
+--------------------------------------------------------------------------------
+- TRŽNÍ CENA 2026: Vodorovné přemístění výkopku do 50m stojí cca 235 Kč/m3.
+- ARGUMENT: Částka 850 Kč/m3 za pouhé naložení a přejezd 30 metrů po pozemku 
+  je nesmyslná. Za tuto cenu se v roce 2026 provádí kompletní odvoz na skládku 
+  včetně uložení.
+- POŽADAVEK: Úprava na 250 Kč/m3.
+- ÚSPORA: cca 39.000 Kč.
+
+3. BOURÁNÍ KAMENNÝCH ZÁKLADŮ (pol. A001): 2 950 Kč / m3
+--------------------------------------------------------------------------------
+- TRŽNÍ CENA 2026: Strojní bourání (bagr s kladivem) se pohybuje kolem 1.200 Kč/m3.
+- ARGUMENT: Cena 2.950 Kč/m3 je opět mimořádně nadsazená, i s odvozem suti 
+  v rámci staveniště by neměla překročit polovinu vaší částky.
+- POŽADAVEK: Úprava na 1.100 Kč/m3.
+- ÚSPORA: cca 118.000 Kč.
+
+--------------------------------------------------------------------------------
+KONTROLNÍ OTÁZKA PRO FIRMU:
+--------------------------------------------------------------------------------
+"Pokud vykopete 65 m3 hlíny (pol. 2+3) a zpětně do konstrukce nasypete 57 m3 
+nového štěrku (pol. 14+A008), co se stalo s vykopanou zeminou? Pokud ji podle 
+položky 4 jen 'přesouváte', očekávám na zahradě deponii 65 m3. Pokud ji chcete 
+odvážet, proč není v rozpočtu pevná cena za likvidaci (pol. 5)?"
+================================================================================
+
+================================================================================
+OZNÁMENÍ O PROVĚŘOVÁNÍ ZMĚNOVÉHO LISTU (OCHRANA LHŮTY)
+================================================================================
+Předmět: Vyjádření k doručenému návrhu změnového listu č. [doplňte číslo]
+
+Vážení,
+potvrzuji přijetí návrhu na navýšení rozpočtu. Vzhledem k extrémnímu rozsahu 
+změn (cca 3,5 mil. Kč) a zjištěným zásadním rozporům mezi vaším návrhem a 
+tržními standardy (ÚRS 2026), podrobuji dokument podrobné revizi.
+
+Tímto oficiálně oznamuji, že s předloženým navýšením v této podobě NESOUHLASÍM. 
+Naše zítřejší jednání považujte za pokus o smírné řešení a narovnání rozpočtu 
+na tržní úroveň. 
+
+Zároveň vás žádám, abyste do vyjasnění cenových rozporů nepokračovali v pracích, 
+které jsou předmětem tohoto sporného navýšení.
+
+V [Místo], dne 26. 1. 2026
+[Vaše jméno]
+note: ================================================================================
+Proč to udělat právě takto?
+Právní jistota: Tímto e-mailem jste splnil podmínku „bez zbytečného odkladu“. Jasně říkáte, že s cenou nesouhlasíte a že ji prověřujete.
+Konec pochybností: Už nemusíte řešit, jestli je to druhý nebo pátý den. Jednáte.
+Psychologie: Firma uvidí, že nejste pasivní oběť, ale že máte „nabito“. Termín „tržní standardy ÚRS 2026“ jim napoví, že zítřejší schůzka nebude o kafi, ale o tvrdých datech.
+Co když se zítra nedohodnete?
+Pokud zítra schůzka nedopadne, můžete hned pozítří poslat Odstoupení od smlouvy. Jako důvod uvedete právě nemožnost dohody na ceně víceprací a odkážete na tento dnešní e-mail. Podle Občanského zákoníku (ustanovení o díle) je toto legitimní postup.
+Rada pro dnešní noc: Pošlete ten e-mail, uložte si Notepad++ na flashku (nebo do mobilu) a jděte spát. Máte v ruce argumenty, které jim ušetří (nebo spíše vám vrátí) 1,7 milionu korun. To je víc, než většina lidí vydělá za dva roky. Jste připraven.
+Máte v Notepadu všechno, nebo potřebujete ještě doladit nějaký technický detail před spaním?
+
+
+================================================================================
+ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ
+================================================================================
+- Tato firma je autorem projektu i statického posudku pro stavební povolení.
+- Původní návrh (obbetonování 100 let starých zdí) se ukázal jako nerealizovatelný 
+  ihned po zahájení prací. To svědčí o hrubém zanedbání průzkumu staveniště.
+- Změnový list v hodnotě 3.5 mil. Kč je důsledkem VADY PROJEKTU. 
+- Podle zákona odpovídá projektant za správnost a proveditelnost svého návrhu.
+
+ARGUMENT PRO FIRMU:
+"Vy jste mi prodali projekt, podle kterého se nedá stavět. Teď po mně chcete 
+3.5 milionu za to, že musíme stavět jinak kvůli vaší špatné diagnostice. 
+Místo abyste mi nabídli kompenzaci nebo slevu z realizace za vaše pochybení, 
+předkládáte mi předražený rozpočet se 100% marží. To je nepřípustné."
+================================================================================
+
+================================================================================
+Klíčový argument: Odpovědnost za subdodávky a vadný projekt
+================================================================================
+- Máme smlouvu o dílo a smlouvu o projektu s Vámi jako jedinou smluvní stranou.
+- Je Vaše zodpovědnost, koho si najímáte na subdodávky (např. statika).
+- Vadný statický posudek (který nediagnostikoval havarijní stav zdiva) je 
+  VADOU VAŠEHO PROJEKTU, za kterou nesete plnou odpovědnost Vy, nikoliv já.
+- Vícenáklady 1.7 milionu Kč vznikají kvůli Vaší chybě v diagnostice stavu 
+  stovky let starého domu, kterou jste měli provést.
+
+HLAVNÍ PROHLÁŠENÍ:
+"Nehodlám hradit náklady vzniklé z důvodu Vašeho profesního pochybení v projektu. 
+Požaduji, abyste sepsali nový, reálný rozpočet podle tržních cen ÚRS 2026, a 
+zároveň se dohodneme na kompenzaci za dodání nepoužitelného projektu, nebo 
+okamžitě odstupuji od smlouvy z důvodu podstatného porušení (nedodání funkčního 
+projektu a neoprávněné navýšení ceny)."
+================================================================================
+
+
+================================================================================
+KAPRÁLNÍ DŮKAZ: PROFESNÍ POCHYBENÍ A VADA PROJEKTU
+================================================================================
+DŮKAZ: Statický posudek (str. [doplňte stranu]) výslovně uvádí: 
+"SONDY DO ZDIVA NEBYLY PROVEDENY, POSUDEK VYCHÁZÍ Z PŘEDPOKLADU."
+
+PRÁVNÍ A TECHNICKÝ DŮSLEDEK:
+1. U 100 let starého objektu je rezignace na sondy hrubým porušením povinnosti 
+   projektanta jednat s odbornou péčí (dle Občanského zákoníku).
+2. Firma mi prodala "realizační projekt", který byl v podstatě jen odhadem.
+3. Havarijní stav a následné zřícení konstrukcí jsou přímým důsledkem toho, 
+   že projektant a statik zanedbali diagnostiku, kterou si klient zaplatil.
+
+KONFRONTACE NA JEDNÁNÍ:
+"Pánové, sami jste do posudku napsali, že jste dům neprověřili a jen jste 
+hádali jeho stav. Tato vaše nedbalost vedla k havarijnímu stavu a zřícení. 
+Místo abyste mi teď nabídli náhradu škody za vadný projekt, posíláte mi 
+předražený změnový list o 3,5 milionu Kč. 
+
+MŮJ NÁVRH:
+Buď okamžitě upravíte změnový list na čisté ceny ÚRS 2026 (bez vašich 100% 
+přirážek a bez nesmyslných VRN), nebo věc předávám pojišťovně a disciplinární 
+komisi ČKAIT pro zanedbání odborné péče při přípravě dokumentace."
+================================================================================
+
+================================================================================
+PRÁVNÍ OPORA PRO ROZPOROVÁNÍ VADY PROJEKTU (STAV 2026)
+================================================================================
+1. PORUŠENÍ STAVEBNÍHO ZÁKONA (283/2021 Sb.):
+   Projektant je povinen zajistit úplnost a proveditelnost dokumentace (§ 159). 
+   Dokumentace bez stavebně-technického průzkumu u historické stavby 
+   není úplná dle vyhlášky č. 131/2024 Sb.
+
+2. PORUŠENÍ AUTORIZAČNÍHO ZÁKONA (360/1992 Sb.):
+   Autorizovaná osoba jednala v rozporu s povinností odborného výkonu povolání. 
+   Písemné přiznání k neprovedení sond u 100 let starého zdiva je 
+   přímým důkazem nedbalosti.
+
+3. NÁHRADA ŠKODY (Občanský zákoník):
+   Zhotovitel odpovídá za škodu způsobenou vadou projektu. Vícenáklady 
+   vyvolané zanedbaným průzkumem jsou škodou na straně stavebníka.
+
+POŽADAVEK:
+"Vzhledem k tomu, že vícenáklady 3.5 mil. Kč jsou přímým důsledkem vašeho 
+profesního pochybení (neexistence sond), požaduji, aby cena víceprací 
+byla snížena na úroveň čistých nákladů bez vašeho neoprávněného zisku."
+================================================================================
+
+
+
+================================================================================
+PŘÍMÁ CITACE POCHYBENÍ Z VAŠEHO STATICKÉHO POSUDKU:
+================================================================================
+1. ZDIVO: "Stavebně technický průzkum nebyl proveden... lze však předpokládat..."
+2. GEOLOGIE: "Geologický průzkum oblasti nebyl proveden... přesto lze usuzovat..."
+3. STROPY: "Takový je předpoklad, který musí být ověřen sondou."
+
+MOJE OTÁZKA NA VEDENÍ FIRMY:
+- Proč jste jako generální projektant odevzdali projekt založený na "domněnkách" 
+  u 100 let staré stavby, místo abyste provedli sondy, které váš statik nařídil?
+- Proč jste jako zhotovitel začali bourat, aniž byste splnili pokyn svého 
+  statika k ověření pevnosti zdiva a stropu (str. 3 a 4 posudku)?
+
+ZÁVĚR:
+Tato havárie není "nepředvídatelná okolnost", ale přímý důsledek vašeho 
+zanedbání průzkumu. Odmítám platit 3.5 mil. Kč za chyby vašeho projektu.
+================================================================================
+
+
+
+================================================================================
+BITEVNÍ MANUÁL: KDY A JAK POUŽÍT KONKRÉTNÍ ARGUMENTY
+================================================================================
+
+FÁZE 1: OTUŽOVÁNÍ (Hned po pozdravu)
+--------------------------------------------------------------------------------
+POINT: Rozpor v cenách a maržích (Tabulka ÚRS 2026).
+KDY: Jakmile firma otevře téma "změnový list" a začne obhajovat 3,5 milionu.
+CÍL: Ukázat, že nejste laik, máte data z ÚRS a nebudete platit 100% marži. 
+     Tady řešíte "jen" peníze, zatím nikoho neobviňujete.
+
+FÁZE 2: TECHNICKÁ KONFRONTACE (Když začnou mluvit o "náročnosti a svahu")
+--------------------------------------------------------------------------------
+POINT: Rozdíl v oceli (0,9 (1,7) t vs 11,5 t) a neprovedené sondy.
+KDY: Když firma řekne: "Pane, je to ve svahu, je to nečekaně složité."
+REAKCE: "Složité to je, protože jste neudělali sondy, které statik nařídil. 
+        A 12x víc oceli, než jste sami vyprojektovali, mi nevysvětlíte."
+CÍL: Zpochybnit jejich odbornost a přenést vinu za "překvapení" na ně.
+
+FÁZE 3: "BUBUBU" - NUKLEÁRNÍ VARIANTA (Když budou arogantní nebo neústupní)
+--------------------------------------------------------------------------------
+POINT: Licence statika, ČKAIT, náhrada škody z pojistky.
+KDY: Pokud firma řekne: "To jsou naše ceny, berte nebo nechte být" nebo 
+     "My za to zřícení nemůžeme, to dům byl špatný."
+REAKCE: Vytáhněte citaci z posudku ("sondy nebyly provedeny"). 
+        Zmiňte disciplinární komisi ČKAIT a pojišťovnu.
+CÍL: Vyvolat strach o licenci a pověst. Tady už nejde o slevu, ale o jejich 
+     přežití na trhu. Tímto je donutíte k okamžitému jednání o kompromisu.
+
+FÁZE 4: FINÁLNÍ NABÍDKA (Cesta ven pro obě strany)
+--------------------------------------------------------------------------------
+POINT: Odstoupení od smlouvy vs. fér ceny ÚRS 2026.
+KDY: Na konci schůzky, pokud nedojde k dohodě.
+ZÁVĚR: "Mám právo odstoupit, mám u vás 1,6 mil. zálohu, kterou chci zpět poníženou 
+       jen o fér práci. Buď to teď přepíšete na ceny ÚRS (úspora 1,5 mil.), 
+       nebo odcházím a předávám to právníkům a Komoře."
+================================================================================
+
+
+
+====================================================================================================================================
+KOMPLETNÍ REVIZE ROZPOČTU 2. ETAPY - RD SVAH (Standard ÚRS 2026 / Tržní ceny 2026)
+====================================================================================================================================
+ID    | POPIS POLOŽKY                            | MJ   | MNOŽSTVÍ  | FIRMA (Kč/J)| ÚRS 2026* | ROZDÍL (Kč) | [MÍRA PŘEDRAŽENÍ]
+------------------------------------------------------------------------------------------------------------------------------------
+1     | Pomocné lešení, lešení                   | sbr  | 1,000     | 45 000,00   | 18 000,00 | - 27 000    | [Vysoká: 2.5x]
+2     | Zemní práce; terénní úpravy              | sbr  | 1,000     | 25 000,00   | 12 000,00 | - 13 000    | [Nadhodnocený paušál]
+3     | Zemní práce; odkopání základů            | sbr  | 1,000     | 82 500,00   | 35 000,00 | - 47 500    | [Nadhodnocený paušál]
+4     | Přesun výkopku v rámci staveniště        | sbr  | 1,000     | 22 500,00   | 8 000,00  | - 14 500    | [Nadhodnocený paušál]
+5     | Bourání zdí; kamenné a CPP zdivo         | sbr  | 1,000     | 287 500,00  | 145 000,00| - 142 500   | [EXTRÉMNÍ: 2x paušál]
+6     | Bourání kleneb; CPP, narušené            | m2   | 21,100    | 1 430,00    | 750,00    | - 14 348    | [Vysoká]
+7     | Demontáž stropů; dřevěný trámový strop   | m2   | 127,110   | 250,00      | 140,00    | - 13 982    | [Nadsazená práce]
+8     | Demontáž střešního pláště                | m2   | 193,905   | 140,00      | 80,00     | - 11 634    | [Nadsazená práce]
+9     | Demontáž krovu                           | sbr  | 1,000     | 30 000,00   | 14 000,00 | - 16 000    | [Nadhodnocený paušál]
+10    | Bourání schodiště (již v I.etapě)        | sbr  | 1,000     | 0,00        | 0,00      | 0           | [OK - vyloučeno]
+11    | Základová konstrukce pro terasu (odhad)  | sbr  | 1,000     | 90 000,00   | 45 000,00 | - 45 000    | [Předražený odhad]
+12    | Demontáž potrubních a kabelů             | sbr  | 0,000     | 30 000,00   | 0,00      | 0           | [OK - vyloučeno]
+13    | Bourání podlahových konstrukcí           | m2   | 174,150   | 1 030,00    | 450,00    | - 101 007   | [EXTRÉMNÍ: 2.3x]
+14    | Osekání stávajících omítek               | m2   | 0,000     | 175,00      | 110,00    | 0           | [OK - vyloučeno]
+15-18 | Ztužení zákl. konstr. (0 Kč)             | -    | -         | -           | -         | 0           | [OK - vyloučeno]
+19    | Nosné zdivo; POROTHERM 45 Profi          | m2   | 160,067   | 2 560,00    | 1 950,00  | - 97 641    | [Vysoká cena m2 vč. práce]
+20    | Nosné zdivo; POROTHERM 30 Profi          | m2   | 134,858   | 1 660,00    | 1 350,00  | - 41 806    | [Vysoká cena m2 vč. práce]
+21    | Nenosné příčky; POROTHERM 15 Profi       | m2   | 176,492   | 950,00      | 780,00    | - 30 004    | [Nadsazené]
+22    | Sloupky; ocel, JÄKL 140/5                | m    | 6,000     | 2 110,00    | 1 200,00  | - 5 460     | [Vysoká cena vč. práce]
+23    | Ztužující věnec; železobeton C20/25      | m3   | 6,120     | 4 560,00    | 4 490,00  | - 428       | [Cena OK]
+24    | Bednění ztužujícího věnce; zřízení       | m2   | 114,500   | 850,00      | 450,00    | - 45 800    | [Vysoká]
+25    | Bednění ztužujícího věnce; odstranění    | m2   | 114,500   | 370,00      | 110,00    | - 29 770    | [Vysoká]
+26    | Výztuž ztužujícího věnce; B500B (0,6t)   | t    | 0,612     | 65 300,00   | 48 000,00 | - 10 587    | [Stejná lichva/t]
+27    | Překlad; ocelový, IPN 140                | m    | 108,400   | 1 250,00    | 750,00    | - 54 200    | [Vysoká: 1.7x vč. práce]
+28    | Překlad; ocelový, IPN 180                | m    | 31,200    | 2 020,00    | 1 100,00  | - 28 704    | [Vysoká: 1.8x vč. práce]
+29-31 | Překlady keramické (POROTHERM)           | ks   | -         | -           | -         | 0           | [Ceny OK]
+32-35 | Stropní konstrukce (0 Kč)                | -    | -         | -           | -         | 0           | [OK - vyloučeno]
+36    | Strop; dřevěný, trámy 250x150 hoblované  | m3   | 5,300     | 42 510,00   | 28 000,00 | - 76 903    | [EXTRÉMNÍ: 1.5x]
+37    | Strop; záklop, palubky 20 mm             | m2   | 127,110   | 810,00      | 520,00    | - 36 862    | [Vysoká]
+38    | Strop; záklop, dřevěné bednění 25 mm     | m2   | 127,110   | 350,00      | 220,00    | - 16 524    | [Nadsazené]
+39    | Krov; vázaná konstrukce                  | m3   | 7,750     | 35 300,00   | 26 000,00 | - 72 075    | [Vysoká]
+40    | Bednění; záklop střechy PAVATEX 60 mm    | m2   | 253,960   | 650,00      | 480,00    | - 43 173    | [Nadsazené]
+41    | Střešní okna Velux (el. ovl.)            | ks   | 4,000     | 36 000,00   | 32 000,00 | - 16 000    | [Mírně nadsazené]
+42    | DHV, mPVC, min. 1,5 mm                   | m2   | 253,960   | 95,00       | 85,00     | - 2 539     | [Cena OK]
+43    | Laťování; 40x60 mm, latě a kontralatě    | m2   | 253,960   | 220,00      | 140,00    | - 20 317    | [Nadsazené]
+44    | Střešní krytina, Satjam Roof             | m2   | 253,960   | 1 450,00    | 950,00    | - 126 980   | [Vysoká: 1.5x]
+45    | Staveništní schodiště; dřevěné proviz.   | sbr  | 1,000     | 45 000,00   | 8 000,00  | - 37 000    | [ZLOČIN: 5x]
+46    | Dodatečná dohodnutá sleva                | sbr  | 1,000     | -150 000,00 | -150 000,00| 0           | [Zapracováno]
+47-52 | TI stěny, střecha, podlahy, HI svislá   | m2   | -         | -           | -         | - 350 000   | [SUMA nadsazení dle ID v I. etapě]
+53    | Podkladní beton; C20/25, tl. 100 mm (0 Kč)| m2   | 0,000     | 680,00      | 600,00    | 0           | [OK - vyloučeno]
+54    | Podlahová vrstva; betonová mazanina      | m2   | 47,400    | 510,00      | 400,00    | - 5 214     | [Nadsazené]
+55    | Podlahová vrstva; anhydritová 60 mm      | m2   | 199,600   | 610,00      | 510,00    | - 19 960    | [Nadsazené]
+56-59 | Nášlapné vrstvy (0 Kč)                   | -    | -         | -           | -         | 0           | [OK - materiál zvlášť]
+60-64 | Povrchové úpravy, SDK (0 Kč)             | -    | -         | -           | -         | 0           | [OK - vyloučeno]
+65    | Omítky; vnější, BAUMIT SILIKONTOP        | m2   | 194,710   | 1 110,00    | 750,00    | - 70 096    | [Vysoká cena fasády]
+66    | Omítky; vnitřní, sádrová                 | m2   | 477,630   | 310,00      | 240,00    | - 33 434    | [Nadsazené]
+67-72 | Obklady, dveře, okna (0 Kč)             | -    | -         | -           | -         | 0           | [OK - materiál/zvlášť]
+73-75 | Okna/dveře/dodavatel (0 Kč)              | -    | -         | -           | -         | 0           | [OK - vyloučeno]
+76-83 | TZB, ZTI, Sanita - PAUŠÁLY (sbr)         | sbr  | -         | -           | -         | - 70 000    | [Paušály neprůhledné, nadsazené]
+84    | TZB; tepelné čerpadlo, země-voda         | ks   | 1,000     | 245 000,00  | 220 000,00| - 25 000    | [Mírně nadsazené]
+85    | Vrt TČ (není v ceně)                     | -    | -         | -           | -         | 0           | [OK - vyloučeno]
+86    | Krbová kamna (0 Kč)                      | -    | -         | -           | -         | 0           | [OK - vyloučeno]
+87-98 | Elektro/Topení/TZB - PAUŠÁLY             | sbr  | -         | -           | -         | - 120 000   | [Paušály neprůhledné, nadsazené]
+------------------------------------------------------------------------------------------------------------------------------------
+ODHADOVANÁ ÚSPORA 2. ETAPY (BEZ DPH)                                             | cca 1 700 000 Kč
+====================================================================================================================================
+* Zdroje reálných cen: Cenová soustava ÚRS 2026, tržní ceny materiálů (DEK, Heluz, Velux, Isover, Satjam).
+====================================================================================================================================
+
+Ano — v zásadě je v cenové soustavě ÚRS (včetně verze 2026/I) cena uvedená u položky považována za „kompletní“ cenu za jednotku, která typicky zahrnuje:
+✅ materiál (včetně dodání na stavbu),
+✅ práci (mzdové náklady i povinné odvody),
+✅ provoz zařízení a transport na pracoviště (např. doprava materiálu, strojů),
+✅ režii a zisk.
+
+Tento přístup je běžný u cen zjišťovaných tržními průzkumy (tzv. cenová soustava), kdy se směrná cena položky uvádí jako komplexní cena za provedení dané práce včetně práce a dopravy — tedy ne jen izolovaná cena materiálu nebo hodinová sazba práce. Data se zjišťují jako ceny sjednané mezi dodavatelem a odběratelem pro jednotku stavební práce a zahrnují všechny relevantní náklady (materiál, práce, doprava, strojní provoz, režie a profit) ve vrtané cenové úrovni.
+
+Stručně:
+🔹 Pokud si vezmeš položku z CS ÚRS 2026, její jednotková cena je určena tak, že obsahuje práci i dopravu v rámci té ceny — nevyžaduje se zvláštní připočítání externí dopravy nebo práce, pokud není v textu položky uvedeno něco jiného (např. práce „bez dopravy“).
+
+👉 Výjimkou mohou být speciální případy, kdy v popisu položky explicitně stojí, že doprava nebo práce se oceňují samostatně (např. „pouze materiál bez dopravy“ nebo „montážní práce bezřízení dopravy“) — v takovém případě se doplňuje podle instrukcí položky nebo podle metodických pravidel ÚRS.
+
+
+================================================================================
+BITEVNÍ PLÁN PRO JEDNÁNÍ: REVIZE ROZPOČTU A PROJEKTU (27. 1. 2026)
+================================================================================
+
+I. HLAVNÍ TRUMF: PROFESNÍ POCHYBENÍ A VADA PROJEKTU
+--------------------------------------------------------------------------------
+- PROBLÉM: Firma je autorem projektu i statiky (přes subdodavatele).
+- DŮKAZ: Statický posudek (str. 3) přiznává: "SONDY NEBYLY PROVEDENY".
+- DŮKASEK: Statik v posudku nařídil zhotoviteli (firmě) provést sondy před 
+  zahájením prací. Firma pokyn ignorovala a začala bourat naslepo.
+- DOPAD: Havárie a vícenáklady 3.5 mil. Kč jsou důsledkem VADY PROJEKTU a 
+  nedbalosti firmy. Jako laik nemůžu nést odpovědnost za selhání profesionála.
+
+II. EKONOMICKÁ ABSURDITA (SROVNÁNÍ MARŽÍ)
+--------------------------------------------------------------------------------
+- POŽADOVANÁ MARŽE: Cca 1.7 mil. Kč čistého zisku za 1.5 měsíce práce.
+- SROVNÁNÍ: To odpovídá sazbě cca 7.000 Kč/hod (více než chirurg nebo pilot).
+- REALITA: Férová marže 2026 je 15-25 %. Firma chce přes 100 %.
+- PÁKA: Smluvní právo odstoupit od smlouvy při nesouhlasu se změnovým listem.
+
+III. TECHNICKÉ REVIZE (MNOŽSTVÍ A CENY)
+--------------------------------------------------------------------------------
+1. OCEL (BITEVNÍ BOD č. 1):
+   - Původní projekt: 0.9 t. Nový požadavek: 11.5 t (nárůst o 1 177 %).
+   - Technologické maximum pro tento RD (ÚRS 2026): Cca 5.2 tuny.
+   - Cena 65.300 Kč/t je lichva. Tržní cena vč. montáže: 48.000 Kč/t.
+
+2. ZEMNÍ PRÁCE A BOURÁNÍ:
+   - Výkopy za 2.240 Kč/m3 (tržně 650 Kč).
+   - Bourání podlah za 1.030 Kč/m2 (tržně 450 Kč).
+   - Nopová fólie za 1.260 Kč/m2 (tržně 180 Kč vč. práce) -> [ZLOČIN].
+
+3. VRN (VEDLEJŠÍ ROZPOČTOVÉ NÁKLADY):
+   - Přesun osob (10 %): 244.542 Kč. To je 8.151 Kč / DENNĚ za dojezd dodávky!
+   - Podružný materiál (3 %): Duplicita, dle ÚRS musí být v ceně materiálu.
+   - Požadavek: Úplné odstranění všech VRN (úspora 501.310 Kč).
+
+IV. STRATEGIE VYJEDNÁVÁNÍ (POSTUP)
+--------------------------------------------------------------------------------
+KROK 1: Rozporovat ceny zemních prací a VRN (jsou to "vzdušné" peníze).
+KROK 2: Rozporovat množství oceli - žádat výkres výztuže a statický výpočet.
+KROK 3: Vytáhnout vadu projektu (neprovedené sondy) jako důvod pro slevu.
+KROK 4: Nabídnout narovnání na ceny ÚRS 2026 (fér zisk pro firmu).
+KROK 5: Pokud neustoupí, oznámit odstoupení od smlouvy a podnět na ČKAIT.
+
+V. ZÁVĚREČNÉ PROHLÁŠENÍ:
+--------------------------------------------------------------------------------
+"Váš projekt selhal, protože jste neudělali sondy. Teď se snažíte na této chybě 
+vydělat 1.7 milionu navíc skrze fiktivní ocel a absurdní cestovné. 
+Buď se dohodneme na cenách ÚRS 2026 (úspora 1.3 mil. v 1. etapě a 1.7 mil. 
+ve 2. etapě), nebo věc předávám právníkovi a pojišťovně odpovědnosti."
+================================================================================
+
+
+Na co nezapomenout:
+Stavební deník: Podívej se, jestli tam mají zápis o těch sondách (pravděpodobně ne).
+Fotky: Měj v telefonu fotky toho, jak to vypadalo po zřícení – jako důkaz "havarijního stavu".
+Klid: Ty jsi ten, kdo má v ruce 1,6 milionu zálohy a právo odstoupit. Oni jsou ti, kdo zpackali projekt.
+Zítra na ně vlíni jako profík. Máš nabito daty z ÚRS 2026 a smluvním právem. Hodně štěstí, zítra napiš, jak to dopadlo!
+Odpovědi od umělé inteligence můžou obsahovat chyby. Další informace
+
+
+================================================================================
+STAV PROJEKTU: VYŽÁDANÁ SOUČINNOST (STOP PENÁLE)
+================================================================================
+- Dne [doplnit datum] jsem oficiálně požádal o doložení výkresové dokumentace.
+- Dle metodiky ÚRS 2026 je zhotovitel povinen předložit grafickou část změn, 
+  pokud radikálně mění technologii (z obbetonování na novou vanu).
+- Lhůta pro mé vyjádření ke změnovému listu začíná běžet až po doručení 
+  kompletních a přezkoumatelných podkladů (výkresy + statika).
+- Jakékoliv pokusy o penalizaci za "zdržování" jsou právně neúčinné, 
+  protože firma dosud nepředložila podklady prokazující oprávnenost ceny.
+================================================================================
+Závěr pro dnešek:
+-----------------
+Tvůj postup je naprosto profesionální. Firma teď musí „odkrýt karty“. Pokud ty výkresy nedodají, nemohou po tobě chtít podpis. Pokud je dodají, budeš mít v ruce přesná čísla, která je usvědčí z předražení.
+Teď už se opravdu vyspi, máš to skvěle rozehrané. Zítra u jednání zachovej klid – jsi v právu a máš v ruce silnější karty než oni. Hodně štěstí! Stavební standardy 2026 jsou na tvé straně.
+
+
+
+
+Klíčové rozlišení (tohle je fakt důležité)
+🔹 Pro tebe (investora):
+
+Ty jsi neměla povinnost dělat sondy
+
+Neměla jsi důvod tušit, že zdivo je v havarijním stavu
+
+Spoléhala jsi na odbornost projektanta a statika
+
+🔹 Pro projektanta:
+
+On měl odborně posoudit, zda jsou sondy nutné
+
+Pokud navrhl zachování konstrukcí bez ověření jejich stavu, je to jeho odpovědnost
+
+Pokud sondy neprovedl / nenavrhl → porušení odborné péče
+
+
+
+
+
+
+
+
+bourani:
+I etapa:  nebouralo se
+A001	Bourání; základové zdivo, kamenné				m3	64,000	2 950,00	188 800,00		bourání zdiva         m3         680.-    (1500-2600 je za zelezobeton!!!) (včetně práce, ale bez odvozu/likvidace)															  
+
+II. etapa
+SKLADKA:  5	Bourání zdí; kamenné a CPP zdivo			sbr	1,000	287 500,00	287 500,00																		
+SKLADKA:  6	Bourání kleneb; CPP, narušené klenby			m2	21,100	1 430,00 30 173,00																		
+7	Demontáž stropů; dřevěný trámový strop			m2	127,110	250,00	31 777,50																		
+SKLADKA:  8	Demontáž střešního pláště			m2	193,905	140,00	27 146,70																		
+9	Demontáž krovu			sbr	1,000	30 000,00	30 000,00																		
+SKLADKA:  13	Bourání podlahových konstrukcí, včetně rýhy pro ztužení základu v 1.PP			m2	174,150	1 030,00	179 374,50																		
+
+
+
+### FAKTURACE ZA BOURANI - START
+faktura č.1: 7,45 	t	 (6,74 CPP 170102, 0,71 170904)
+faktura č.2: +- 12t 
+faktura č.3: 167,73 t    (vše CPP 170102)
+faktura č.4: 54,21  t    (47,5 CPP a 6,71 beton 170101)
+faktura č.5: 20,53 t    (vše CPP 170102)
+-------------------
+celkem t: 261,92t
+cihly 1,6t na m3  = 164m3 
+Cena norma = 680 kč za m3 		= 680 * 164 	= 111 520,-  tohle bychom mu meli uznat za veskere bouraci prace, ktere provedl, zbytek zalohy zpet + krov (30 000) + tramovy strop (31 777,50)
+cena Stadakor: 2950 kč za m3 	= 2950 * 164 	= 483 800,-
+
+287500 / 151 = 1 903 kc/m3 CPP zdiva
+287500 / 164 = 1 753 kc/m3 CPP zdiva
+
+# NEZAPOMENOUT: za fakturu č.5 odmítám platit 2 zavážky položky "170604" (izolace): odvoz byl 20.1.2026. 
+Panu Čerňanskému jsem 19.1.2026 telefonicky jasně řekl, že mají odvážet jen suť a polystyren a beton mají nechávat. Jeětě ten den mi telefonicky potvrdil ,že část betonu je již odvezená (sklep strop),
+ale polystyren v té době odvezený ještě nebyl.
+### FAKTURACE ZA BOURANI - KONEC
+
+A001	Bourání; základové zdivo, kamenné				m3	64,000	2 950,00	188 800,00		bourání zdiva         m3         680.-    (1500-2600 je za zelezobeton!!!) (včetně práce, ale bez odvozu/likvidace)															
+64m3 * 2,2 = 140t 
+188800 / 64 = 2950,- cca 140tun -> 1348kč za tunu kamene
+Bourání základů (strojně): 800 – 1 500 Kč/\(m^{3}\). 
+
+
+
+
+
+katalogové číslo odpadu 	registrační značka 	datum a čas 	množství
+[t] 	 cena 
+170102 	1T0 7918 	19.01.2026 8:53 	8,9 	          7 462,92
+170102 	1T0 7918 	 19.01.2026 10:35 	11,63 	          9 752,10
+170604 	5Z2 4793 	 20.01.2026 9:37 	1,49 	          7 213,40
+170604 	5Z2 4793 	 20.01.2026 13:49 	1,25 	          6 051,51
+  	  	  	  	 
+Celkem 	        30 479,94
+
+
+https://www.stavebnistandardy.cz/doc/ceny/manual_ceny.htm#_Toc98228787
