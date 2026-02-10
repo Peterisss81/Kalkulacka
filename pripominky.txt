@@ -1210,17 +1210,36 @@ cena Stadakor: 2950 kč za m3 	= 2950 * 164 	= 483 800,-
 287500 / 151 = 1 903 kc/m3 CPP zdiva
 287500 / 164 = 1 753 kc/m3 CPP zdiva
 
+
 ### FAKTURACE ZA BOURANI
 # NEZAPOMENOUT: za fakturu č.5 odmítám platit 2 zavážky položky "170604" (izolace): odvoz byl 20.1.2026. 
 Panu Čerňanskému jsem 19.1.2026 telefonicky jasně řekl, že mají odvážet jen suť a polystyren a beton mají nechávat. Jeětě ten den mi telefonicky potvrdil ,že část betonu je již odvezená (sklep strop),
 ale polystyren v té době odvezený ještě nebyl.
 ### FAKTURACE ZA BOURANI - KONEC
 -----------------------------------------------------------------------------------
+Sklep - přeměřeno o přesahy: 							11.058
+1. NP - Přístavek - přeměřeno o přesahy: 				9.926
+1. NP - Obvodové zdivo  a příčky - přeměřeno o přesahy: 85.475
+2. NP - Obvodové zdivo  a příčky - přeměřeno o přesahy:	36.555
+Podlahy: puda-> 2NP: 8.534, 2NP -> 1NP: 11.15, 1NP -> Sklep: 12, pristavek 1NP -> sklep: 2.3 = 34
+součet: 177.014 m3 -> * 1.5 = 265.5 tun 
+koeficient (1.5 - 1.8 tun na m3)
 
 A001	Bourání; základové zdivo, kamenné				m3	64,000	2 950,00	188 800,00		bourání zdiva         m3         680.-    (1500-2600 je za zelezobeton!!!) (včetně práce, ale bez odvozu/likvidace)															
 64m3 * 2,2 = 140t 
 188800 / 64 = 2950,- cca 140tun -> 1348kč za tunu kamene
 Bourání základů (strojně): 800 – 1 500 Kč/\(m^{3}\). 
+
+
+Smluvní cena za m³: U takto tlustých zdí se běžně počítá objem. 
+Standardní cena pro rok 2026 za bourání cihelného zdiva je 800 – 1 500 Kč/m³. 
+Pokud jdou cihly vybírat rukou, můžete u řemeslníků vyjednat cenu kolem 600 – 800 Kč/m³
+
+Odhad ceny za kompletní demolici stropu
+Vzhledem k tomu, že jde o kombinaci betonu, keramiky a oceli, cena se obvykle kalkuluje za celek:
+Cena za demolici: Počítejte s rozmezím 500 – 900 Kč/m²
+
+... tedy zprumerovat na 1000 m3
 
 
 
@@ -1395,3 +1414,4 @@ V důsledku tohoto selektivního přístupu k projektové dokumentaci došlo
 k odhalení havarijního stavu až v průběhu destruktivních prací, čímž mi 
 vznikla škoda [X] mil. Kč. Tato škoda je přímým důsledkem porušení povinností 
 stavebního dozoru a zhotovitele.
+
