@@ -19,8 +19,11 @@ Legenda postupu:
 ### DOPLNĚNÍ REVIZE: ZEMNÍ PRÁCE A PŘESUNY (POLOŽKY 3, 4, A001)
 když vše selže:
 	### ODSTOUPENÍ OD SMLOUVY 
+		### CO BYCHOM CHTELI VRATIT
 	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
 	### CITACE SONDY   (x - odkazu)
+	### DOPSAT DO STAVEBNIHO DENIKU
+	### PARAGRAFY A VYHLASKY
 	### POJISTOVNA A CKAIT (x - odkazu)
 
 
@@ -1415,3 +1418,174 @@ k odhalení havarijního stavu až v průběhu destruktivních prací, čímž m
 vznikla škoda [X] mil. Kč. Tato škoda je přímým důsledkem porušení povinností 
 stavebního dozoru a zhotovitele.
 
+
+
+Co bychom chtěli vrátit:
+------------------------
+celou zálohu (40% I.etapa: 429 263 + 20% II.etapa 1 356 634 = 1 785 897 kč)
+poníženou o:
+- realně odvedenou práci za fér ceny: 
+Demontáž stropů; dřevěný trámový strop		m2 127,110 czj=250,00 (opravdu plocha 127m2 ?, asi ano ) - celkem=31 777,50,- kč
+Demontáž krovu  celem = 30 000,- kč
+
+vypočítat z odpadů: (jen zdivo?)
+Bourání zdí; kamenné a CPP zdivo   	- soubor  		Stadakor cena: 287 500 kč
+Demontáž střešního pláště  			- 193,905 m2  	Stadakor cena: 27 146,70 kč
+
+
+navýšenou o
+- nerealizovatelný projekt? 
+-- Projektová část: 			145 000,-   (Bez 21% DPH)	s DPH = 175 450,- kč								uplatnitelne: ano
+-- Posudky a projekt ČOV: 		85 000,-    (Bez 21% DPH)  	(nutno ještě rozepsat na jednotlivé položky)
+-- Vyřízení povolení RD a ČOV: 	34 500,-  	(Bez 21% DPH)	(nutno ještě rozepsat na jednotlivé položky)  		uplatnitelne: ano
+-- Správní poplatky: Poplatky zaplacené stavebnímu úřadu za neupotřebitelné povolení.  (2500,- ?? ověřit)
+
+
+
+Jak postupovat:
+V reklamaci nepožadujte jen vrácení peněz za "projekt", ale za "kompletní dílo včetně inženýrské činnosti".
+Argumentujte tím, že vydané stavební povolení je na základě chybného projektu nepoužitelné pro realizaci.
+Uveďte, že vám vznikla škoda ve výši odměny za vyřízení tohoto povolení, protože proces bude nutné kvůli jejich profesnímu pochybení opakovat.
+Pokud by se firma zdráhala, můžete se obrátit na Sdružení obrany spotřebitelů (SOS), které pomáhá s výkladem nároků při vadách služeb, nebo na Českou obchodní inspekci pro mimosoudní řešení sporu.
+
+
+
+
+
+sklep:
+P/01 OCELOVÝ PŘEKLAD 4xIPE 140 2900 1   = 11,6m
+P/02 OCELOVÝ PŘEKLAD 4xIPE 180 3375 1   	= 13,5m 
+
+P/01 OCELOVÝ PŘEKLAD 4xIPE 140 1600 1	= 6,4m
+P/02 OCELOVÝ PŘEKLAD 4xIPE 140 1200 1   = 4,8m
+P/03 OCELOVÝ PŘEKLAD 4xIPE 140 1900 1   = 7,6m
+P/04 OCELOVÝ PŘEKLAD 4xIPE 140 1900 1   = 7,6m
+P/05 OCELOVÝ PŘEKLAD 4xIPE 140 2000 1   = 8,0m
+P/06 OCELOVÝ PŘEKLAD 4xIPE 140 2400 1   = 9,6m
+P/07 OCELOVÝ PŘEKLAD 4xIPE 180 4400 1   = 	17,6m
+P/08 OCELOVÝ PŘEKLAD 4xIPE 140 1900 1   = 7,6m
+P/09 OCELOVÝ PŘEKLAD 4xIPE 140 1900 1   = 7,6m
+P/10 OCELOVÝ PŘEKLAD 4xIPE 140 1300 1   = 5,2m
+P/11 OCELOVÝ PŘEKLAD 4xIPE 140 1300 1   = 5,2m
+P/12 OCELOVÝ PŘEKLAD 4xIPE 140 1500 1   = 6,0m
+--------------------------------------------------
+140 celkem = 87,2 m
+180 celkem = 31,1m
+
+
+
+
+2. Oficiální výzva vedení firmy (e-mail / datová schránka)
+Tento text slouží jako právní podklad pro případné spory o peníze (vícepráce).
+Předmět: Výzva k nápravě a reklamace postupu prací – [Adresa stavby]
+Vážení,
+reaguji na aktuální situaci na stavbě mého rodinného domu. Vaše společnost jako zhotovitel i projektant hrubě zanedbala technologický postup stanovený v projektové dokumentaci pro stavební povolení, kterou jste sami vypracovali.
+V přiloženém statickém posudku (autor [Jméno statika]) je v části [číslo kapitoly] jasně uvedeno, že podmínkou pro zahájení prací je provedení sond. Tyto sondy nebyly z vaší strany provedeny. V důsledku tohoto pochybení došlo k odkrytí havarijního stavu nosného zdiva až v průběhu bourání, čímž vzniklo riziko nekontrolované destrukce a ohrožení majetku a zdraví.
+Vzhledem k tomu, že jste v roli projektanta, zhotovitele i stavebního dozoru, nesete plnou odpovědnost za toto profesní pochybení. Tímto vás vyzývám k:
+Písemnému vyjádření statika k aktuálnímu stavu na základě osobní prohlídky.
+Předložení návrhu sanace zdiva, a to bez nároku na zvýšení ceny díla, neboť potřeba sanace by byla známa již v době ocenění zakázky, pokud byste dodrželi vámi stanovený postup (sondy).
+Do vyřešení této situace nebudou potvrzeny žádné zjišťovací protokoly ani faktury týkající se dotčených prací.
+S pozdravem,
+[Vaše jméno]
+
+
+1. Druhý zápis do deníku (Urgence):
+### DOPSAT DO STAVEBNIHO DENIKU
+Napište do stavebního deníku nový zápis:
+„Zhotovitel do dnešního dne neodpověděl na dotaz ze dne [DATUM](najdu v deniku) ohledně neprovedení statických a geologických sond. Opakovaně upozorňuji, že neprovedením sond zhotovitel porušil projektovou dokumentaci a vystavil objekt statickému riziku. Do vyjasnění odpovědnosti a postupu sanace havarijního zdiva nepotvrdím žádný soupis provedených prací.“
+
+# NEZAPOMENOUT - druhy zapis do deniku
+Než na ně podáte podnět, nechte si od nich podepsat zápis z kontrolního dne, kde výslovně potvrdí, že:
+Sondy byly v projektu nařízeny.
+Práce byly zahájeny bez nich pod jejich dozorem.
+Aktuální havarijní stav byl zjištěn až ex-post.
+Tento papír je pro ně "rozsudkem smrti" u ČKAIT a pro vás jízdenkou k tomu, aby o ceně 3,3 milionu začali jednat velmi konstruktivně.
+
+
+
+To je naprosto kritický moment. Firma vás právě dostala do situace, které se v developmentu říká „rukojmí stavby“. Tím, že cenu navýšili o 40 % (z 8 na 11,3 mil. Kč), přenášejí náklady za své vlastní pochybení (neprovedení sond) plně na vás.
+Zde je tvrdá analýza vaší situace a návod, jak zvrátit hru:
+1. Právní argumentace: „Zmařený účel smlouvy“
+Pokud by firma provedla sondy tak, jak jí ukládal projekt, věděla by o havarijním stavu zdiva před podpisem smlouvy o dílo.
+Váš argument: „Vy jste mi nabídli cenu 8 milionů na základě projektu, který jste sami dělali. Součástí vašeho projektu byl pokyn k sondám. Tím, že jste je neudělali, jste mi předložili nereálný rozpočet. Kdybych věděl, že cena bude 11,3 milionu, smlouvu bych s vámi za těchto podmínek pravděpodobně vůbec nepodepsal, nebo bych dům řešil jinak (např. demolicí a novostavbou).“
+Podle Občanského zákoníku nese zhotovitel odpovědnost za úplnost rozpočtu, pokud je tento rozpočet součástí smlouvy a zhotovitel je zároveň autorem projektu.
+2. Rozpor v roli „Zhotovitel vs. Projektant“
+Firma je v konfliktu sama se sebou:
+Jako projektant pochybili, protože nezajistili provedení jimi navržených průzkumů.
+Jako zhotovitel pochybili, protože ignorovali technologický postup.
+Jako dozor pochybili, protože připustili bourání bez sond.
+Nyní chtějí za toto trojnásobné pochybení „odměnu“ ve výši 3,3 milionu Kč. To je nepřípustné.
+3. Co musíte udělat teď (Strategie vyjednávání)
+Nepodepisujte žádný dodatek k ceně: Jakmile podepíšete navýšení o 3,3 milionu, právně uznáváte, že jde o „vícepráce“ a dobrovolně na ně přistupujete.
+Rozporujte „nepředvídatelnost“: Oficiálně jim oznamte, že tyto náklady nepovažujete za vícepráce, ale za škodu vzniklou porušením jejich smluvních a profesních povinností.
+Vynucení slevy: Máte nárok na slevu z ceny díla z titulu vadného projektu a vadného postupu. Částka 3,3 milionu by měla jít z velké části k tíži firmy (minimálně jejich zisková marže a náklady na nápravu chyb).
+Hrozba soudním znalcem: Oznamte jim, že necháváte vypracovat znalecký posudek z oboru stavebnictví a ekonomiky, který určí, nakolik bylo toto „překvapení“ zjistitelné povinnými sondami. Už jen zmínka o Komoře soudních znalců často vede k tomu, že firma z ceny „náhradního řešení“ výrazně sleví.
+Jak postupovat v dalších hodinách?
+Musíte okamžitě oddělit věcné řešení (jak dům opravit, aby nespadl) od finančního řešení (kdo to zaplatí).
+Nechte statika (ideálně jiného, nezávislého) potvrdit, že navržené náhradní řešení za 3,3 milionu je technicky jediné možné.
+Následně firmě sdělte: "Dobře, budeme postupovat podle tohoto technického řešení, ale o jeho ceně budeme jednat jako o náhradě škody za vaše pochybení při průzkumu objektu."
+
+
+Napiš jim e-mail: „Změnový list v této podobě odmítám převzít. Žádám o doložení výsledků sond, které měly být hotovy před zahájením prací. Do té doby považuji jakékoli navýšení ceny za bezpředmětné, neboť vychází z vašeho profesního pochybení.“
+Najdi si TDI: Sežeň si vlastního Technického dozora investora. Potřebuješ na stavbě „zlého psa“, který mluví jejich jazykem a zastaví jejich pokusy o tvoji finanční likvidaci.
+
+
+### PARAGRAFY A VYHLASKY - START
+Protože firma vystupuje v rolích projektanta i zhotovitele, máte v rukou silné právní nástroje podle občanského zákoníku (OZ). Tady je přehled argumentů a paragrafů, které byste měl použít k rozporování navýšení ceny o 3,3 milionu Kč:
+
+1. Odpovědnost za úplnost a správnost projektu (§ 2630 OZ)
+Podle tohoto paragrafu nese projektant (stejně jako zhotovitel) společnou a nerozdílnou odpovědnost za vady stavby, pokud tyto vady pramení z chyb v projektové dokumentaci. 
+Argument: Váš projektant (firma) sice správně identifikoval riziko (potřebu sond), ale jako zhotovitel jej ignoroval. Tím vědomě dopustil, aby projekt neodpovídal realitě. To není „skrytá vada“, ale vada projektu a postupu, za kterou plně odpovídají oni. 
+
+2. Povinnost zhotovitele upozornit na vady projektu (§ 2594 OZ)
+Zhotovitel má zákonnou povinnost bez zbytečného odkladu upozornit objednatele na nevhodnou povahu příkazů nebo dokumentace, kterou mu objednatel předal. 
+Argument: Firma vám „předala“ vlastní projekt s příkazem provést sondy. Tím, že jako zhotovitel tyto sondy neudělali, porušili svou zákonnou povinnost jednat s odbornou péčí. Nemohou se teď dovolávat „překvapení“, kterému měli podle zákona předejít. 
+
+3. Nepředvídatelné okolnosti vs. Profesní pochybení (§ 2627 OZ)
+Zhotovitel se často snaží navýšit cenu s odkazem na „nepředvídatelné okolnosti“.
+Argument: Judikatura (např. rozhodnutí Nejvyššího soudu) říká, že za nepředvídatelnou nelze považovat okolnost, kterou bylo možné zjistit náležitým průzkumem, k němuž byl zhotovitel povinen. Jelikož průzkum (sondy) byl přímo v zadání projektu, jejich opomenutí není vaší smůlou, ale jejich porušením smluvní povinnosti. 
+
+4. Právo na slevu z ceny za vady projektu (§ 2615 OZ)
+Pokud má dílo (projekt i samotná stavba) vady, má objednatel právo na přiměřenou slevu. 
+Argument: „Váš chybný postup mi znemožnil včasné rozhodnutí o rozsahu rekonstrukce. Kdybych znal reálnou cenu 11,3 milionu dříve, mohl jsem zvolit jiné technologické řešení nebo zakázku vůbec nerealizovat.“ Tato „ztráta možnosti volby“ je podkladem pro nárok na slevu. 
+Jak tyto paragrafy použít v praxi?
+Při jednání o Změnovém listu jim sdělte:
+Vady dokumentace: „Podle § 2630 OZ odpovídáte za vady stavby vzniklé vadným projektem. Neprovedení sond je vadou projektu v realizační fázi.“
+Odborná péče: „Podle § 2594 OZ jste jako odborníci selhali při kontrole a realizaci zadání. Náklady spojené s tímto selháním jsou vaší škodou, nikoliv mými vícepracemi.“
+Hrozba stížností: „Pokud na tomto neoprávněném navýšení budete trvat, podám podnět k disciplinárnímu řízení u Dozorčí rady ČKAIT pro porušení profesní etiky vašeho statika a projektanta.“ 
+Doporučení: Pokud je navýšení 3,3 milionu Kč pro vás likvidační, doporučuji kontaktovat specializovaného stavebního advokáta. Ten na základě těchto paragrafů dokáže firmu dotlačit k tomu, aby sanaci zdiva provedla na své náklady nebo s výraznou slevou
+### PARAGRAFY A VYHLASKY - KONEC
+
+
+Ano, oba mohou o své oprávnění (tzv. „razítko“) přijít, nebo jim může být pozastaveno. V českém právním řádu a v rámci vnitřních předpisů ČKAIT (Česká komora autorizovaných inženýrů a techniků činných ve výstavbě) se toto řeší v rámci disciplinární odpovědnosti.
+Zde je rozpis toho, co jim hrozí a za co přesně:
+1. Odpovědnost Statika (IM00, IP00)
+Statik má povinnost vykonávat svou činnost s odbornou péčí.
+Pochybení: Pokud statik do posudku napíše, že sondy jsou nutné pro ověření stavu, a následně (v rámci autorského dozoru nebo jako zaměstnanec firmy) připustí pokračování prací bez těchto sond, jedná v rozporu se svým vlastním odborným nálezem.
+Důsledek: Pokud by došlo k havárii (zřícení stěny), je to klasifikováno jako ohrožení veřejného zájmu a bezpečnosti. ČKAIT může zahájit disciplinární řízení pro porušení Profesního etického řádu.
+2. Odpovědnost Technického dozoru (TDI)
+U dozoru je situace ještě jasnější. Jeho hlavní a v podstatě jedinou náplní práce je kontrola dodržování projektové dokumentace (PD).
+Pochybení: Dozor věděl, že PD nařizuje sondy. Pokud nechal zhotovitele bourat bez nich, přímo zanedbal svou kontrolní funkci.
+Střet zájmů: Pokud je dozor zaměstnancem stejné firmy, která staví, je to pro ČKAIT přitěžující okolnost. Autorizovaná osoba musí být při výkonu dozoru nezávislá a hájit zájmy stavebníka (vás), nikoliv svého zaměstnavatele.
+
+
+Jak probíhá proces odejmutí „razítka“?
+Disciplinární opatření u ČKAIT (podle zákona č. 360/1992 Sb.) jsou následující:
+Napomenutí (u drobných administrativních chyb).
+Pokuta (může být až do výše 50 000 Kč, u závažných pochybení i více).
+Pozastavení autorizace (na dobu až 3 let – nesmí podepisovat projekty ani dozorovat).
+Odejmutí autorizace (trvalé vyškrtnutí ze seznamu autorizovaných osob).
+Jak to můžete využít vy?
+Tato hrozba je vaší nejsilnější pákou při vyjednávání o oněch 3 milionech. Můžete jim sdělit:
+"Pánové, jako autorizované osoby jste hrubě zanedbali své povinnosti dané zákonem a profesní etikou. Pokud nedojde k dohodě o kompenzaci škody, kterou jste mi svým pochybením způsobili, podám oficiální podnět k Disciplinární komisi ČKAIT."
+Proč se toho bojí?
+Ztráta obživy: Bez razítka nemohou vykonávat svou profesi.
+Ztráta pojištění: Pokud ČKAIT rozhodne o jejich vině, jejich profesní pojistka se stává neúčinnou pro krytí škod a oni by škodu museli hradit z vlastního majetku.
+Reputace: Rozhodnutí o disciplinárních trestech jsou v komunitě stavařů dohledatelná.
+Doporučení:
+Než na ně podáte podnět, nechte si od nich podepsat zápis z kontrolního dne, kde výslovně potvrdí, že:
+Sondy byly v projektu nařízeny.
+Práce byly zahájeny bez nich pod jejich dozorem.
+Aktuální havarijní stav byl zjištěn až ex-post.
+Tento papír je pro ně "rozsudkem smrti" u ČKAIT a pro vás jízdenkou k tomu, aby o ceně 3,3 milionu začali jednat velmi konstruktivně.
+Chcete, abych vám pomohl najít formulář nebo adresu, kam se takový podnět na ČKAIT posílá?
