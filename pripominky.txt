@@ -21,7 +21,7 @@ když vše selže:
 	### ODSTOUPENÍ OD SMLOUVY 
 		### CO BYCHOM CHTELI VRATIT
 	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
-	### TROJROLE
+	### TROJROLE (x-odkazu)
 	### CITACE SONDY   (x - odkazu)
 	### DOPSAT DO STAVEBNIHO DENIKU
 	### PARAGRAFY A VYHLASKY
@@ -1532,7 +1532,8 @@ Najdi si TDI: Sežeň si vlastního Technického dozora investora. Potřebuješ 
 
 
 ### PARAGRAFY A VYHLASKY - START
-Protože firma vystupuje v rolích projektanta i zhotovitele, máte v rukou silné právní nástroje podle občanského zákoníku (OZ). Tady je přehled argumentů a paragrafů, které byste měl použít k rozporování navýšení ceny o 3,3 milionu Kč:
+### TROJROLE
+Protože firma vystupuje v rolích projektanta i zhotovitele (i dozoru), máte v rukou silné právní nástroje podle občanského zákoníku (OZ). Tady je přehled argumentů a paragrafů, které byste měl použít k rozporování navýšení ceny o 3,3 milionu Kč:
 
 1. Odpovědnost za úplnost a správnost projektu (§ 2630 OZ)
 Podle tohoto paragrafu nese projektant (stejně jako zhotovitel) společnou a nerozdílnou odpovědnost za vady stavby, pokud tyto vady pramení z chyb v projektové dokumentaci. 
@@ -1590,4 +1591,5 @@ Práce byly zahájeny bez nich pod jejich dozorem.
 Aktuální havarijní stav byl zjištěn až ex-post.
 Tento papír je pro ně "rozsudkem smrti" u ČKAIT a pro vás jízdenkou k tomu, aby o ceně 3,3 milionu začali jednat velmi konstruktivně.
 Chcete, abych vám pomohl najít formulář nebo adresu, kam se takový podnět na ČKAIT posílá?
+
 
