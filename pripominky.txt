@@ -1,6 +1,30 @@
 Zkratky:
 ÚRS - Dříve označení firmy Ústav racionalizace ve stavebnictví, dnes označení ceníku stavebních prací
 Legenda postupu: 
+
+
+CENA = MATERIÁL + MZDY + STROJE + ODVODY + OPN (Ostatní přímé náklady) + REŽIE + ZISK
+z čeho se skládá jejich cena? (doplnit ano/ne)
+CENA = 
+MATERIÁL						ANO / NE
+MZDY 							ANO / NE
+STROJE							ANO / NE
+DOPRAVA							ANO / NE						
+ODVODY (zdravotní/sociální)		ANO / NE
+OPN (Ostatní přímé náklady)		ANO / NE
+REŽIE							ANO / NE
+ZISK							ANO / NE
+
+MATERIÁL: Přímý materiál (spotřebovaný na výrobu).
+MZDY: Přímé mzdy pracovníků (odměny za práci).
+STROJE: Náklady na provoz a odpisy strojů.
+ODVODY: Povinné odvody z mezd (sociální a zdravotní pojištění za zaměstnance).
+OPN (Ostatní přímé náklady): Náklady přímo přiřaditelné k zakázce, např. energie, subdodávky.
+REŽIE: Nepřímé náklady (výrobní, správní, odbytová) – např. nájemné, energie, pojištění.
+ZISK: Plánovaná částka zisku nad rámec nákladů. 
+
+
+Legenda postupu: 
 ### Název kapitoly s třema ###  a oznacenim START a KONEC -> a následně se dívat i po odstavci "# NEZAPOMENOUT" s jedním #
 
 ### BITEVNÍ MANUÁL: KDY A JAK POUŽÍT KONKRÉTNÍ ARGUMENTY
@@ -1591,5 +1615,6 @@ Práce byly zahájeny bez nich pod jejich dozorem.
 Aktuální havarijní stav byl zjištěn až ex-post.
 Tento papír je pro ně "rozsudkem smrti" u ČKAIT a pro vás jízdenkou k tomu, aby o ceně 3,3 milionu začali jednat velmi konstruktivně.
 Chcete, abych vám pomohl najít formulář nebo adresu, kam se takový podnět na ČKAIT posílá?
+
 
 
