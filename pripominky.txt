@@ -668,6 +668,9 @@ Podružný materiál        | 3,0 % | 73 362 Kč     | 0 Kč           | - 73 36
 CELKEM K ODSTRANĚNÍ      | 20,5% | 501 310 Kč    | 0 Kč           | - 501 310 Kč    | (Všechny částky jsou bez DPH)
 ====================================================================================================================================
 
+DETAILNÍ ARGUMENTACE K NÁKLADNÍ DOPRAVA (5 %):
+Nákladní doprava 5 %: U základů tvoří největší položku beton (mixy) a kamenivo. Doprava betonu je však standardně zahrnuta už v ceně m³ betonu z betonárky. Tím, že vám firma účtuje dalších 5 % z celkové ceny, platíte dopravu podruhé.
+
 
 DETAILNÍ ARGUMENTACE K PODRUŽNÉMU MATERIÁLU (3 %):
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -1615,6 +1618,7 @@ Práce byly zahájeny bez nich pod jejich dozorem.
 Aktuální havarijní stav byl zjištěn až ex-post.
 Tento papír je pro ně "rozsudkem smrti" u ČKAIT a pro vás jízdenkou k tomu, aby o ceně 3,3 milionu začali jednat velmi konstruktivně.
 Chcete, abych vám pomohl najít formulář nebo adresu, kam se takový podnět na ČKAIT posílá?
+
 
 
 
