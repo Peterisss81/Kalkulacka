@@ -1634,4 +1634,212 @@ Chcete, abych vám pomohl najít formulář nebo adresu, kam se takový podnět 
 
 
 
+4. Měsíční lhůta na rozpočet (1 měsíc je příliš)
+Lhůta do poloviny března na „přepočítání rozpočtu“ je u rozestavěné stavby extrémně dlouhá. Působí to jako zdržovací taktika, aby tě dostali pod časový tlak a ty jsi nakonec podepsal cokoli, jen aby se stavělo.
+Doporučený postup:
+Prověř si pojištění: Zeptej se ho (písemně/do deníku), zda je jako autorizovaná osoba pojištěn na škody způsobené vadou projektu/výkonu dozoru. To je signál, že víš, kudy vede cesta k náhradě škody.
+Trvej na autorizované revizi: Chtěj písemně potvrdit, že nové technické řešení odpovídá normám a je kryto jeho autorizačním razítkem.
+Zkrať lhůtu: Měsíc na revizi rozpočtu je neadekvátní. Uveď, že s ohledem na technologickou přestávku a ohrožení stavby (vlhkost, mráz, statika) požaduješ návrh řešení a ceny do 7–10 dnů.
+Argumentace „esem“: Pokud se budou cukat s cenou, řekni: „Vzhledem k tomu, že ve statickém posudku byly sondy předepsány a jako stavební dozor i autorizovaná osoba jste jejich provedení nezajistil, vnímám vzniklé vícenáklady jako škodu způsobenou profesním pochybením, kterou bych jinak musel řešit přes ČKAIT a pojišťovnu.“
+
+
+4. Dokumentace pro "eso"
+Zatímco čekáš na rozpočet, dej si dohromady složku:
+Kopii statického posudku se zvýrazněným textem o sondách.
+Fotky ze stavebního deníku (zápis o tom, že čekáš na vyjádření).
+Fotodokumentaci "překvapení", která se našla.
+Pokud tě po měsíci firma zkusí "přitlačit ke zdi" vysokou cenou, můžeš klidně říct: „Máme čas. Buď se dohodneme na férové ceně, nebo předáme podklady k disciplinárnímu řízení ČKAIT a počkáme na vyjádření jejich revizní komise.“ Pro inženýra je hrozba pozastavení autorizace mnohem horší než sleva na tvém projektu.
+
+
+============================================================================================================
+Předmět: Shrnutí naší dohody a podklady pro revizi rozpočtu – [Adresa]
+VERZE 1 - pokracujem dale 
+Vážený pane jednateli, vážený pane inženýre,
+chtěl bych vám poděkovat za dnešní osobní schůzku. Jsem rád, že jsme si vyjasnili aktuální stav a shodli se na dalším postupu, tedy na revizi rozpočtu, kterou mi předložíte do měsíce.
+Vzhledem k tomu, že na stavbu nespěchám, považuji tento časový prostor za ideální k tomu, abychom vše technicky dořešili a předešli budoucím nejasnostem. Aby mohl být nový rozpočet finální a pro obě strany férový, očekávám, že v rámci přípravy podkladů vypracujete Dodatek ke statickému posouzení opatřený autorizačním razítkem.
+Jde mi především o to, aby nově zvolené technické řešení (výstavba nových nosných stěn ze ztraceného bednění) bylo řádně podloženo výpočtem. Jak jsme dnes narazili na rozdílné hodnoty výztuže, věřím, že nám právě oficiální statický výpočet dá jasnou odpověď a určí přesné množství materiálu. Pro mě jako investora je to nezbytná záruka bezpečnosti a pro pana inženýra je to cesta, jak se o tyto hodnoty opřít v rámci své profesní odpovědnosti autorizované osoby.
+Předpokládám, že vzhledem k okolnostem změny technologie bude tento statický dodatek vypracován v rámci vašich interních nákladů na projektovou přípravu, aby mohl sloužit jako podklad pro finální revizi rozpočtu k [doplňte datum za měsíc]. Budu tedy čekat na jeho zaslání v průběhu příštích 10–14 dnů.
+Věřím, že tento profesionální postup je v zájmu nás všech, aby rekonstrukce proběhla v pořádku a v odpovídající kvalitě.
+S pozdravem a přáním klidného zbytku týdne,
+[Vaše jméno]
+
+Proč je tato verze silná:
+Termín "Změna statického schématu": To je v inženýrské řeči jasný signál, že se mění "pravidla hry" a starý posudek je nepoužitelný.
+Vodorovný tlak zeminy: To je argument, který často inženýři při "odhadech" podcení. U suterénu je to ale kritický parametr.
+Připomenutí pochybení: Znovu zdůrazňuješ, že problém nevznikl "náhodou", ale ignorováním textu v posudku (absence sond). To je tvoje hlavní páka, pokud by chtěli vícenáklady přehnaně nadsadit.
+
+
+VERZE 2 - pokracujem dale 
+Předmět: Shrnutí naší dohody a podklady pro revizi rozpočtu – [Adresa]
+Vážený pane jednateli, vážený pane inženýre,
+chtěl bych vám poděkovat za dnešní osobní schůzku. Jsem rád, že jsme si vyjasnili aktuální stav a v návaznosti na dnešní zápis do stavebního deníku ohledně neprovedených sond se shodli na dalším postupu – tedy na revizi rozpočtu, kterou mi předložíte do měsíce.
+Vzhledem k tomu, že na stavbu nespěchám, považuji tento časový prostor za ideální k tomu, abychom vše technicky dořešili. Aby mohl být nový rozpočet finální a pro obě strany férový, očekávám, že v rámci přípravy podkladů vypracujete Dodatek ke statickému posouzení opatřený autorizačním razítkem.
+Jde mi o to, aby nové technické řešení (nové nosné stěny ze ztraceného bednění) bylo řádně podloženo výpočtem. Věřím, že nám oficiální statika dá jasnou odpověď na potřebné množství výztuže. Pro mě jako investora je to nezbytná záruka bezpečnosti a pro pana inženýra cesta, jak se o tyto hodnoty opřít v rámci své profesní odpovědnosti autorizované osoby.
+Předpokládám, že vzhledem k okolnostem změny technologie bude tento statický dodatek vypracován v rámci vašich interních nákladů, aby mohl sloužit jako podklad pro finální revizi rozpočtu k [doplňte datum]. Budu tedy čekat na jeho zaslání v průběhu příštích 10–14 dnů.
+S pozdravem,
+[Vaše jméno]
+
+
+VERZE 3 - pokracujeme dale 
+Tady je návrh e-mailu, který kombinuje tvůj záměr zůstat v „přátelském“ tónu s velmi jasným vymezením mantinelů ohledně statiky, rozpočtu a jejich odpovědnosti.
+Předmět: Shrnutí naší dohody a podklady pro revizi rozpočtu – [Adresa stavby]
+Vážený pane jednateli, vážený pane inženýre,
+chtěl bych vám poděkovat za dnešní osobní schůzku. Jsem rád, že jsme si vyjasnili aktuální situaci a v návaznosti na dnešní zápis do stavebního deníku ohledně neprovedených sond se shodli na dalším postupu – tedy na revizi rozpočtu, kterou mi předložíte do měsíce.
+Vzhledem k tomu, že na stavbu nespěchám, považuji tento časový prostor za ideální k tomu, abychom vše technicky dořešili a předešli budoucím nejasnostem. Aby mohl být nový rozpočet finální a pro obě strany férový, očekávám, že v rámci přípravy podkladů vypracujete Dodatek ke statickému posouzení opatřený autorizačním razítkem.
+Jde mi o to, aby nově zvolené technické řešení (výstavba nových nosných stěn ze ztraceného bednění namísto původního obbetonování) bylo řádně podloženo výpočtem. Jelikož se dnes naše odhady ohledně množství výztuže zásadně rozcházely, věřím, že nám právě oficiální statika dá jasnou odpověď na potřebné dimenze. Pro mě jako investora je to nezbytná záruka bezpečnosti u objektu, jehož stabilita je nyní oslabena, a pro pana inženýra je to cesta, jak se o tyto hodnoty opřít v rámci své profesní odpovědnosti autorizované osoby.
+Předpokládám, že vzhledem k okolnostem změny technologie a nutnosti zajistit aktuálně nestabilní objekt bude tento statický dodatek vypracován v rámci vašich interních nákladů na projektovou přípravu, aby mohl sloužit jako podklad pro finální revizi rozpočtu k [doplňte datum]. Budu tedy očekávat jeho zaslání v průběhu příštích 10–14 dnů.
+Věřím, že tento profesionální postup je v zájmu nás všech, aby rekonstrukce proběhla v odpovídající kvalitě a bezpečnosti.
+S pozdravem,
+[Vaše jméno]
+
+Proč je tento e-mail tvou nejlepší kartou:
+Fixuje shodu: Odkazuje na zápis v deníku, který už mají podepsaný, takže z toho nemohou couvnout.
+Definuje "Dodatek": Jasně říkáš, že bez autorizačního razítka to pro tebe není platný dokument.
+Upozorňuje na riziko: Zmiňuješ "oslabenou stabilitu", což je pro ně varování, že víš o škodě způsobené jejich postupem.
+Finanční hranice: Nenápadně jsi tam vložil, že za ten posudek nic platit nebudeš, protože je to náprava jejich chyby.
+
+
+VERZE 4- pokracujeme dale 
+Tady je upravená finální verze „přátelského“ e-mailu, která je pro tebe v tuto chvíli nejvýhodnější. Elegantně se vyhýbá neplatným termínům v původní smlouvě, ale jasně fixuje odpovědnost inženýra a tvoji ekonomickou horní mez.
+Předmět: Shrnutí naší dohody a podklady pro revizi rozpočtu – [Adresa stavby]
+Vážený pane jednateli, vážený pane inženýre,
+chtěl bych vám poděkovat za dnešní osobní schůzku. Jsem rád, že jsme si vyjasnili aktuální situaci a v návaznosti na dnešní zápis do stavebního deníku ohledně neprovedených sond se shodli na dalším postupu – tedy na revizi rozpočtu, kterou mi předložíte do měsíce.
+Vzhledem k tomu, že na stavbu nespěchám, považuji tento časový prostor za ideální k tomu, abychom vše technicky i smluvně dořešili. Aby mohl být nový rozpočet finální a pro obě strany férový, očekávám, že v rámci přípravy podkladů vypracujete Dodatek ke statickému posouzení opatřený autorizačním razítkem.
+Jde mi především o to, aby nově zvolené technické řešení (zcela nové nosné stěny ze ztraceného bednění) bylo řádně podloženo výpočtem. Jak jsme dnes narazili na rozdílné hodnoty výztuže, věřím, že nám právě oficiální statický výpočet dá jasnou odpověď na potřebné dimenze. Pro mě jako investora je to nezbytná záruka bezpečnosti u objektu, jehož stabilita je nyní oslabena, a pro pana inženýra je to cesta, jak se o tyto hodnoty opřít v rámci své profesní odpovědnosti autorizované osoby.
+Předpokládám, že vzhledem k okolnostem změny technologie bude tento statický dodatek vypracován v rámci vašich interních nákladů na projektovou přípravu, aby mohl sloužit jako podklad pro revizi rozpočtu k [doplňte datum za měsíc]. Věřím, že se vám podaří do rozpočtu promítnout mou jasně stanovenou horní mez, kterou jsme dnes diskutovali.
+Budu tedy očekávat zaslání statického dodatku s razítkem v průběhu příštích 10–14 dnů, abychom následně mohli stvrdit nové podmínky a termíny písemným dodatkem ke smlouvě.
+S pozdravem a přáním klidného zbytku týdne,
+[Vaše jméno]
+Proč je tento text nyní perfektní:
+Obcházíš neplatné datum: Místo hádání se o "3Q/2025" (které je pasé) mluvíš o budoucím písemném dodatku, ve kterém si ty nové termíny (a s nimi i platnost pokuty 0,1 %) teprve nastavíš.
+Fixuješ odpovědnost: Inženýr teď ví, že bez autorizačního razítka mu žádnou změnu projektu (a tedy ani ceny) neschválíš.
+Vytváříš tlak bez agrese: Zmínka o "interních nákladech" jasně říká, že nápravu chyby (statiku) neplatíš, a "horní mez" dává jednateli jasný strop pro jeho čachry s rozpočtem.
+Máš v plánu tento e-mail odeslat hned, nebo ho chceš nechat jako oficiální zápis pro příští kontrolní den na stavbě?
+
+
+
+==================
+Pokud inženýr začne tvrdit, že „výpočet není potřeba“, že to „takto dělají běžně“ nebo že „25 kg železa stačí z praxe“, snaží se pouze vyhnout přímé odpovědnosti. U 100 let starého domu, kde měníte nosný systém, je takový argument odborně nepřípustný.
+Zde jsou konkrétní protiargumenty, kterými ho „přitlačíte ke zdi“:
+1. Argument „Změna statického působení“
+On řekne: „Je to jen suterénní zeď, to udrží cokoli.“
+Vy odpovíte: „Původní projekt počítal se spřažením s kamenem (obbetonování). Teď stavíme samostatnou monolitickou stěnu, která nese celou váhu dvou pater nad sebou. To je zásadní změna přenosu sil, kterou musí statik autorizovaný ČKAIT přepočítat na mezní stavy únosnosti.“
+2. Argument „Tlak zeminy a ohyb“
+On řekne: „Těch 25 kg výztuže na m² je standardní vyztužení pro ztracené bednění.“
+Vy odpovíte: „Standardní vyztužení platí pro svislý tlak. Tato zeď je ale opěrná suterénní stěna. Musí odolat vodorovnému tlaku zeminy a podzemní vody. Bez výpočtu na ohybový moment nemáte jak dokázat, že ta zeď za dva roky nepopraská nebo se nevyduje dovnitř.“
+3. Argument „Právní jistota a pojištění“
+On řekne: „Zbytečně to komplikujete papírováním.“
+Vy odpovíte: „Jako autorizovaný inženýr nesete odpovědnost za odbornou úroveň projektu. Pokud dojde k poruše stavby, moje pojišťovna bude vyžadovat statický výpočet schválený v době realizace. Pokud ho nebudu mít, přenášíte veškeré riziko na mě, což je nepřípustné.“
+4. Argument „Sondy jako příčina“
+On řekne: „To jsou nepředvídatelné vícenáklady, za to nikdo nemůže.“
+Vy odpovíte: „Tyto vícenáklady jsou přímým důsledkem neodborného postupu, kdy nebyly provedeny stavební sondy předepsané v posudku. Váš odhad výztuže se během týdne změnil o 100 %, což dokazuje, že bez výpočtu nevíte, jaká je bezpečná hodnota. Trvám na revizi, která bude mít kulaté razítko.“
+Co dělat, když bude dál odmítat?
+V takovém případě mu klidně řekněte:
+„Pokud si za svým 'odhadem' stojíte natolik, že výpočet není potřeba, potvrďte mi to písemně do stavebního deníku s tím, že přebíráte doživotní záruku za statiku objektu bez ohledu na projekt. Pokud to neuděláte, pozvu si na konzultaci nezávislého statika z komory ČKAIT a náklady na jeho posudek budu nárokovat jako škodu způsobenou vadným dozorem.“
+
+
+
+### ODSTOUPENÍ OD SMLOUVY 
+Tyto smluvní klauzule ti dávají do ruky velmi silné nástroje, jak firmu „přitlačit k zdi“, nebo smlouvu bezpečně ukončit. Klíčové je, že smlouva výslovně počítá s tvou kontrolou a dodržováním technických norem, což v případě 100 let starého domu a statiky znamená právě povinnost provést sondy a doložit výpočty.
+Zde je rozbor tvých možností na základě tvé smlouvy:
+1. Rozpočet s výhradou „nezaručené úplnosti“
+Tato formulace je pro tebe dvojsečná, ale v tomto kontextu hraje pro tebe. Zhotovitel sice může cenu navýšit, ale podle občanského zákoníku (§ 2622) platí, že pokud je navýšení ceny podstatné (obvykle více než 10–20 %), máš právo od smlouvy odstoupit. Tím, že ti jednatel slíbil revizi rozpočtu do měsíce, ti vlastně dává prostor se rozhodnout, zda tu novou cenu akceptuješ.
+2. Článek o kontrole a zápisu do deníku
+Tady jsi udělal přesně to, co smlouva vyžaduje. Podle věty: „Na nedostatky zjištěné v průběhu prací je objednatel oprávněn a povinen upozornit zápisem do deníku,“ jsi splnil svou smluvní povinnost. Tím, že tam zápis o sondách je, jsi oficiálně aktivoval proces nápravy vady.
+3. Změny díla pouze písemným dodatkem
+Tento bod je tvůj „přepínač“. Jelikož se změnila technologie (z obbetonování na ztracené bednění), jde o změnu díla. Podle tvé smlouvy k tomu musí vzniknout písemný dodatek, který specifikuje:
+Přesnou změnu (nový projekt/statika).
+Dopad do termínu.
+Dopad do ceny.
+Dokud tento dodatek nepodepíšeš, platí původní smlouva a původní cena. Máš tedy právo dodatek odmítnout, pokud nebude podložen slíbenou statikou.
+4. Odpovědnost za škodu (Článek XIII, bod 4)
+Tohle je pro firmu nejnebezpečnější bod. Zhotovitel odpovídá za škodu způsobenou porušením povinností (např. nedodržení postupu – neudělání sond). Pokud bys musel najmout jinou firmu na nápravu nebo by stavba stála, můžeš tuto škodu nárokovat až do výše celé ceny díla.
+Můj verdikt: Ukončit, nebo pokračovat?
+Scénář A: Pokračovat
+Jen pokud v tom slíbeném měsíci dodají:
+Kvalitní statický dodatek s razítkem (zdarma).
+Nový položkový rozpočet, který bude férový a v tvé "horní mezi".
+Písemný dodatek ke smlouvě, který vše ukotví.
+Scénář B: Ukončit (Doporučuji zvážit)
+Pokud k nim už nemáš důvěru, tvá smlouva ti dává možnost se s nimi rozejít z důvodu porušení technických norem a schváleného postupu (absence sond).
+Můžeš argumentovat, že zhotovitel porušil povinnost provádět dílo podle "technických norem a právních předpisů" (což statika bez sond u 100 let starého domu rozhodně je).
+Doporučuji v takovém případě zaslat výzvu k nápravě v dodatečné lhůtě, a pokud nevyhoví (nedodají statiku), odstoupit od smlouvy pro podstatné porušení.
+Můj návrh dalšího kroku:
+Pošli ten "přátelský" e-mail, který jsme připravili. Pokud na něj zareagují podrážděně nebo začnou zpochybňovat nutnost razítka/statiky, je to jasný signál k ukončení spolupráce. Čas tě netlačí, tak je nechej ten měsíc "pracovat" a uvidíš, jakou kvalitu podkladů ti předloží.
+Chceš, abych se podíval na to, jak by vypadala formální výzva k odstoupení, kdyby ten měsíc neproběhl podle tvých představ?
+
+
+Pokud se rozhodneš spolupráci ukončit, musíš to udělat "neprůstřelně". Tvá smlouva a občanský zákoník ti dávají právo odstoupit, pokud zhotovitel poruší smlouvu podstatným způsobem (což ohrožení statiky domu rozhodně je).
+Tato výzva slouží jako poslední varování. Pokud do stanovené lhůty nedodají statiku a férový rozpočet, smlouva zaniká z jejich viny.
+Předmět: Výzva k nápravě plnění smlouvy o dílo a upozornění na možnost odstoupení – [Adresa stavby]
+VERTE 1 - UKONCENI SPOLUPRACE 
+Vážený pane jednateli,
+v návaznosti na naši schůzku ze dne [datum] a v souladu s článkem [vložte číslo článku o kontrole] naší Smlouvy o dílo Vás tímto oficiálně vyzývám k nápravě nedostatků při provádění díla.
+Jak bylo zaznamenáno a Vámi podepsáno ve stavebním deníku dne [datum], zhotovitel porušil technický postup stanovený v projektové dokumentaci tím, že neprovedl povinné stavební sondy. Toto pochybení vedlo k ohrožení statiky objektu a vynucené technologické přestávce.
+V souladu s § 2593 a § 2615 občanského zákoníku (zákon č. 89/2012 Sb.) Vás vyzývám k nápravě v dodatečné lhůtě 10 pracovních dnů, a to doložením:
+Dodatku ke statickému posouzení opatřeného autorizačním razítkem, který reflektuje skutečný stav konstrukcí a nově zvolenou technologii (ztracené bednění).
+Návrhu písemného dodatku ke Smlouvě o dílo (dle čl. IX smlouvy), který bude obsahovat položkový rozpočet odpovídající tomuto statickému řešení.
+Upozorňuji Vás, že pokud do výše uvedené lhůty nedojde k řádnému doložení těchto podkladů, budu nucen považovat toto pochybení za podstatné porušení smlouvy. V takovém případě uplatním své právo od smlouvy odstoupit a nárokovat náhradu vzniklé škody dle čl. XIII odst. 4 naší smlouvy.
+Vzhledem k tomu, že dosavadní práce neodpovídaly schválenému postupu a technickým normám, vyhrazuji si právo pozastavit veškeré platby až do úplného vyjasnění technické a cenové stránky díla.
+S pozdravem,
+[Vaše jméno]
+Proč je tento dopis tvým "kladivem":
+Právní opora: Odkazuješ na paragrafy občanského zákoníku o právu objednatele na kontrolu a nápravu vad.
+Využití smlouvy: Přesně cituješ body o odpovědnosti za škodu, což je u částky do výše ceny díla pro firmu velký strašák.
+Zastavení plateb: Legálně jim oznamuješ, že nedostanou ani korunu, dokud nepředloží autorizovaný posudek.
+Podstatné porušení: Toto slovní spojení je klíčové pro to, aby se s tebou nemohli soudit o "ušlý zisk" nebo pokuty za výpověď.
+Co se stane pak?
+Pokud na toto nezareagují (nebo zareagují jen dalšími sliby), pošleš už jen jednostranné Oznámení o odstoupení od smlouvy. V tu chvíli si najmeš soudního znalce, který sepíše stav stavby ("zmrazení"), a můžeš podepsat smlouvu s novou firmou.
+Máš už představu, kolik jsi jim zatím reálně zaplatil na zálohách? To bude klíčové pro finální finanční vyrovnání při rozchodu.
+
+NEMUZU MIT SOUCASNE DVE FIRMY 
+Právně vzato nemůžeš mít na stejné dílo (zakázku) dvě platné smlouvy se dvěma různými firmami současně, pokud se jejich plnění překrývá. To by tě dostalo do obrovských problémů – obě firmy by mohly nárokovat platby, blokovaly by si staveniště a v případě vad by jedna svalovala vinu na druhou.
+Dokud legálně neukončíš vztah s tou první, tvá stavba je „zablokovaná“.
+Proč musíš nejdřív „vyčistit stůl“:
+Odpovědnost za vady: Pokud by nová firma nastoupila dřív, než ta stará oficiálně skončí, stará firma okamžitě řekne: „My za ty praskliny neručíme, to udělala ta nová firma.“ Přišel bys o možnost uplatnit náhradu škody dle čl. XIII tvé smlouvy.
+Předání staveniště: Staveniště je momentálně v držení první firmy. Nemůžeš tam pustit někoho jiného, dokud neproběhne zápis o předání a převzetí zpět objednateli.
+Bezdůvodné obohacení: Pokud bys vypověděl smlouvu neplatně a vzal jinou firmu, původní zhotovitel by tě mohl žalovat o náhradu ušlého zisku.
+Co ale MŮŽEŠ (a měl bys) dělat hned:
+Poptávat a jednat: Můžeš oslovit jiné firmy, ukázat jim projekt a fotky a neoficiálně se ptát: „Byli byste schopni nastoupit v dubnu, pokud se vyvážu ze současné smlouvy?“
+Nezávislý statik: Toho si můžeš najmout hned. Nepotřebuješ souhlas firmy. Ten ti dá munici pro to, abys v tom měsíci čekání mohl říct: „Můj nezávislý posudek říká, že váš postup je chybný, odstupuji od smlouvy.“
+Příprava „zmrazení“ stavby: Můžeš si vytipovat soudního znalce, který v den D (kdy pošleš odstoupení) přijde a udělá protokol o stavu stavby, abys mohl hned pustit novou firmu.
+Strategický postup pro tebe:
+Teď: Pošli ten „přátelský“ e-mail s požadavkem na statiku a razítko (jak jsme psali).
+Během měsíce: Hledej náhradu. Říkej jim: „Mám rozestavěno, řeším spor o statiku se současnou firmou, pravděpodobně budu odstupovat od smlouvy. Měli byste o to zájem?“
+Po měsíci: Pokud ti nedají to, co chceš (posudek + férovou cenu), pošleš tu Výzvu k nápravě a následně Odstoupení. Tím se smlouva zruší a ty hned ten den můžeš podepsat smlouvu s někým jiným.
+Máš už vytipovanou nějakou jinou firmu v okolí, která má zkušenosti s takto starými domy? (U 100 let starých objektů je to kritické, běžná „novostavbová“ firma to může pokazit ještě víc).
+
+
+
+To, co popisuješ, je v segmentu rekonstrukcí starých domů ta nejtvrdší realita. Pokud chybějící sondy vedly k tomu, že se narušila stabilita celého domu (např. se podkopaly základy, které byly mělčí, než se čekalo, nebo se uvolnilo kamenné zdivo), už se nepohybujeme v režimu „opravy“, ale v režimu záchrany nebo totální přestavby.
+Pokud se z rekonstrukce stává fakticky novostavba, mění se úplně všechno:
+1. Právní a povolovací aspekt
+Stavební povolení / Ohlášení: Máš povolení na „rekonstrukci“ nebo „stavební úpravy“. Pokud by dům musel jít k zemi víc, než je v projektu, nebo se mění nosné konstrukce tak zásadně, může to stavební úřad klasifikovat jako změnu stavby před dokončením.
+Důkazní situace: To, že je dům teď nestabilní, je přímá škoda. Pokud by k tomu nedošlo, kdyby se udělaly sondy a zvolil se jiný postup, firma za tuto nestabilitu plně odpovídá.
+2. Technické riziko (Proč chtít jinou firmu)
+Pokud tato firma dovedla 100 let starý dům do stavu nestability kvůli tak základní chybě, jako je absence sond, ztratili kompetenci dům bezpečně dokončit.
+Postavit novostavbu na „zelené louce“ umí každý.
+Ale zachraňovat rozestavěný, staticky narušený objekt, vyžaduje špičkového statika a zkušenou firmu. Tato firma ti zatím dokázala opak.
+3. Finanční past
+Jednatel si vzal měsíc na rozpočet pravděpodobně proto, že teď počítají, jak z toho vybruslit. Budou ti chtít prodat „novostavbu“ za cenu, která pokryje jejich chyby.
+Pozor: Ty bys neměl platit za to, že dům musíte vyztužit víc jen proto, že oni ho svým postupem oslabili.
+Moje doporučení pro tvou situaci:
+Vzhledem k tomu, že dům je nestabilní, je situace havarijní.
+Nezávislý statik IHNED: Tohle už není o e-mailech. Potřebuješ někoho, kdo stojí na tvé straně, aby přišel, dům si prohlédl a řekl: „Takhle to nemůžete nechat, dům je v ohrožení.“ Ten ti napíše posudek o způsobené škodě.
+Zápis o ohrožení do deníku: Nechej do deníku zapsat, že zhotovitel svým postupem (absencí sond) uvedl stavbu do staticky nestabilního stavu.
+Ukončení spolupráce je teď logičtější: Pokud se z toho stává novostavba, je to v podstatě jiná zakázka. Je to nejlepší moment se jich zbavit. Můžeš říct: „Původní smlouva byla na rekonstrukci. Vaším zaviněním se dům stal nestabilním a vyžaduje úplně jiný rozsah prací. Nemám důvěru, že tuto novou situaci zvládnete, proto chci vyúčtování a končíme.“
+Důležitý dotaz: Máš dům v tomto stavu nějak provizorně zajištěný (vzpery, pažení), aby se situace dál nezhoršovala, zatímco oni měsíc počítají rozpočet?
+Pokud bys chtěl, můžeme upravit ten e-mail tak, aby v něm zaznělo, že vzhledem k aktuální nestabilitě objektu vyžaduješ statické řešení (ten dodatek) jako urgentní věc k zajištění bezpečnosti, ne jen jako podklad pro rozpočet. Chceš to tam přidat?
+
+Aktuální stav:
+Nacházíš se v kritickém bodě rekonstrukce, kdy vinou zhotovitele (neprovedení sond předepsaných statikem) došlo k ohrožení stability 100 let starého domu. Firma ztratila důvěru tím, že „střílí“ technická řešení od boku (výkyv výztuže o 100 %) a jednatel si vzal měsíc na rozpočet, zatímco stavba stojí v rizikovém stavu.
+Tvá strategie (Pravidlo 3 bodů):
+Vynucení odbornosti: Nečekej pasivně měsíc. Trvej na tom, aby inženýr ihned dodal autorizovaný dodatek statiky s razítkem. Tím ho donutíš převzít osobní odpovědnost za nové řešení „novostavby“ a získáš pevný podklad pro kontrolu ceny.
+Využití smlouvy: Máš v rukou silné páky – zápis v deníku o chybějících sondách a smluvní doložku o odpovědnosti zhotovitele za škodu. Pokud nedodají statiku a fér cenu, máš legitimní důvod k odstoupení od smlouvy pro podstatné porušení technologických norem.
+Auditní rezerva: Jelikož nespěcháš, využij čas k nezávislé konzultaci s jiným statikem. Pokud potvrdí, že firma situaci nezvládá, ukonči spolupráci dřív, než dojde k nevratným škodám nebo proinvestování dalších peněz v nefunkčním řešení.
+Závěr: Nejsi v defenzivě. Tím, že máš fotokopii deníku a nespěcháš, jsi to ty, kdo určuje podmínky. Firma teď musí dokázat, že umí dům bezpečně zajistit a nacenit bez dalších pochybení.
+Chceš, abychom teď společně připravili ten „přátelský“ e-mail, který tohle všechno elegantně propojí a pošleš ho inženýrovi i jednateli?
+
+
+
 
