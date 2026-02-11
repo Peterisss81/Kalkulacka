@@ -21,6 +21,7 @@ když vše selže:
 	### ODSTOUPENÍ OD SMLOUVY 
 		### CO BYCHOM CHTELI VRATIT
 	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
+	### TROJROLE
 	### CITACE SONDY   (x - odkazu)
 	### DOPSAT DO STAVEBNIHO DENIKU
 	### PARAGRAFY A VYHLASKY
@@ -1406,7 +1407,7 @@ S pozdravem,
 [Vaše Jméno]
 
 
-
+### TROJROLE
 DŮKAZ O ÚMYSLNÉM ZANEDBÁNÍ:
 Statický posudek (str. [X]) výslovně podmiňuje zahájení prací provedením sond. 
 Firma [Jméno], vystupující v trojroli projektant-zhotovitel-dozor, tento 
@@ -1589,3 +1590,4 @@ Práce byly zahájeny bez nich pod jejich dozorem.
 Aktuální havarijní stav byl zjištěn až ex-post.
 Tento papír je pro ně "rozsudkem smrti" u ČKAIT a pro vás jízdenkou k tomu, aby o ceně 3,3 milionu začali jednat velmi konstruktivně.
 Chcete, abych vám pomohl najít formulář nebo adresu, kam se takový podnět na ČKAIT posílá?
+
