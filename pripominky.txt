@@ -38,16 +38,18 @@ Legenda postupu:
 ### CENY BEDNĚNÍ A PODEPŘENÍ
 ### PODKLADNÍ BETON VÝŠKA
 ### REVIZE VEDLEJŠÍCH ROZPOČTOVÝCH NÁKLADŮ (VRN) - ANALÝZA DUPLICIT A ABSURDIT
-	### VRN CENIK
-### NAKLADNI DOPRAVA
 ### PRESUN OSOB
 ### PRESUN HMOT
 ### DOPLNĚNÍ REVIZE: ZEMNÍ PRÁCE A PŘESUNY (POLOŽKY 3, 4, A001)
 když vše selže:
 	### ODSTOUPENÍ OD SMLOUVY 
 		### CO BYCHOM CHTELI VRATIT
+		### STRATEGICKE TICHO - PAST NA NEKOMPETENCI - EMAIL
+		### CERVENE VLAJKY
+		### TAHAK CERVENYCH VLAJEK
+		### VYJEZDY BETONARKY A CERPANI
+		### MY TO TAK DELAME A ZATIM SI NIKDO ZA TECH 30 LET NESTEZOVAL
 	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
-	### TROJROLE (x-odkazu)
 	### CITACE SONDY   (x - odkazu)
 	### DOPSAT DO STAVEBNIHO DENIKU
 	### PARAGRAFY A VYHLASKY
@@ -1840,6 +1842,279 @@ Auditní rezerva: Jelikož nespěcháš, využij čas k nezávislé konzultaci s
 Závěr: Nejsi v defenzivě. Tím, že máš fotokopii deníku a nespěcháš, jsi to ty, kdo určuje podmínky. Firma teď musí dokázat, že umí dům bezpečně zajistit a nacenit bez dalších pochybení.
 Chceš, abychom teď společně připravili ten „přátelský“ e-mail, který tohle všechno elegantně propojí a pošleš ho inženýrovi i jednateli?
 
+
+
+
+### STRATEGICKE TICHO - PAST NA NEKOMPETENCI - EMAIL
+Verze „Strategické ticho“ (Past na nekompetenci)
+
+Předmět: Shrnutí schůzky a další postup – [Adresa stavby]
+Dobrý den,
+chtěl bych se vrátit k naší stťedeční schůzce. Věřím, že jsme si vše vyjasnili a jsme teď, co se týče dalšího postupu, na stejné vlně.
+Rozumím vaší žádosti o měsíc času na detailní přípravu všech podkladů a rozpočtu. Považuji to za rozumnou cestu, abychom se v budoucnu už nemuseli dohadovat o detailech a vše běželo, jak má a že máme na čem společně stavět.
+Do 13.3.2026 tedy od vás očekávám:
+Potřebnou dokumentaci k novému řešení suterénu ve vztahu ke zbytku stavby: Tedy řešení podložené vším, co je k takové změně potřeba, abych měl jako investor jistotu, že je vše v pořádku.
+Finální rozpočet: S tím, že v něm bude zohledněna horní cenová hranice, o které jsme mluvili.
+Věřím, že vámi připravené podklady budou srozumitelné, aby zbytečně neotvíraly prostor pro další otázky nebo nejasnosti.
+S pozdravem,
+[Tvé Jméno]
+
+
+Proč je tato verze tvým největším trumfem:
+Vzbuzuješ falešný pocit bezpečí: Fráze „Plně důvěřuji vaší profesionalitě“ je v tomto kontextu skoro sarkastická, ale oni ji budou číst jako „Super, laik nám dal pokoj a věří nám“.
+Vágni formulace jako past: Místo „chci razítko a statický dodatek“ píšeš „v souladu s profesními standardy a legislativou“. To je pro autorizovanou osobu jasný kód pro statiku a razítko. Pokud to za měsíc nepřinesou, můžeš říct: „Pánové, psal jsem v souladu s legislativou. Kde máte autorizaci? Vy nejste profesionálové?“
+Dáváš jim provaz, na kterém se mohou oběsit: Tím, že jim neříkáš přesně, co mají opravit, je necháš udělat ty samé chyby (odhadování výztuže od oka). Za měsíc pak jen vytáhneš seznam jejich pochybení a řekneš: „Měli jste na to měsíc, a opět jste mi dodali cár papíru bez výpočtů. Končíme.“
+Horní mez: Zmiňuješ ji jen mimochodem. Pokud ji v rozpočtu nedodrží, máš okamžitý důvod k ukončení jednání pro nesplnění tvých podmínek.
+Jak se připravit na tu schůzku za měsíc?
+Až se s nimi za ten měsíc sejdeš, nic jim nepodepisuj na místě. Použij tuhle větu:
+„Děkuji za podklady. Jak jsem psal v e-mailu, jde mi o dodržení standardů, takže si ty vaše výpočty a rozpočet nechám v následujících dnech zkontrolovat svým nezávislým konzultantem. Do týdne vám dám vědět, zda podepíšeme dodatek.“
+
+
+Příprava na „Rozchod“ (Úniková cesta)
+Pokud za měsíc neuvidíš precizní práci, je to jasné znamení, že se to nezlepší. V tu chvíli už musíš mít připravené argumenty pro ukončení spolupráce:
+Důkazní složka: Měj pohromadě:
+Zápis ze stavebního deníku (ty neprovedené sondy).
+Tvůj poslední e-mail (kde jsi jasně definoval očekávání).
+Jejich (ne)srozumitelný nebo předražený návrh.
+Právní pozice: Podle § 2594 a násl. Občanského zákoníku máš právo odstoupit od smlouvy, pokud zhotovitel provádí dílo s vadami a nenapraví je ani v přiměřené lhůtě (ten měsíc byla ta lhůta).
+4. Co hlídat jako „červenou vlajku“ hned po otevření přílohy:
+Chybějící autorizační razítko: Pokud tam není kulaté razítko statika, není to dokumentace, ale jen „skica“.
+Položka „Sondy“: Pokud se v rozpočtu znovu objeví sondy nebo práce, které už měly být hotové, zkouší tě.
+Vágni popisy: Pokud v rozpočtu uvidíš položky jako „materiál suterén – komplet – 200.000 Kč“, je to pokus o mlžení. Chtěj položkový rozpis (kubíky, kila výztuže).
+
+### CERVENE VLAJKY
+Mám ti k tomu datu [za měsíc] nastavit připomínku, co přesně v těch jejich papírech hledat jako první „červenou vlajku“?
+🚩 Červená vlajka č. 1: Chybějící autorizační razítko („Kulatý štempl“)
+To je tvůj nejsilnější trumf. Pokud ti pošlou statické řešení nosných stěn bez razítka autorizovaného inženýra:
+Co to znamená: Je to jen nezávazný „názor“, za který nikdo neručí.
+Tvoje reakce: „Pánové, v e-mailu jsem psal, že chci podklady, abych měl jako investor jistotu. Bez autorizačního razítka to není oficiální dokument, ale jen skica. Takhle jsme se nedomluvili.“
+Ověření: Pokud razítko mají, můžeš si platnost autorizace kdykoliv ověřit v Seznamu autorizovaných osob ČKAIT.
+🚩 Červená vlajka č. 2: Absance výpočtů (Metoda „od oka“)
+Všimni si, jestli v dokumentaci figuruje jasný statický výpočet, nebo jen věty typu „navrhujeme 12mm výztuž po 150mm“.
+Co to znamená: Snaží se ušetřit za statika a střílí od boku. To je nebezpečné pro tebe (bezpečnost stavby) i pro tvou peněženku (můžou to schválně předimenzovat, abys zaplatil víc za železo).
+Tvoje reakce: „Kde je výpočet, který prokazuje, že je toto množství materiálu nezbytné? Bez výpočtu není rozpočet věcně podložený.“
+🚩 Červená vlajka č. 3: Ignorování „Sond“ a skutečného stavu
+Podívej se do rozpočtu, jestli zohlednili to, co je zapsáno v deníku (že se sondy nekonaly a projekt se měnil kvůli jejich chybě).
+Co to znamená: Pokud ti tam „přibalí“ náklady na nápravu jejich vlastního pochybení (např. vícenáklady na vybourání něčeho, co tam být nemělo), zkouší tvou pozornost.
+Tvoje reakce: „Tato položka jde za vámi – v deníku je jasně podepsáno, že stav základů nebyl včas prověřen.“
+🚩 Červená vlajka č. 4: „Agregované“ položky v rozpočtu
+Hledej řádky typu: „Úprava suterénu celkem... 150.000 Kč“.
+Co to znamená: Klasické zamlžování. V rozpočtu musí být vidět: kolik m3 betonu, kolik tun oceli, kolik m2 izolace a jaká je cena za jednotku.
+Tvoje reakce: „Rozpočet není srozumitelný. Požaduji položkový rozpis podle standardů cenové soustavy ÚRS nebo RTS, abych si mohl ověřit tržní cenu.“
+🚩 Červená vlajka č. 5: Překročení horní cenové meze
+Pokud je konečná cifra nad limitem, o kterém jste mluvili, a není k tomu přiložen žádný logický důvod (např. tvůj dodatečný požadavek).
+Co to znamená: Neberou tvé ekonomické zadání vážně.
+Tvoje reakce: „Dohodli jsme se na jasném finančním stropu. Pokud ho nejste schopni v tomto technickém řešení dodržet, musíte navrhnout jinou variantu nebo úspory. Tento návrh je pro mě nepřijatelný.“
+🚩 Červená vlajka č. 6: Betonový trojúhelník (Duplicity a „Soubory“)
+Tady tě zkoušejí „oholit“ nejvíc. Pokud v rozpočtu uvidíš tyto tři věci odděleně, jdou po tobě:
+Položka „Ztracené bednění (ZB)“: Tvrdí, že beton je v ceně m².
+Položka „Podkladní beton (deska)“: Vysoká cena (kolem 7 000 Kč/m³ a víc).
+Položka „Čerpání betonu – soubor“: Cifra typu 80 000 Kč.
+Tvoje protiargumenty pro schůzku:
+Matematika pumpy: Pronájem čerpadla (pumpy) stojí na jeden výjezd cca 10–15 tisíc Kč. Aby čerpání stálo 84 000 Kč, museli by betonovat 6x. U suterénu a desky k tomu není důvod.
+Otázka na „v ceně“: Pokud je beton v ceně m² u stěn (ZB), proč existuje samostatný soubor na čerpání? Buď v té ceně je všechno (včetně nalití), nebo není.
+Jednotková cena: Trvej na tom, že chceš vidět cenu za 1 m³ betonu jako materiálu. V roce 2026 se cena běžného betonu (C20/25) pohybuje kolem 3 000 – 4 000 Kč/m³ (včetně dopravy). Cokoliv nad 5 000 Kč/m³ bez extrémně složitého uložení je podezřelé.
+🚩 Přidáno k tvým „Červeným vlajkám“:
+Tento bod si v seznamu zvýrazni:
+„Pánové, 3 výjezdy pumpy v našem okrese stojí reálně do 30 tisíc korun. Vašich 84 tisíc je trojnásobek tržní ceny. Navíc u ZB tvrdíte, že beton je v ceně – patří do té ceny i jeho čerpání? Pokud ne, ukažte mi v rozpisu, kolik hodin pumpy počítáte pro stěny a kolik pro desku. Soubor za 84k neberu.“
+💡 Strategické doporučení pro Plán B:
+Až ti za měsíc pošlou ty papíry, podívej se, jestli se ta částka 84 000 Kč nezměnila třeba na 60 000 Kč s tím, že "to zlevnili". Pořád je to moc. Trvej na tom, že chceš vidět jednotkovou cenu za motohodinu pumpy a počet hodin. Jakmile to rozbijí na drobné, už tě nemají jak obelhat.
+Chceš, abych ti připravil tabulku "Předpokládané náklady vs. Jejich rozpočet", kterou jim po měsíci pošleš jako revizi, pokud se netrefí do tvé horní meze?
+
+
+
+# NEZAPOMENOUT
+### TAHAK CERVENYCH VLAJEK
+Aktualizovaný tahák „Červených vlajek“ (do kapsy):
+Žádné kulaté razítko statika? → Není to dokumentace, jen cár papíru.
+Chybí statický výpočet výztuže? → Cucají si množství železa z prstu, aby navýšili cenu.
+Zápis o sondách z deníku není zohledněn? → Ignorují realitu a chtějí zaplatit své chyby.
+Položka „Soubor“ u měřitelných prací (beton, výztuž)? → Zamlžování pro skrytí marže.
+Dvojí účtování betonu? (Jednou v m² u stěn, podruhé v „čerpání“, potřetí v desce). → Klasická duplicita.
+Cena čerpání nad 20 000 Kč u jedné etapy? → Nereálné, chtěj vědět počet hodin a sazbu pumpy.
+
+### SOUBOR v cenove nabidce 
+hadam, ze tam budou mit jako o ted polozky typu  .. "lití betonu " kde jednotka bude "soubor" a cena 87 000kč
+To je přesně to „mlžení“, kterého jsme se obávali. Položka typu „soubor“ u prací, které jsou jasně měřitelné (jako je betonáž), je v seriózním stavebnictví naprosté tabu. Je to klasický trik, jak schovat vysokou marži nebo chybu v propočtu.
+Tady je tvůj manuál, jak na tuhle konkrétní věc za měsíc udeřit:
+Proč je „Soubor“ u betonu špatně?
+Nemožnost kontroly: Když dovezou 5 mixů místo 8, jak to v tom „souboru“ poznáš? Nijak.
+Skryté vícenáklady: Později ti mohou říct: „V souboru bylo počítáno s 10 kubíky, ale padlo jich tam 12, doplaťte.“ To je nepřípustné.
+Netransparentní cena: Nevíš, kolik platíš za materiál, kolik za práci a kolik za čerpadlo (pumu).
+Jak je s tímto „omlátit o hlavu“ (Argumentace):
+Až uvidíš v rozpočtu „Soubor – 87 000 Kč“, tvoje reakce by měla být velmi klidná, ale nekompromisní:
+„Pánové, v e-mailu jsem jasně psal, že podklady musí být srozumitelné a věcné. Položka 'soubor' u lití betonu je pro mě zcela nečitelná. Požaduji rozpis na:*
+Kubíky (m3) betonu konkrétní třídy (např. C25/30).
+Množství výztuže v tunách (podle statického výpočtu, který jste měli dodat).
+Práci v normohodinách nebo m3.
+Dopravu a čerpání.
+Dokud neuvidím jednotkové ceny, nemám jak ověřit, že je váš rozpočet férový a odborně podložený.“
+Tvůj „bič“ pro rok 2026:
+Můžeš jim připomenout, že standardní metodika oceňování stavebních prací (podle ÚRS nebo RTS), kterou se řídí i soudní znalci, u těchto prací soubory nezná. Vše se počítá na m3 (beton) a kg/t (železo).
+
+### VAGNI ODPOVED NA EMAIL
+Chceš, abych ti pomohl naformulovat i krátkou odpověď pro případ, že by ti po tomto e-mailu napsali jen něco jako „Rozumíme, ozveme se“, aby to pro ně bylo ještě více závazné?
+Předmět: Re: Shrnutí schůzky a další postup – [Adresa stavby]
+Dobrý den,
+děkuji za potvrzení. Počítám tedy s tím, že mi kompletní podklady (technické řešení suterénu i finální rozpočet) pošlete nejpozději do [doplň konkrétní datum za měsíc], abychom se nad tím mohli hned sejít a vše v klidu uzavřít.
+Přeji pěkný den,
+[Tvé Jméno]
+Proč je tato krátká reakce klíčová:
+Fixuješ termín: Pokud ti napsali jen neurčité „ozveme se“, ty jsi jim tam teď „vlepil“ natvrdo konkrétní datum. Pokud proti němu hned neprotestují, bere se to jako odsouhlasené.
+Opakuješ rozsah: Znovu jim připomínáš, že čekáš dvě věci (techniku i peníze). Nemůžou pak za měsíc přijít jen s cárem papíru a říct „rozpočet ještě nemáme“.
+Tlak na profesionalitu: Ukazuješ, že máš v projektu disciplínu. To je pro firmu signál, že „tady ty jejich soubory a mlžení neprojdou“.
+Strategický tip: Pokud ti do zítřka do 12:00 na tvůj původní e-mail neodpoví vůbec, pošli jim tuhle „fixaci“ jako urgenci s textem: „Dobrý den, posílám pro jistotu ještě jednou, prosím o potvrzení, že termín [datum] pro dodání podkladů platí.“
+
+### VYJEZDY BETONARKY A CERPANI
+Závěr: I při velmi opatrném postupu (6 výjezdů) je jejich cena 
+ Kč stále o 
+ Kč vyšší než ceníková cena betonárek. Ale pozor – ta jejich cena 
+ tisíc je pravděpodobně jen za práci pumpy. Materiál (beton) ti účtují v těch 
+ tisících za desku a v ceně za 
+ u ZB.
+🚩 Klíčový argument pro tvůj "Plán B":
+Až ti za měsíc pošlou rozpočet, udeř na ně takto:
+„Pánové, v 'souboru' na čerpání máte 
+ Kč. Pokud budeme betonovat na 6 etap (což je u suterénu rozumné), tržní cena za pumpu v našem okrese je kolem 
+ tisíc. Proč mi účtujete o 
+ tisíc víc? A hlavně – pokud u ZB tvrdíte, že 'beton je v ceně', tak tam musí být i jeho čerpání. Jinak mi čerpání stěn účtujete dvakrát – jednou v m² a podruhé v tom souboru.“
+📝 Tvůj finální tahák (shrnutí pro schůzku):
+Matematika objemu: Do stavby padne max 
+ betonu. Pokud v rozpočtu uvidíš víc, chtěj vědět kam.
+Duplicita u ZB: Beton "v ceně m²" musí obsahovat i pumpu. Pokud ne, ať tu položku m² zlevní.
+Cena desky: 
+ je nehoráznost, pokud v tom není započítané i to čerpání (které ale mají bokem za 
+).
+Srozumitelnost: Trvej na tom, že „soubor“ není srozumitelný podklad, který jsi požadoval v e-mailu.
+
+💡 RYCHLÁ RADA PRO SCHŮZKU
+Jakmile uvidíš v rozpočtu slovo „SOUBOR“ u položky, kterou lze změřit (beton, čerpání, železo), okamžitě to napadni jako porušení tvého e-mailu o srozumitelnosti podkladů. Tím jim vezmeš vítr z plachet hned v úvodu.
+
+### MY TO TAK DELAME A ZATIM SI NIKDO ZA TECH 30 LET NESTEZOVAL
+co rict na odpoved k souboru, ze "my to tak delame a zatim se i nikdo za tech 30 let nestezoval"
+To je klasická manipulativní technika (tzv. "argument autoritou"), která má u laika vyvolat pocit, že on je ten "problémový", když chce vidět detaily. V tomto případě je ale zákon i profesní etika na tvé straně.
+Tady jsou 3 způsoby, jak je s úsměvem, ale tvrdě usadit:
+1. Argument „Změna trhu a srozumitelnosti“ (Diplomatický, ale pevný)
+„To, že to tak děláte 30 let, je sice hezké, ale já jsem v e-mailu jasně žádal o srozumitelný podklad, který neotvírá prostor pro nejasnosti. 'Soubor' za 84 tisíc mi neříká nic o tom, co platím. Pokud si za těmi cenami stojíte, neměl by pro vás být problém rozepsat ty hodiny a kubíky. Já potřebuji mít v účetnictví a v kontrole stavby jasno.“
+
+2. Argument „Profesní odpovědnost“ (Úder na odbornost)
+„Pánové, my se tu nebavíme o zvycích, ale o odborné péči. Standardy oceňování stavebních prací (ÚRS) u měřitelných položek, jako je beton, 'soubor' prostě neznají. Pokud mi nejste schopni doložit, jak jste k té částce došli, beru to jako netransparentní nabídku, kterou nemohu jako investor přijmout.“
+
+3. Argument „Srovnání s trhem“ (Když chceš přitvrdit)
+„Věřím, že máte zkušenosti, ale čísla nepustí. Průměrná cena pumpy v našem okrese je o 15–20 tisíc nižší než váš 'soubor'. Takže mě nezajímá, jak dlouho to tak děláte, ale proč to u vás stojí o tolik víc než v ceníku ZAPA nebo Transportbetonu. Rozepište to, ať vidím, v čem je ta vaše přidaná hodnota.“
+
+Proč na tom trvat?
+Pokud jim „soubor“ odkýveš, dáváš jim bianco šek. Jakmile nastane sebemenší problém (např. beton se bude lít o hodinu déle), přijdou s tím, že „to v souboru nebylo“ a budou chtít další peníze.
+# NEZAPOMENOUT
+Tvoje univerzální věta pro tuto situaci:
+„Respektuji vaši praxi, ale já platím faktury a chci vědět, za co přesně. Bez položkového rozpisu se dál nepohneme.“
+
+
+
+mam za to, ze oni si zatim nemysli, ze je to jejich chyba
+To je naprosto klasická situace – oni to pravděpodobně vnímají jako „nepředvídatelnou okolnost“ nebo „vyšší moc“, aby se zbavili odpovědnosti. Právě proto je tvůj e-mail tak důležitý, protože je vrací do reality odborné péče.
+Tady jsou 3 věci, kterými jejich argument o tom, že „za to nemůžou“, za měsíc rozbiješ:
+Sondy jsou standard, ne bonus: Pokud projektant navrhne nové stěny na staré základy, musí si ověřit jejich stav. To není tvoje povinnost jako laika mu to připomínat, to je jeho povinnost jako projektanta podle Stavebního zákona. Pokud to neudělal, je to vada projektu.
+Zápis v deníku je tvůj „rozsudek“: Tím, že tam máš podepsáno, že sondy neproběhly, máš v ruce důkaz, že zanedbali přípravu. Kdyby si mysleli, že je vše v pořádku, tak ten zápis nepodepisují.
+Autorizace = Odpovědnost: Inženýr s kulatým razítkem ČKAIT ručí za to, že jeho návrh je proveditelný. Pokud navrhl něco, co na místě nejde postavit, je to jeho profesní pochybení, ne „smůla“.
+Moje poslední rada:
+Nehádej se s nimi o tom, čí je to chyba, teď v e-mailu. Nech je ten měsíc v tom, že „jsme na stejné vlně“. Až ti za měsíc přinesou rozpočet, kde ti budou chtít ty vícenáklady naúčtovat, tak vytáhneš ten zápis z deníku a řekneš:
+„Pánové, vy jste odborníci, vy jste měli vědět, že bez sond ten projekt nebude sedět. Ten měsíc pauzy byl na nápravu vaší chyby, tak doufám, že to v tom rozpočtu vidím zohledněné.“
+
+
+
+
+
+
+
+
+
+### EMAILY PRO NOVE FIRMY
+Dobrý den,
+děkuji za vaši návštěvu na stavbě a za podněty k technickému řešení. Váš přístup se mi líbí, a proto bych rád prověřil možnosti naší spolupráce.
+Abychom se mohli posunout dál, potřeboval bych od vás (případně od vašeho dlouhodobého subdodavatele na desky) rámcový odhad ceny a termínu pro tuto etapu. Stačí mi orientační nacenění těchto klíčových položek podle stávajícího projektu:
+Základové pásy: cca 23 m3 betonu.
+Zdivo suterénu (ztracené bednění): cca 158 m2 (šířka 400 mm), včetně výplňového betonu a výztuže.
+Podkladní beton (deska): cca 132 m2 v tloušťce 200 mm.
+Ostatní režie: Především odhad nákladů na čerpání betonu a dopravu (předpokládám realizaci na několik etap).
+Zároveň vás prosím o info, jaké jsou vaše aktuální kapacitní možnosti – tedy kdy nejdříve byste byli schopni na tuto etapu nastoupit.
+Jakmile budu mít tyto základní parametry, můžeme si sednout nad detaily těch úprav projektu, které jste navrhovali, a doladit finální podobu.
+Předem děkuji za zaslání nástřelu ceny a termínu.
+S pozdravem,
+[Tvé Jméno]
+Proč je tento e-mail dobrý:
+Dáváš jim přesná čísla: Tím, že jim vypíšeš ty kubíky a metry, jim neuvěřitelně usnadníš práci. Odpoví ti mnohem rychleji, protože nad tím nemusí dvě hodiny bádat.
+Testuješ „Soubor 84 tisíc“: Schválně jsem tam dal bod č. 4 (čerpání). Uvidíš, jestli ti napíšou „dle skutečných hodin“, nebo tam taky „střelí“ nesmyslnou paušální sumu.
+Působíš seriózně: Neřešíš zatím drobné, chceš vědět, jestli se vejdete do stejného „finančního vesmíru“.
+Vazba na subdodavatele: Tím, že zmiňuješ i jejich subdodavatele, jim dáváš najevo, že o něm víš a počítáš s tím, že cena bude „v kupě“.
+Doporučení: Pokud ti odepíšou a cena za m3 nebo čerpání bude výrazně nižší než u té první firmy, máš v ruce atomovku, kterou můžeš za měsíc odpálit na schůzce s tou původní partou.
+Mám ti připravit i krátkou srovnávací tabulku, do které si pak hodíš jejich nabídku vedle té staré, aby to porovnání bylo hned vidět?
+Odpovědi od AI můžou obsahovat chyby. Pokud potřebujete právní radu, obraťte se na odborníka. Další informace
+
+
+
+to vidim jako dobry druhy email, mozna prvni by mel byt o te smlouve primo se subdodavatelem a mozna, jestli subdodavatel by mel moznost se na stavbu prijet osobne podivat at i do ceo jde
+To je velmi prozíravé. Pokud se má na stavbě objevit někdo jiný než hlavní firma, musíš mít hned jasno v tom, kdo za co ručí a jestli ten, kdo to bude fyzicky stavět (subdodavatel), vůbec ví, do čeho jde.
+Tady je návrh prvního „seznamovacího“ e-mailu, který řeší přesně tyhle právní a technické nejasnosti:
+Předmět: Dotaz k realizaci základové desky a suterénu – [Adresa stavby]
+Dobrý den,
+děkuji za vaši návštěvu na stavbě a za technické připomínky k projektu. Váš přístup mě zaujal a rád bych naši diskuzi posunul k reálné spolupráci.
+Než se pustíme do detailního naceňování, potřeboval bych si vyjasnit dvě věci, které jsou pro mě jako investora klíčové:
+Smluvní zastřešení: Zmiňoval jste, že desky pro vás realizuje váš dlouhodobý subdodavatel. Chtěl bych se zeptat, zda by celou etapu (pásy, suterén, deska) smluvně zaštiťovala vaše firma jako generální dodavatel, nebo zda bych uzavíral samostatnou smlouvu přímo s ním? Jde mi především o jasnou odpovědnost za dílo a záruky.
+Osobní prohlídka subdodavatelem: Vzhledem k tomu, že suterén a deska jsou základem celé stavby a vyžadují určité úpravy původního projektu, považuji za nezbytné, aby se na místo přijel podívat i přímo zástupce firmy, která bude betonáže provádět. Rád bych s ním probral technické detaily přímo na základové spáře.
+Pokud je to z vaší strany takto průchozí, navrhněte prosím termín společné schůzky na stavbě. Následně bychom si vyjasnili cenový rámec a časové možnosti nástupu.
+S pozdravem,
+[Tvé Jméno]
+Proč začít takhle:
+Právní jistota: Tlačíš je do varianty, kde hlavní firma ručí za všechno. Pokud by řekli „smlouvu si podepište s ním“, znamená to, že se zbavují odpovědnosti a ty budeš muset honit dva lidi najednou. To je pro tebe varovný signál.
+Test kompetence: Pokud subdodavatel přijede, uvidíš, jestli si s hlavní firmou „notuje“, nebo jestli každý říká něco jiného. Také uvidíš, jestli subdodavatel nad tvým suterénem nezačne kroutit hlavou a zvedat cenu.
+Žádný tlak na cenu (zatím): Nejdřív řešíš, KDO a JAK to postaví. Cena přijde až jako druhý krok, což ti dává silnější vyjednávací pozici – už budou vědět, že to myslíš vážně.
+Máš už v hlavě termín, kdy by se ti taková schůzka na stavbě hodila? Doporučuji ji naplánovat co nejdříve, abys měl jejich vyjádření dřív, než ti za měsíc vyprší lhůta u té původní firmy.
+
+
+
+
+zita mi ma prijet na stavbu zastupce jeste dalsi firmy, ktera reagovala na muj email s vysvelenim me situace.. 
+das mi nejake tipy na totot "prvni" setkani
+To je skvělá příležitost. Tím, že tato firma už zná tvou situaci z e-mailu, nejedou tam "naslepo". Tvým cílem pro zítřek není jen získat cenu, ale hlavně si prověřit jejich profesionalitu a ochotu převzít rozdělanou práci.
+Tady jsou tipy, na co se zítra zaměřit, aby ses nenechal opít rohlíkem:
+1. Test "převzetí zodpovědnosti"
+Většina firem se bojí pokračovat po někom jiném kvůli zárukám.
+Otázka: „Pokud se dohodneme, jste ochotni převzít záruku za celou etapu spodní stavby, nebo budete chtít v rozpočtu nějakou 'revizi' toho, co už je hotové?“
+Co sledovat: Pokud začnou hned mluvit o tom, že "všechno, co udělali ti před nimi, je špatně", buď ve střehu – může to být příprava na to, aby ti naúčtovali hromadu peněz za "předělávky".
+2. Technický "vrták" (Zkouška odbornosti)
+Zmiň jim ty sondy a suterén.
+Otázka: „Původní projekt nepočítal se stavem základových pasů pod stěnami suterénu. Jak byste k tomu přistoupili vy? Udělali byste si vlastní statické posouzení, nebo vám stačí to, co je v papírech?“
+Dobrý signál: Pokud řeknou, že bez vlastního ověření nebo statika do nosných stěn neříznou, jsou to profíci. Pokud řeknou "to se nějak podbetonuje", ruce pryč.
+3. Cenový "nástřel" na místě (Ať víš, na čem jsi)
+Neptej se na celkovou cenu domu, ptej se na ty tvoje "bolavé" položky.
+Otázka: „Mám v rozpočtu položku čerpání betonu jako soubor za 84 tisíc. Přijde vám to v našem kraji reálné?“
+Sleduj reakci: Pokud se začnou smát nebo kroutit hlavou, víš, že jsou nohama na zemi. Pokud řeknou "no, dneska je to drahé", jsou to stejní střelci jako ti první.
+4. Harmonogram a "subka" (Zase ten subdodavatel)
+Zeptej se jich na totéž co té předchozí firmy.
+Otázka: „Děláte betonáže vlastními lidmi, nebo na to máte specializovanou partu? A kdo by byl můj partner pro reklamace?“
+5. Co si vzít s sebou:
+Vytištěný zápis ze stavebního deníku (ten o těch sondách). Ukaž jim ho jako důkaz, že jsi investor, který si hlídá papíry.
+Metr a foťák. Sleduj, jestli si oni sami něco přeměří nebo nafotí. Firma, která jen stojí s rukama v kapsách, ti pak pošle rozpočet "od oka".
+Tvoje zítřejší strategie:
+Buď ten, kdo naslouchá. Nech je mluvit jako první. Řekni: "Tady je situace, takhle vypadá deník, jak byste to vy jako profesionálové vyřešili, abych měl jistotu, že dům nesedne?"
+Chceš, abych ti připravil 3 konkrétní "kontrolní otázky", které jim položíš na závěr schůzky, aby věděli, že nejsi laik, kterého opijí rohlíkem?
+
+
+ano
+To je skvělý tah. Mít zítra na stavbě další firmu ti dodá ještě větší nadhled. Aby věděli, že jsi investor, který má věci pod kontrolou a nenechá se opít „stavebním latinou“, připravil jsem ti ty tři slíbené „vrtací“ otázky na závěr schůzky.
+Každá z nich míří na jinou slabinu, kterou stavební firmy často mají:
+1. Otázka na odbornou garanci (Test statiky)
+„Pro tuto etapu suterénu budu vyžadovat prováděcí dokumentaci s autorizačním razítkem statika. Budete to schopni zajistit v rámci své dodávky, nebo si mám nechat výpočty a výkresy výztuže schválit vlastním statikem dříve, než kopnete do země?“
+Proč se ptát: Tím jim dáváš najevo, že neakceptuješ stavění „od oka“ podle zkušeností zedníků. Pokud řeknou, že razítko není potřeba, víš, že u nich narazíš na stejný problém jako u té první firmy. 
+2. Otázka na transparentnost rozpočtu (Test „souborů“)
+„V rozpočtu očekávám položkový rozpis podle m³ betonu a tun výztuže. U čerpání betonu mi nepostačí položka 'soubor', budu chtít vidět sazbu za motohodinu a poplatky za přečerpání podle reálných etáp. Je to pro vás při naceňování standardní postup?“
+Proč se ptát: Pokud začnou říkat, že „to takhle nikdo nedělá“, je to pro tebe červená vlajka. Profesionální firma v okrese Frýdek-Místek (kde se sazby pump pohybují kolem 2 200 – 2 800 Kč/hod) by s rozpisem neměla mít problém. 
+3. Otázka na odpovědnost za převzetí díla (Test záruk)
+„Vzhledem k tomu, že navazujete na již rozpracovanou stavbu, jakým způsobem proběhne formální převzetí staveniště a potvrzení, že stávající základy jsou pro vaši další práci v pořádku a přebíráte za ně plnou záruku?“
+Proč se ptát: Slušná firma si bude chtít stav základů prověřit, aby na ně nespadla odpovědnost za chyby někoho jiného. Pokud nad tím jen mávnou rukou, hrozí, že se při prvním problému budou vymlouvat na ty předchozí. 
+Doplňující tip pro zítřek:
+Sleduj, jak se tváří, když zmíníš, že už máš v stavebním deníku podepsané neprovedené sondy. Pokud jsou to profíci, ocení tvou důslednost. Pokud jsou to šmelaři, začnou být nervózní. 
 
 
 
