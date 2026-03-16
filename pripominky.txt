@@ -1461,6 +1461,7 @@ stavebního dozoru a zhotovitele.
 
 
 ### CO BYCHOM CHTELI VRATIT -  Co bychom chtěli vrátit:
+TO DO - najit presne, kde se rika, ze se maji proest sondy + ze radon se nemeril 
 ------------------------
 #NEZAPOMENOUT - (jen nastrelit, nerikat zatim konkretne)
 celou zálohu (40% I.etapa: 429 263 / 1 073 158,00 + 20% II.etapa 1 356 634 / 6 783 170 = 1 785 897 kč)
