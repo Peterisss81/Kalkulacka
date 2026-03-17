@@ -49,6 +49,8 @@ když vše selže:
 		### TAHAK CERVENYCH VLAJEK
 		### VYJEZDY BETONARKY A CERPANI
 		### MY TO TAK DELAME A ZATIM SI NIKDO ZA TECH 30 LET NESTEZOVAL
+		### VYJEDNAVANI O ODSTOUPENI 
+			### DO DENÍKU
 	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
 	### CITACE SONDY   (x - odkazu)
 	### DOPSAT DO STAVEBNIHO DENIKU
@@ -1066,7 +1068,7 @@ byla snížena na úroveň čistých nákladů bez vašeho neoprávněného zisk
 
 
 
-================================================================================
+===============================================================================
 PŘÍMÁ CITACE POCHYBENÍ Z VAŠEHO STATICKÉHO POSUDKU:
 ================================================================================
 ### CITACE SONDY(2)
@@ -1087,6 +1089,49 @@ Tato havárie není "nepředvídatelná okolnost", ale přímý důsledek vašeh
 zanedbání průzkumu. Odmítám platit 3.5 mil. Kč za chyby vašeho projektu.
 ================================================================================
 ### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT -KONEC
+
+
+D.1.1.1_TECHNICKÁ_ZPRÁVA_MUROŇ.pdf
+VŠEOBECNÉ ZÁSADY PROVÁDĚNÍ BOURACÍCH A PODCHYCOVACÍCH PRACÍ  (Strana 2)
+Vzhledem k charakteru a rozsahu prováděných úprav doporučujeme provádět bourací a
+podchycovací práce v tomto pořadí. 
+Nejprve: 
+# NEZAPOMENOUT <----- nedodrzeli vlastni postup 
+- provézt vyztužení nosných stěn v 1.S objektu. 
+- Poté začít s vyklizením a demolováním nenosných příček v objektu. 
+- Následně provézt bourání střešní konstrukce, nosné konstrukce 2.NP a následně stropní konstrukce nad 1.NP. Na základě zjištění
+rozsahu bourání bude rozhodnuto o nových výškových kótách, možnosti překladů apod. Dům je
+celkově zateplen malou vrstvou tepelné izolace EPS – před započetím prací doporučujeme provézt
+stržení tohoto zateplení k vizuálnímu zjištění případných trhlin v obvodové konstrukci, které
+bychom mohli opravit.
+Při provádění bouracích prací je nutno dodržovat veškeré normy, předpisy a vládní nařízení, týkající se
+bezpečnosti práce, např. nařízení vlády 591/2006 Sb. o bližších minimálních požadavcích na bezpečnost
+a ochranu zdraví při práci na staveništích, a z tohoto nařízení zejména: bourací práce, při nichž jsou
+dotčeny nosné prvky stavební konstrukce, se smí provádět pouze podle technologického postupu
+stanoveného v dokumentaci bouracích prací. 
+# NEZAPOMENOUT
+- Při bouracích pracích, pro něž se dokumentace bouracích prací podle zvláštního právního předpisu nezpracovává, zajistí zhotovitel stavby zpracování technologického postupu na základě provedeného 
+	průzkumu stávajícího stavu bourané stavby, jejího statického posouzení   <-----
+a zjištění vedení, popřípadě staveb a zařízení technického vybavení a stavu
+dotčených sousedních staveb. 
+- Na základě statického posouzení se zajišťuje, aby v průběhu prací nedošlo k nekontrolovanému porušení stability stavby nebo její části. 
+# NEZAPOMENOUT
+- O provedeném průzkumu vyhotoví zhotovitel stavby zápis. <----- žádný zápis neexistuje
+Průzkumem zjištěné podzemní prostory, například dutiny, studně nebo jiné podzemní objekty, musí být
+před zahájením bouracích prací zasypány nebo jiným způsobem zajištěny.
+# NEZAPOMENOUT
+- Jsou-li v průběhu bouracích prací zjištěny skutečnosti, které nebyly průzkumem podle výše uvedeného odhaleny <----- nemohly být odhaleny, protože neproběhl průzkum
+	zajistí zhotovitel bez zbytečného odkladu přizpůsobení technologického postupu těmto
+	skutečnostem tak, aby vždy byla zajištěna bezpečnost prováděných prací.
+
+
+RADON - B_SOUHRNNÁ_A_TECHNICKÁ_ZPRÁVA_MUROŇ.pdf (strana 3)
+d) výčet a závěry průzkumů
+Byl proveden vizuální průzkum stávající stavby a byl proveden pasport stavby se závěrem, že
+zamýšlený záměr je zcela proveditelný. Nebyl proveden radonový průzkum z důvodu umístění
+obytných podlaží ve 2.NP stávající stavby, kde není možné hromadění radonu z podloží.
+- nebyl provedeny radonový průzkum, ale zaplacený byl
+- podle projektu byl obyvaci pokoj + kuchyne na nepodsklepene casti -> tedy spatny zaver pruzkumu
 
 
 
@@ -1469,14 +1514,16 @@ FAKTURA - DAŇOVÝ DOKLAD č. 240100134 vystaveno 1.12.2024 -> 429 263,-   (40% 
 ZÁLOHOVÁ FAKTURA č. 250800004 vystaveno 5.1.2025 -> 835 555,00,- s DPH 12% 
 ZÁLOHOVÁ FAKTURA č. 250800035 vystaveno 4.3.2025 -> 521 079,00,. s DPH 12%  (do kupy ty 2 faktury = 1 356 634) 
 
-poníženou o:
+poníženou o: (vše bez DPH 12%)
 - realně odvedenou práci za fér ceny: 
-Demontáž stropů; dřevěný trámový strop		m2 127,110 czj=250,00 (opravdu plocha 127m2 ?, asi ano ) - celkem=31 777,50,- kč
-Demontáž krovu  celem = 30 000,- kč
+Demontáž střešního pláště: 					27 146,70   	- uznat
+Demontáž krovu:								30 000	 		- uznat
+Demontáž stropů; dřevěný trámový strop		31 777,50		- uznat
+
 
 vypočítat z odpadů: (jen zdivo?)
-Bourání zdí; kamenné a CPP zdivo   	- soubor  		Stadakor cena: 287 500 kč
-Demontáž střešního pláště  			- 193,905 m2  	Stadakor cena: 27 146,70 kč
+Bourání zdí; kamenné a CPP zdivo 			287 500 kč		- je to Stadakor cena, která by asi byla nižší, kdyby se dělala rovnou bagrem (probrat s Míšou) kdyby se vědělo, že jde o demolici
+Bourání kleneb; CPP, narušené klenby		30 173,00		- vrátit (že do toho bagr 2x vrazil lžící a nechal to tam, nepovažuju za demolici)
 
 
 navýšenou o
@@ -1492,18 +1539,38 @@ ZÁLOHOVÁ FAKTURA č. 250800003 vystaveno 2.1.2025  zbytek 40% -> tedy 110 110,
 5.) - Dotace - 														85 000,-   (Bez 21% DPH)   (Wilczek si DPH neuctoval, takze se platilo 85k)
 -- Správní poplatky: Poplatky zaplacené stavebnímu úřadu za neupotřebitelné povolení.  (2500,- ?? ověřit)
 
+6.) - Zakoupený materiál (pokud mají nějaké faktury, případně proč je ten materiál (překlady) od staré izolační pěny?)
+
+ad 1) 
+V praxi: pokud zhotovitel projekt vytvořil bez sond a bez ověření skutečného stavu, 
+tak je nepoužitelný a jeho hodnota je prakticky nulová – a to ti dává právo požadovat vrácení celé částky za projekt.
+Projektová Dokumentace: výkresová a textová část	- vrátit (zmařená investice)
+
 ad 2) vše bez DPH 21%
-Požárně bezpečnostní řešení „PBŘ“ 		9 500 Kč
-PENB + konzultace dotací 				9 500 Kč
-Statický posudek stavby 				9 000 Kč
-Měření radonového rizika 				8 000 Kč
-HG posudek na déšť 						13 500 Kč
-Projekt ČOV 							24 000 Kč
-HG posudek ČOV 							12 000 Kč
+Požárně bezpečnostní řešení „PBŘ“ 		9 500 Kč	- vrátit (zmařená investice)
+PENB + konzultace dotací 				9 500 Kč	- vrátit (zmařená investice)
+Statický posudek stavby 				9 000 Kč	- vrátit (zmařená investice)
+Měření radonového rizika 				8 000 Kč	- vrátit (neprovedl se vůbec)  (viz. RADON - B_SOUHRNNÁ_A_TECHNICKÁ_ZPRÁVA_MUROŇ.pdf (strana 3))
+HG posudek na déšť 						13 500 Kč	- uznat
+Projekt ČOV 							24 000 Kč	- uznat
+HG posudek ČOV 							12 000 Kč	- uznat
 
 ad 4) vše bez DPH 21%
-Vyřízení stavebního povolení na RD 		25 000 Kč
-Vyřízení stavebního povolení na ČOV 	9 500 Kč
+Vyřízení stavebního povolení na RD 		25 000 Kč	- vrátit (zmařená investice)
+Vyřízení stavebního povolení na ČOV 	9 500 Kč	- uznat
+
+ad 5)
+
+
+
+
+RADON - B_SOUHRNNÁ_A_TECHNICKÁ_ZPRÁVA_MUROŇ.pdf (strana 3)
+d) výčet a závěry průzkumů
+Byl proveden vizuální průzkum stávající stavby a byl proveden pasport stavby se závěrem, že
+zamýšlený záměr je zcela proveditelný. Nebyl proveden radonový průzkum z důvodu umístění
+obytných podlaží ve 2.NP stávající stavby, kde není možné hromadění radonu z podloží.
+- nebyl provedeny radonový průzkum, ale zaplacený byl
+- podle projektu byl obyvaci pokoj + kuchyne na nepodsklepene casti -> tedy spatny zaver pruzkumu
 
 
 Jak postupovat:
@@ -2140,4 +2207,441 @@ Doplňující tip pro zítřek:
 Sleduj, jak se tváří, když zmíníš, že už máš v stavebním deníku podepsané neprovedené sondy. Pokud jsou to profíci, ocení tvou důslednost. Pokud jsou to šmelaři, začnou být nervózní. 
 
 
+### VYJEDNAVANI O ODSTOUPENI 
+1.) Posouzení stropní konstrukce nad 1S
+Před započetím se stavebními pracemi bude nutné provést sondu ke stropní konstrukci. Bez této kontroly nelze
+započít se stavebními pracemi. Na části konstrukce je provedena konstrukce stropu s ocelovými nosníky neznámé dimenze a
+Hurdis deskami. Nad částí půdorysu byla provedena klenba, která již není stabilní. Bude snesena v celém rozsahu a bude
+provedena z ocelových prvků I140 z oceli S235 po osové vzdálenosti 1,25 m. Na ocelové nosníky budou provedeny trapézové
+plechy s nabetonávkou. Přesné vyztužení viz další fáze PD.
 
+2.) Návrh a posouzení základové konstrukce – základový pas
+Pod nosnými stěnami musí být proveden základový pas o šířce minimálně 600 mm. Stávající konstrukce j kamenná a bude nutné ji obetonovat! Betonáže budou provedeny na základě podrobné sondy k základové konstrukci a v minimální šíři 200 mm. Detailně po provedení sond v další fázi PD. Betonáž základových konstrukcí nesmí být provedena na podmáčenou nebo rozbředlou základovou půdu. Základová konstrukce byla určena pro Rdt=150kPa, tento předpoklad musí být potvrzen přizváním geologa během výkopových prací.
+Pevnost zeminy a hloubku základové spáry ověří přivolaný geolog během výkopů a tuto skutečnost zapíše do stavebního deníku.
+
+
+3.) Zásady provádění bouracích a podchycovacích prací
+Při provádění bouracích prací je nutno dodržovat veškeré normy, předpisy a vládní nařízení, týkající se bezpečnosti práce, např. nařízení vlády 591/2006 Sb. o bližších minimálních požadavcích na bezpečnost a ochranu zdraví při práci na staveništích, a z tohoto nařízení zejména: bourací práce, při nichž jsou dotčeny nosné prvky stavební konstrukce, se smí provádět pouze podle technologického postupu stanoveného v dokumentaci bouracích prací. Při bouracích pracích, pro něž se dokumentace bouracích prací podle zvláštního právního předpisu nezpracovává, zajistí zhotovitel stavby zpracování technologického postupu na základě provedeného průzkumu stávajícího stavu bourané stavby, jejího statického posouzení a zjištění vedení, popřípadě staveb a zařízení technického vybavení a stavu dotčených sousedních staveb. Na základě statického posouzení se zajišťuje, aby v průběhu prací nedošlo k nekontrolovanému porušení stability stavby nebo její části. O provedeném průzkumu vyhotoví zhotovitel stavby zápis.
+Průzkumem zjištěné podzemní prostory, například dutiny, studně nebo jiné podzemní objekty, musí být před zahájením bouracích prací zasypány nebo jiným způsobem zajištěny.
+Jsou-li v průběhu bouracích prací zjištěny skutečnosti, které nebyly průzkumem podle výše uvedeného odhaleny, zajistí zhotovitel bez zbytečného odkladu přizpůsobení
+
+4.) Základní koncepční řešení nosné konstrukce
+Základové konstrukce
+Založení objektu je navrženo jako plošné na základových pasech stávajících. Takový je předpoklad. Ten musí být ověřen sondou během stavebních prací. Předpokladem je, že se základová spára nachází nad hladinou spodní vody a vždy v nezámrzné hloubce min. 900 mm pod úrovní upraveného terénu. Pevnost zeminy a hloubku základové spáry ověří přivolaný geolog během výkopů a tuto skutečnost zapíše do stavebního deníku. Geologické poměry oblasti nebyly zjištěny, nebyl proveden průzkum ani tato informace nebyla uvedena v projektové dokumentaci. Geologický průzkum oblasti nebyl proveden, přesto lze usuzovat na dostatečnou únosnosti zeminy v úrovni základové spáry
+Svislé nosné konstrukce
+Stávající část objektu je postavena zděnou technologií pro nosné obvodové stěny. Předpokládá se, že se v rámci rozsahu stávajících svislých stěn nevyskytují trhliny ani jiné dislokace a dutiny. V případě zjištěného jiného stavu v rámci stavebních prací bude situace řešena na místě. Stavebně technický průzkum nebyl proveden, pevnost zdiva tedy nebyla exaktně stanovena. Lze však předpokládat na základě stavu a stáří budovy, že zdivo svislých nosných konstrukcí není degradováno. V rámci realizace zajistí zhotovitel stavby sondy a po odkrytí omítky na obvodových a středních nosných stěnách bude dle ČSN 73 0038 pevnost odborně odhadnuta osobou odborně způsobilou. Nové zděné konstrukce jsou plánovány jako dozdívky z cihel plných pálených na MC. Budou dodrženy zásady napojování a požadovaných konstrukčních detailů dodavatele technologie. Musí být dodrženy zásady skladování materiálu a technologická kázeň při provádění dle požadavků dodavatele systému.
+Nové konstrukce budou provedeny jako konstrukce z keramických tvárnic. Musí být dodrženy zásady skladování a manipulace dle dodavatele technologie.
+Vodorovné nosné konstrukce
+Nosná konstrukce nad prostorem 1.PP je provedena jako železobetonová konstrukce, takový je předpoklad, který musí být ověřen sondou. Nosná konstrukce nad prostorem 1.NP je provedena jako dřevěná konstrukce shodně jako krov.
+
+
+Začátek:
+------------
+„Projekt i realizace byly od začátku podmíněny provedením sond a průzkumů, které prokazatelně neproběhly. 
+Bez nich přitom podle dokumentace nebylo možné práce zahájit. 
+V důsledku toho došlo k chybnému rozhodnutí o rekonstrukci a k nevratné demolici objektu.“
+
+pochybení č.1 - Neproveden stavebně technický průzkum
+================================================================================
+citace: „Stavebně technický průzkum nebyl proveden, pevnost zdiva tedy nebyla exaktně stanovena.“
+příčina: Projekt byl zpracován na základě předpokladů bez ověření skutečného stavu konstrukcí.
+důsledek: Nesprávné vyhodnocení únosnosti konstrukcí, návrh rekonstrukce byl nerealizovatelný.
+
+pochybení č.2 - Neprovedení sond zdiva
+================================================================================
+citace: „V rámci realizace zajistí zhotovitel stavby sondy a po odkrytí omítky na obvodových a středních nosných stěnách bude dle ČSN 73 0038 pevnost odborně odhadnuta osobou odborně způsobilou.“
+příčina: Zhotovitel neprovedl předepsané sondy ani neověřil pevnost zdiva odborně způsobilou osobou.
+důsledek: Skutečný stav nosných stěn nebyl znám, což vedlo k mylnému předpokladu jejich zachovatelnosti.
+
+pochybení č.3 - Neověření základových konstrukcí sondami
+================================================================================
+citace: „Takový je předpoklad. Ten musí být ověřen sondou během stavebních prací.“
+citace: „Betonáže budou provedeny na základě podrobné sondy k základové konstrukci.“
+příčina: Nebyly provedeny sondy základů a nebyl ověřen jejich skutečný stav.
+důsledek: Základová konstrukce byla považována za vyhovující, přestože ve skutečnosti nevyhovovala, což znemožnilo realizaci návrhu.
+
+pochybení č.4 - Nezajištění geologického posouzení
+================================================================================
+citace: „Pevnost zeminy a hloubku základové spáry ověří přivolaný geolog během výkopů a tuto skutečnost zapíše do stavebního deníku.“
+příčina: Nebyl přizván geolog a nebylo provedeno ověření základových poměrů.
+důsledek: Nebyla ověřena únosnost podloží, což mohlo zásadně ovlivnit návrh založení stavby.
+
+pochybení č.5 - Zahájení prací bez povinné kontroly konstrukce
+================================================================================
+citace: „Bez této kontroly nelze započít se stavebními pracemi.“
+příčina: Byly zahájeny bourací práce bez provedení předepsané kontroly stropní konstrukce nad 1.PP.
+důsledek: Práce probíhaly bez znalosti skutečného stavu konstrukce, což vedlo k dodatečnému zjištění její nevyhovující kvality až v průběhu demolice.
+
+pochybení č.6 - Neprovedení průzkumu před bouracími pracemi
+================================================================================
+citace: „Zhotovitel stavby zajistí zpracování technologického postupu na základě provedeného průzkumu stávajícího stavu bourané stavby.“
+citace: „O provedeném průzkumu vyhotoví zhotovitel stavby zápis.“
+příčina: Nebyl proveden průzkum stávajícího stavu objektu před zahájením bourání a nebyl o něm proveden žádný zápis.
+důsledek: Bourací práce byly zahájeny bez znalosti skutečného stavu konstrukcí, což vedlo k nekontrolovanému odhalení zásadních vad až během demolice.
+
+pochybení č.7 - Nepřizpůsobení postupu po zjištění skutečného stavu
+================================================================================
+citace: „Jsou-li v průběhu bouracích prací zjištěny skutečnosti, které nebyly průzkumem odhaleny, zajistí zhotovitel bez zbytečného odkladu přizpůsobení technologického postupu těmto skutečnostem.“
+příčina: Po zjištění nevyhovujícího stavu konstrukcí nebyl adekvátně upraven postup prací.
+důsledek: Místo přehodnocení projektu a zastavení prací došlo k pokračování demolice až do úplného odstranění objektu.
+
+pochybení č.8 - Projekt založený na neověřených předpokladech
+================================================================================
+citace: „Předpokládá se, že se v rámci rozsahu stávajících svislých stěn nevyskytují trhliny ani jiné dislokace a dutiny.“
+citace: „Lze však předpokládat na základě stavu a stáří budovy, že zdivo svislých nosných konstrukcí není degradováno.“
+příčina: Projektant vycházel z nepodložených předpokladů bez provedení průzkumu.
+důsledek: Návrh rekonstrukce byl založen na chybných vstupních údajích a nebyl realizovatelný.
+
+pochybení č.9 - Neověření konstrukce stropu nad 1.PP
+================================================================================
+citace: „Nosná konstrukce nad prostorem 1.PP je provedena jako železobetonová konstrukce, takový je předpoklad, který musí být ověřen sondou.“
+příčina: Nebyla provedena sonda ke zjištění skutečného typu a stavu stropní konstrukce.
+důsledek: Skutečný stav stropu byl zjištěn až při bourání, což vedlo k nutnosti změny rozsahu prací.
+
+
+
+1️⃣ Klíčové ustanovení
+------------------------------------
+Článek IX. – Změny díla
+„Změny díla nebo rozsahu plnění zhotovitele podle této smlouvy jsou možné pouze na základě písemného dodatku k této smlouvě.“
+„Dodatek musí obsahovat výslovné ujednání specifikující změnu díla nebo rozsahu plnění, dopad na termíny a cenu.“
+➡ To znamená, že žádná změna není účinná bez vašeho písemného souhlasu.
+Změna ceny + řešení „Ztracené bednění“ je dodatečné navýšení o 40 %, které jste nepodepsal, takže z právního hlediska je neplatná.
+Pokud by firma trvala na realizaci nové varianty bez vašeho souhlasu, jde o jednostranné porušení smlouvy.
+2️⃣ Co to znamená pro odstoupení
+Podle § 2001 občanského zákoníku:
+Pokud druhá strana jednostranně mění podstatné parametry díla (cenou, rozsah, technické řešení) bez souhlasu objednatele, jde o podstatné porušení smlouvy.
+Máte tedy právní titul pro odstoupení od smlouvy a současně nárok na vrácení záloh za nerealizovanou část díla (odečteno pouze skutečně provedené práce a materiál).
+3️⃣ Vaše praktická pozice
+Firma navrhla novou konstrukci, zvýšila cenu o 40 %, vy nepodepsal jste žádný dodatek → změna je neplatná.
+Podle smlouvy můžete odmítnout jakoukoliv jednostrannou změnu.
+Pokud se firma pokusí pokračovat bez vašeho souhlasu, můžete od smlouvy odstoupit a žádat vrácení záloh minus odečtené práce (např. demoliční práce, materiál).
+
+
+Odstoupení od smlouvy a náhrada škody
+Podle smlouvy a občanského zákoníku máte možnost odstoupit od smlouvy kvůli podstatnému porušení povinností.
+Současně můžete žádat vrácení záloh minus prokazatelně provedené práce.
+Nárok na zmarené investice (projekt, stavební povolení, dotace, statický posudek) je reálný – to jsou škody vzniklé jednostranným nepostupováním sond a nesprávným posouzením stavu objektu.
+
+
+
+věta na závěr:
+-----------------------
+"Vzhledem k tomu, že dosavadní postupy při provádění projektu a demolice neodpovídají smluvním podmínkám a nebyly provedeny nezbytné sondy a kontroly, tímto oznamuji svůj záměr ukončit smlouvu o dílo. Současně si vyhrazuji právo uplatnit veškeré nároky na náhradu škody, včetně škod vzniklých nerealizovatelným projektem a zbytečnými investicemi, a zvážit podání podnětu k ČKAIT a uplatnění nároků u pojišťovny. Dohodu o ukončení smlouvy vám zašlu emailem."
+
+tvrdsi verze:
+--------------
+"Na základě zjištěného stavu zdiva, neprovedených sond a nedodržení projektové dokumentace ukončuji smlouvu o dílo. Vyhrazuji si nárok na vrácení všech zaplacených záloh a náhradu všech škod, včetně investic do projektu, stavebního povolení a souvisejících nákladů. V případě nevyřešení situace budu nucen uplatnit nároky vůči vaší pojišťovně a případně podat podnět na ČKAIT. Dohodu o ukončení smlouvy vám zašlu emailem."
+
+komplexni verze: (nejlepsi)
+----------------
+Na základě zjištěného stavu zdiva, neprovedených sond a nedodržení postupů předepsaných projektovou dokumentací, což představuje zároveň porušení povinnosti zhotovitele provádět dílo podle projektové dokumentace a schválených postupů dle Čl. VIII a IX smlouvy o dílo, ukončuji smlouvu o dílo. Vyhrazuji si nárok na vrácení všech zaplacených záloh, s přihlédnutím k hodnotě skutečně realizované práce, a náhradu všech škod, včetně investic do projektu, stavebního povolení a souvisejících nákladů. V případě nevyřešení situace budu nucen uplatnit nároky vůči vaší pojišťovně a případně podat podnět na ČKAIT. Dohodu o ukončení smlouvy vám zašlu emailem.“
+Současně navrhuji, abychom se dohodli na konkrétním datu vrácení záloh a uznání hodnoty provedených prací. Dohodu o ukončení smlouvy vám zašlu emailem.“
+
+### DO DENÍKU
+Zápis do stavebního deníku:
+Na základě zjištěného stavu zdiva, neprovedených sond a nedodržení postupů předepsaných projektovou dokumentací, což představuje zároveň porušení povinnosti zhotovitele provádět dílo podle projektové dokumentace a schválených postupů dle Čl. VIII a IX smlouvy o dílo, ukončuji smlouvu o dílo.
+Vyhrazuji si nárok na vrácení všech zaplacených záloh, s přihlédnutím k hodnotě skutečně realizované práce, a náhradu všech škod, včetně investic do projektu, stavebního povolení a souvisejících nákladů.
+Současně navrhuji dohodu o konkrétním datu vrácení záloh a uznání hodnoty provedených prací. V případě nevyřešení situace budu nucen uplatnit nároky vůči pojišťovně zhotovitele a případně podat podnět na ČKAIT.
+
+
+
+⚖️ PROČ TO NENÍ „MLHAVÉ“ (tohle je tvoje obrana)
+Oni budou říkat: „to je jen doporučení / obecné“
+Ty řekni:
+👉 „Není důležité jen slovní znění, ale účel těch opatření.“
+A pak:
+sondy → aby se zjistil stav
+geolog → aby se ověřily základy
+kontrola → aby se rozhodlo, jestli pokračovat
+👉 všechny ty kroky dávají smysl jen před nevratným zásahem
+
+
+
+🔴 KILLER ARGUMENT (použij určitě)
+Řekni klidně takhle:
+„Pokud by ty kontroly proběhly až po zahájení bourání, tak by úplně ztratily smysl, protože by už nebylo možné podle nich upravit postup.“
+...(pauza)...
+👉 tohle je logicky neprůstřelné
+
+
+🧠 MALÝ HACK NA JEDNÁNÍ
+Když začne diskuze „co tím autor myslel“, řekni:
+„Dobře, pojďme prakticky – kdy podle vás měla být provedena kontrola, aby ještě mohla ovlivnit postup?“
+
+👉 nech je odpovědět
+řeknou „později“ → nedává smysl
+řeknou „dřív“ → máš je
+
+💬 Shrnutí pro tebe
+👉 Ano, ty formulace jsou trochu obecné
+👉 ALE jejich význam je v praxi jednoznačný:
+musí být provedeny včas
+tj. před nevratnými zásahy (bourání)
+
+
+
+🔥 JAK TO POUŽÍT (velmi silná formulace)
+----------------------------------------------
+Můžeš říct:
+„Zálohy na realizaci jsem hradil už v listopadu 2024, tedy ještě před podáním projektu na stavební úřad.
+Celý rok 2025 se čekalo na povolení, ale během té doby nedošlo k ověření skutečného stavu objektu, přestože projekt sám uvádí, že je založen na předpokladech a vyžaduje jejich ověření.
+Zásadní skutečnosti se zjistily až během prvních dnů bouracích prací, kdy už bylo do konstrukce nevratně zasaženo.
+Z mého pohledu tedy došlo k tomu, že jsem hradil realizaci projektu, jehož proveditelnost nebyla nikdy ověřena.“
+
+
+🧨 JEŠTĚ OSTŘEJŠÍ (když bude potřeba)
+----------------------------------------------
+„Pokud by byl skutečný stav objektu ověřen v době přípravy projektu nebo během čekání na stavební povolení, bylo by možné rozhodnout o vhodnějším řešení ještě před zahájením prací.
+Tím, že k tomu nedošlo, byla zvolena varianta, která se ukázala jako nerealizovatelná až ve fázi, kdy už vznikaly náklady na demolici.“
+🧠 CO ONA STRANA ZKUSÍ
+Připrav se, že řeknou:
+❗ „To se dělá až při realizaci“
+👉 odpověď:
+„Ano, ale musí to být provedeno v okamžiku, kdy to ještě může ovlivnit rozhodnutí. Ne až po zahájení bourání.“
+❗ „To se nedalo zjistit bez odkrytí“
+👉 odpověď:
+„Proto projekt požaduje sondy a průzkum. Ty ale nebyly doloženy.“
+❗ „To je běžné riziko rekonstrukcí“
+👉 odpověď:
+„Ano, ale to riziko se má řídit postupy uvedenými v projektu. Ty nebyly splněny.“
+🎯 STRATEGICKÝ BONUS
+Tohle si zapamatuj, je to hodně silná věta:
+👉
+„Nejde o to, že se objevil problém. Jde o to, že se objevil až ve chvíli, kdy už bylo pozdě ho řešit.“
+
+💬 Shrnutí
+👉 To, co popisuješ, není slabina – je to důkaz:
+projekt byl nejistý
+nejistota nebyla odstraněna
+přesto se pokračovalo
+→ problém se projevil pozdě
+
+
+🧨 SILNÁ VĚTA NA UKONČENÍ SPOLUPRÁCE
+----------------------------------------------
+„Za této situace nevidím důvod pokračovat ve spolupráci a rád bych ji ukončil dohodou.“
+
+
+MĚKČÍ VERZE (na začátek jednání)
+================================================================================
+Cíl: nevystřelit hned konflikt, ale jasně ukázat, že víš, o čem mluvíš.
+Můžeš říct klidně téměř doslova:
+„Chtěl bych to projít věcně a najít řešení.
+Ze statického posudku i projektové dokumentace vyplývá, že realizace byla podmíněna provedením průzkumů a sond, které se podle dostupných podkladů neprovedly nebo o nich neexistuje žádný záznam.
+Konkrétně jde o:
+stavebně technický průzkum, který nebyl proveden,
+sondy zdiva a základů,
+ověření konstrukcí před zahájením prací,
+a také geologické posouzení.
+Tyto kroky přitom měly zásadní vliv na to, jestli je rekonstrukce vůbec proveditelná.
+Ve stavebním deníku jsem na to upozorňoval – jednak při kontrolním dni, kdy se ukázal skutečný stav zdiva, a následně jsem žádal o informaci, zda a kdy byly sondy provedeny. Na to jsem zatím nedostal odpověď.
+Za mě tedy došlo k situaci, kdy se projekt realizoval bez ověření základních předpokladů, což vedlo k tomu, že rekonstrukce nebyla možná a objekt byl de facto zbourán.
+Rád bych se proto bavil o férovém narovnání situace.“
+
+👉 Klíč:
+neobviňuješ přímo („porušili jste“)
+ale fakty je k tomu dotlačíš sami
+
+
+TVRDŠÍ VERZE (když začnou uhýbat / popírat)
+================================================================================
+Tohle už je skoro právní argumentace – klidně zpomal, mluv věcně.
+„Z dokumentace jednoznačně vyplývá, že provedení průzkumů a sond bylo podmínkou pro zahájení i pokračování prací.
+Cituji:
+‘Stavebně technický průzkum nebyl proveden’
+‘Zhotovitel zajistí sondy…’
+‘Bez této kontroly nelze započít se stavebními pracemi’
+Tyto povinnosti nebyly splněny:
+sondy nebyly doloženy,
+geolog nebyl přizván,
+neexistují zápisy o průzkumech,
+a přesto byly zahájeny a prováděny bourací práce.
+Navíc firma byla současně projektantem, zhotovitelem i technickým dozorem, takže měla plnou kontrolu nad správností postupu.
+Ve stavebním deníku jsem na možné porušení povinností upozornil bezprostředně po zjištění stavu a následně jsem opakovaně žádal o doložení provedení sond. Do dnešního dne jsem neobdržel odpověď.
+Z mého pohledu tedy došlo k porušení projektové dokumentace i odborné péče, což vedlo k chybnému rozhodnutí o rekonstrukci a k nevratné demolici objektu.
+Pokud nenajdeme dohodu, budu nucen situaci řešit právní cestou včetně uplatnění náhrady škody.“
+
+Tohle už:
+jasně říká „porušení“
+opírá se o důkazy
+naznačuje právní krok (bez vyhrožování)
+
+
+
+STRATEGIE NA JEDNÁNÍ (velmi důležité)
+================================================================================
+Upřímně – největší chyba by byla začít tou tvrdou verzí.
+Doporučený postup:
+1.) Začni měkce
+→ nech je mluvit
+→ sleduj, jestli:
+přiznají chybu
+nebo začnou mlžit
+
+2.) Pokud budou mlžit, použij „tlak přes otázky“
+Např.:
+„Můžete mi ukázat záznam o provedení sond?“
+„Kdo konkrétně provedl odhad pevnosti zdiva dle ČSN?“
+„Kde je zápis geologa ve stavebním deníku?“
+👉 tohle je extrémně silné – nutí je do kouta bez konfliktu
+
+3.) Až pak přejdi do tvrdší polohy
+⚠️ EXTRA SILNÝ MOMENT (použij určitě)
+Tohle tam určitě řekni:
+„Pokud by byly sondy provedeny včas, bylo by zřejmé, že rekonstrukce není možná, a k demolici v tomto rozsahu by vůbec nemuselo dojít.“
+👉 To je jádro celé věci = kauzální vztah (příčina → škoda)
+🧾 K tvému zápisu ve stavebním deníku
+To je velmi dobré. Využij to takhle:
+„Upozornil jsem na to okamžitě při kontrolním dni“
+„Následně jsem to nechal zapsat a žádal vysvětlení“
+„Odpověď jsem neobdržel“
+👉 tím:
+vyvracíš, že jsi něco zanedbal
+přenášíš odpovědnost na ně
+
+
+Dobře – pojďme na to prakticky. Níže máš 
+realistickou simulaci jednání, přesně ve stylu, jak to obvykle probíhá.
+================================================================================
+👉 Ty = TY
+👉 Firma = ONI
+Dám ti:
+jejich typické reakce
+tvoje ideální odpovědi
+vysvětlím, proč to funguje
+
+------------------------------------
+🎭 SCÉNÁŘ 1 – „Sondy možná proběhly“
+------------------------------------
+ONI:
+„Sondy se dělaly, jen to není všechno ve stavebním deníku.“
+TY:
+„Rozumím. Můžete mi prosím ukázat konkrétní záznam – kdo je provedl, kdy a jaký byl výsledek?“
+👉 (pauza – nech je mluvit)
+ONI (typicky):
+„To bylo spíš orientační…“
+TY:
+„Projekt ale požaduje odborné posouzení pevnosti dle ČSN a zápis o provedení. Pokud to není doloženo, beru to tak, že to provedeno nebylo.“
+✅ Proč to funguje:
+neříkáš „lžete“
+jen chceš důkaz → který nemají
+
+------------------------------------
+🎭 SCÉNÁŘ 2 – „To nešlo vědět dopředu“
+------------------------------------
+ONI:
+„Ten stav zdiva se nedal předem zjistit.“
+TY:
+„Právě proto projekt výslovně požaduje provedení sond a průzkumu před zahájením prací.“
+(pak klidně:)
+„Kdyby byly provedeny, bylo by zřejmé, že rekonstrukce není možná.“
+✅ Pointa:
+👉 otočíš jejich argument proti nim
+
+------------------------------------
+🎭 SCÉNÁŘ 3 – „To je běžný postup“
+------------------------------------
+ONI:
+„Tohle je u starých domů běžné, vždy se něco odhalí až při bourání.“
+TY:
+„Souhlasím, že se mohou objevit nečekané věci.
+Ale právě proto projekt stanovuje konkrétní kroky – sondy, průzkum a ověření konstrukcí – které mají tohle riziko minimalizovat.“
+✅ Pointa:
+nepopíráš realitu
+ale ukazuješ, že nebyl dodržen proces
+
+------------------------------------
+🎭 SCÉNÁŘ 4 – „Vy jste to odsouhlasil“
+------------------------------------
+ONI:
+„Vy jste přece s postupem souhlasil.“
+TY:
+„Souhlasil jsem s realizací podle projektové dokumentace.
+Ta ale byla podmíněna provedením průzkumů a sond, které nebyly doloženy.“
+(případně přidej:)
+„Navíc jsem po zjištění stavu okamžitě nechal do stavebního deníku zapsat dotaz na jejich provedení.“
+✅ Tohle je KLÍČOVÉ:
+👉 odděluješ:
+souhlas s projektem ❌ ≠ souhlas s chybně provedenou realizací
+
+------------------------------------
+🎭 SCÉNÁŘ 5 – „To je odpovědnost projektanta“
+------------------------------------
+(velmi pravděpodobné)
+ONI:
+„To je spíš chyba projektu / statika.“
+TY:
+„Firma ale byla současně projektantem, zhotovitelem i technickým dozorem.
+Měla tedy povinnost jak správnost projektu zajistit, tak ji při realizaci ověřit.“
+(pauza)
+„Navíc projekt sám upozorňuje, že je založen na předpokladech a musí být ověřen sondami.“
+✅ Pointa:
+👉 zavřeš jim únikovou cestu
+
+------------------------------------
+🎭 SCÉNÁŘ 6 – „Muselo se to zbourat“
+------------------------------------
+ONI:
+„Nakonec se ukázalo, že to stejně nešlo zachránit.“
+TY:
+„To může být pravda.
+Ale klíčová otázka je, kdy se to mělo zjistit.“
+(pauza)
+„Pokud by byly provedeny sondy včas, bylo by to zřejmé ještě před zahájením prací – a rozsah demolice mohl být úplně jiný.“
+✅ Tohle je NEJSILNĚJŠÍ ARGUMENT:
+👉 posouváš debatu z „co“ na „kdy a proč“
+
+------------------------------------
+🎭 SCÉNÁŘ 7 – „Pojďme to uzavřít bez hledání viníka“
+------------------------------------
+ONI:
+„Nechceme hledat chyby, pojďme se domluvit.“
+TY (ideální reakce):
+„Souhlasím, cílem není spor.
+Ale pro férovou dohodu potřebujeme vycházet z toho, co se skutečně stalo.“
+(pak:)
+„Z mého pohledu se projekt realizoval bez splnění podmínek, které sám stanovil.“
+✅ Pointa:
+přijmeš smír
+ale držíš si silnou pozici
+
+------------------------------------
+🎭 SCÉNÁŘ 8 – „Budeme to řešit právně“
+------------------------------------
+ONI:
+„S tím nesouhlasíme.“
+TY:
+„Rozumím.
+V tom případě budu nucen to řešit právní cestou, ale stále preferuji dohodu.“
+
+
+✅ krátké, klidné, bez emocí
+------------------------------------
+🧠 TAKTICKÉ TIPY (tohle rozhoduje)
+✔️ Dělej pauzy
+po každé otázce mlč
+oni začnou mluvit → často se zamotají
+
+✔️ Nepřerušuj je
+nech je říct i nesmysl
+pak ho rozebereš
+
+✔️ Drž se 3 věcí dokola:
+sondy nebyly doloženy
+projekt je vyžadoval
+bez nich se nemělo začít
+👉 to je tvoje „mantra“
+❌ Čemu se vyhnout:
+„vy jste to pokazili“
+„je to vaše vina“
+emoce
+👉 nech fakta mluvit za tebe
+🧾 BONUS – KILLER OTÁZKY (připrav si je)
+------------------------------------
+Použij kdykoliv:
+„Kdo konkrétně provedl sondy?“
+„Kde je o tom zápis?“
+„Jaká byla zjištěná pevnost zdiva?“
+„Kdy byl přizván geolog?“
+👉 pokud neumí odpovědět = máš vyhráno
