@@ -2677,7 +2677,16 @@ V tom e-mailu bude uvedeno číslo smlouvy, přehled uhrazených záloh, vyčís
 Předpokládám, že se na těchto podkladech shodneme a uzavřeme to dohodou.“
 
 
-### TAHÁK PRO VYJEDNÁVÁNÍ 	   
+### TAHÁK PRO VYJEDNÁVÁNÍ 	  
+Postup:
+fakta (deník, sondy)
+jejich vyjádření
+shrnutí problému
+až pak:
+„Na základě toho ukončuji smlouvu“
+👉 mnohem silnější dopad 
+
+
 START – JEDNÁNÍ
 🎯 Zítřejší schůzka – krok za krokem
 
@@ -2697,6 +2706,14 @@ bod 2.) Kontrola stavebního deníku
 		-> a  rovnou napis ### DO DENÍKU NA ZAČÁTKU JEDNANI a přejít k bodu 3.
 	 c) Nic do deniku nedoplnili
 	    -> Reakce: rovnou napis ### DO DENÍKU NA ZAČÁTKU JEDNANI
+		
+	po tom úvodním zápisu do stavebního deníku se zeptej:
+	„Jak to tedy vidíte vy?“
+	👉 a pak mlč
+	Proč:
+	oni odhalí svoji strategii
+	často si sami protiřečí
+	ty si vybereš, kam je „chytíš“
 
 bod 3.) Shrnutí problémů
    - Vyjmenuj faktické nedostatky:
@@ -2716,16 +2733,60 @@ bod 4.) Ukončení smlouvy
      - náhradu škod a investic (projekt, stavební povolení, dotace),
      - možnost uplatnění nároků vůči pojišťovně a ČKAIT, pokud nebude dohoda.
 
-bod 5.) Diskuse o vrácení peněz a uznaných položkách
+bod 5.) Diskuse o vrácení peněz a uznaných položkách 
+💰 7️⃣ Nehádej se o čísla na místě (ty jasne vycislene ano, ty modre ozancene, to je na iskuzi, ale nehadat se , rict klidne svoje stanovisko (ktere mas v xcelu v poznamkach))
+To je past.
+Když přijdou s částkami:
+„Částky si projdeme v rámci oficiálního vyčíslení, které vám pošlu.“
+👉 držíš kontrolu
+👉 neuděláš chybu pod tlakem
+
+🎯 KLÍČOVÁ STRATEGIE
+👉 Na schůzce NEprezentuj finální částku
+👉 prezentuj strukturu a princip
+TY: --„	Většinu položek mám připravenou a podloženou.
+	U dvou oblastí – konkrétně bourací práce a případně nakoupený materiál – potřebuji od vás doplnit podklady, abych to mohl finálně uzavřít.“
+	
+Tohle máš velmi dobře vymyšlené (vážní lístky = silný argument).
+Na schůzce řekni:
+„Bourací práce uznávám, ale jejich rozsah a cenu chci posoudit podle skutečně provedeného objemu, který je doložený například vážními lístky.“
+A když zatlačí:
+„Nebyla provedena celá položka dle rozpočtu, takže není možné ji uznat jako celek.“
+👉 důležité:
+uznáváš práci → nejsi konfliktní
+ale neuznáváš jejich cenu automaticky
+
    - Stanovit dohodu o:
      - uznaných pracích,
      - částce k vrácení,
+	 - material dolozit fakturou (A bud je muj nebo neproplacim) 
+		- U materiálu potřebuji přesný rozpis – co bylo nakoupeno, za kolik a kde se ten materiál nachází.“ 
+		- „Bez toho nemůžu tyto náklady uznat.“
+		- „Uznám pouze to, co je prokazatelně doložené.“
      - termínu vyrovnání. # NEZAPOMENOUT
    - Možné argumenty firmy:
      a) „Zálohy byly použity na projekt, koordinaci, povolení…“  
         → Reakce: „Požaduji konkrétní rozpis provedených prací a výdajů, ne obecné položky.“
      b) „Demolice byla provedena správně a musí být zaplacena.“  
         → Reakce: „Demolici uznávám, ale cena a rozsah by byly jiné při správném projektu.“
+		
+	💬 Co NIKDY neříkej
+	❌ „Tak třeba bych vám uznal…“
+	❌ „Můžeme se dohodnout třeba na…“
+	❌ „Odhadem by to mohlo být…“
+	👉 tohle je začátek ztráty peněz
+
+	✔️ Co říkej místo toho
+	„Tohle dopočítám na základě podkladů.“
+	„Tohle zatím nemůžu uznat.“
+	„Tohle potřebuju doložit.“
+	
+	🧠 Finální mindset
+	Zítra neuzavíráš částku.
+	Zítra:
+	nastavuješ pravidla
+	potvrzuješ fakta
+	získáváš podklady
 
 bod 6.) Uzavření schůzky
    - Shrnutí dohody nebo zaznamenání, že firma si stanoví interní stanovisko.
@@ -2802,6 +2863,18 @@ bod 6.) Uzavření schůzky
                    +--> => VADNÝ NÁVRH
                          Reakce:
                          "Pak nejde o vícepráce, ale chybný návrh."
+
+ONI: "👉 „Chovali jste se tak, že projekt pokračuje → takže jste souhlasil s pokračováním.“
+ONI: "Dělali jsme nový rozpočet → chtěl jste pokračovat"
+   |
+   +--> TY: "Vyžádání návrhu ≠ souhlas s pokračováním"
+          |
+          +--> "Nepodepsal jsem žádný dodatek (Čl. IX)"
+          |
+          +--> "Byla to analýza situace, ne objednávka"
+          |
+          +--> "Nový návrh jen potvrzuje chybu původního řešení"
+		  
 						 
  +--> CHYBNÝ NÁVRH A CENA
  |     |
@@ -2918,6 +2991,13 @@ bod 6.) Uzavření schůzky
         			 |
         			 +--> Reakce:
         				   "To je otázka odborného posouzení"
+				+--> Oni: "Klidně to řeště právně"
+        			 |TY: 
+        			 +--> Reakce:
+        				   Praktický tip: klidně reagujte slušně, ale pevně:
+							„Dobře, chápu. Připravil jsem všechny podklady, spočítal nároky na vrácení záloh a náhradu škod. Dohodu o ukončení smlouvy a vyčíslení nároků vám zašlu emailem s jasným datem splatnosti, a pokud nebude situace vyřešena, budu nucen postupovat přes pojišťovnu a profesní komoru
+							nebo
+							Dobře, chápu. Připravil jsem všechny podklady, včetně smlouvy, stavebního deníku, faktur a přesného vyčíslení záloh a náhrad. Dohodu o ukončení smlouvy s vyčíslením nároků vám zašlu emailem s jasným termínem splatnosti. Pokud nebude situace vyřešena do tohoto data, budu nucen postupovat přes pojišťovnu a profesní komoru. 
 
 
 
@@ -2959,3 +3039,76 @@ To je tvoje „kotva“.
 ticho = tvoje výhoda (nech je mluvit)
 nenech se zatlačit do rychlého souhlasu
 klidně si dělej poznámky před nimi
+
+
+
+
+🧠 1️⃣ Nech je mluvit první (po deníku)
+Po tom úvodním zápisu do stavebního deníku se zeptej:
+„Jak to tedy vidíte vy?“
+👉 a pak mlč
+Proč:
+oni odhalí svoji strategii
+často si sami protiřečí
+ty si vybereš, kam je „chytíš“
+🎯 2️⃣ Drž jednu hlavní linii
+Když se to začne rozpadat do detailů, vždy se vrať:
+„To hlavní je, že nebyly provedeny sondy a projekt z toho důvodu neodpovídá realitě.“
+👉 tohle opakuj klidně 5×
+👉 to je tvoje „kotva“
+⚠️ 3️⃣ Nenech se zatáhnout do zmenového listu
+Oni se o to určitě pokusí.
+Reakce:
+„Nejdřív musíme vyřešit, jestli je původní návrh vůbec realizovatelný.“
+👉 tím to vždycky „zabiješ“
+✍️ 4️⃣ Piš si poznámky (viditelně)
+Klidně si během jednání zapisuj:
+jejich tvrzení
+jejich vysvětlení k sondám
+cokoliv důležitého
+👉 psychologický efekt:
+začnou si dávat větší pozor
+působíš jako někdo, kdo to řeší vážně
+📄 5️⃣ Na konci VŽDY zápis do deníku
+To je extrémně důležité.
+Stačí krátké:
+co bylo projednáno
+že nedošlo ke shodě / nebo že probíhá jednání o ukončení
+že bude následovat písemné vyčíslení
+👉 bez toho jako by se schůzka nestala
+🧱 6️⃣ Připrav si „stop větu“
+Když budou tlačit, použij:
+„Za těchto podmínek nemám zájem pokračovat v realizaci.“
+👉 krátké, klidné, konečné
+💰 7️⃣ Nehádej se o čísla na místě
+To je past.
+Když přijdou s částkami:
+„Částky si projdeme v rámci oficiálního vyčíslení, které vám pošlu.“
+👉 držíš kontrolu
+👉 neuděláš chybu pod tlakem
+🧨 8️⃣ Sleduj jednu věc: přiznání
+Nejdůležitější momenty budou, když řeknou něco jako:
+„Sondy jsme nestihli“
+„Nevěděli jsme přesně stav“
+„To se zjistilo až při bourání“
+👉 to jsou zlaté věty
+Klidně na ně reaguj:
+„Dobře, to si prosím pojďme zapsat do deníku.“
+🤝 9️⃣ Buď klidný (ale pevný)
+žádné emoce
+žádné útoky
+jen fakta + opakování
+👉 působí to mnohem silněji než tlak
+🧩 10️⃣ Největší výhoda, kterou máš
+Ty:
+nechceš pokračovat
+máš dokumentaci
+máš logiku
+Oni:
+chtějí pokračovat (peníze)
+budou obhajovat minulost
+👉 to znamená:
+ty máš kontrolu nad směrem jednání
+🔑 Úplně nejdůležitější věta na zítra
+Když by sis měl zapamatovat jen jednu:
+„Kdyby byly provedeny sondy na začátku, tyto náklady by vůbec nevznikly.“
