@@ -50,7 +50,9 @@ když vše selže:
 		### VYJEZDY BETONARKY A CERPANI
 		### MY TO TAK DELAME A ZATIM SI NIKDO ZA TECH 30 LET NESTEZOVAL
 		### VYJEDNAVANI O ODSTOUPENI 
+			### TAHÁK PRO VYJEDNÁVÁNÍ
 			### DO DENÍKU
+			### SONDY A KONKRETNI CITACE 
 	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
 	### CITACE SONDY   (x - odkazu)
 	### DOPSAT DO STAVEBNIHO DENIKU
@@ -2235,8 +2237,7 @@ Vodorovné nosné konstrukce
 Nosná konstrukce nad prostorem 1.PP je provedena jako železobetonová konstrukce, takový je předpoklad, který musí být ověřen sondou. Nosná konstrukce nad prostorem 1.NP je provedena jako dřevěná konstrukce shodně jako krov.
 
 
-Začátek:
-------------
+### SONDY A KONKRETNI CITACE 
 „Projekt i realizace byly od začátku podmíněny provedením sond a průzkumů, které prokazatelně neproběhly. 
 Bez nich přitom podle dokumentace nebylo možné práce zahájit. 
 V důsledku toho došlo k chybnému rozhodnutí o rekonstrukci a k nevratné demolici objektu.“
@@ -2340,7 +2341,7 @@ Současně navrhuji, abychom se dohodli na konkrétním datu vrácení záloh a 
 
 ### DO DENÍKU
 Zápis do stavebního deníku:
-Na základě zjištěného stavu zdiva, neprovedených sond a nedodržení postupů předepsaných projektovou dokumentací, což představuje zároveň porušení povinnosti zhotovitele provádět dílo podle projektové dokumentace a schválených postupů dle Čl. VIII a IX smlouvy o dílo, ukončuji smlouvu o dílo.
+Na základě zjištěného stavu zdiva, neprovedených sond a nedodržení postupů předepsaných projektovou dokumentací, což představuje zároveň porušení povinnosti zhotovitele provádět dílo podle projektové dokumentace a schválených postupů dle Čl. VIII a IX smlouvy o dílo, ukončuji smlouvy o dílo.
 Vyhrazuji si nárok na vrácení všech zaplacených záloh, s přihlédnutím k hodnotě skutečně realizované práce, a náhradu všech škod, včetně investic do projektu, stavebního povolení a souvisejících nákladů.
 Současně navrhuji dohodu o konkrétním datu vrácení záloh a uznání hodnoty provedených prací. V případě nevyřešení situace budu nucen uplatnit nároky vůči pojišťovně zhotovitele a případně podat podnět na ČKAIT.
 
@@ -2645,3 +2646,287 @@ Použij kdykoliv:
 „Jaká byla zjištěná pevnost zdiva?“
 „Kdy byl přizván geolog?“
 👉 pokud neumí odpovědět = máš vyhráno
+
+
+
+
+
+### TAHÁK PRO VYJEDNÁVÁNÍ 	   
+START – JEDNÁNÍ
+🎯 Zítřejší schůzka – krok za krokem
+
+bod 1.) Otevření schůzky
+   - Přivítání, stručně připomenout účel: kontrola stavu sond a projektového podkladu.
+   - Cíl: zjistit fakta a mít jasnou základnu pro další jednání.
+
+bod 2.) Kontrola stavebního deníku
+   - Ukážeš záznam z minulého měsíce: čekáš na jejich informace ohledně provedení sond.
+   - Otázka: "Byly sondy provedeny a vyhodnoceny dle projektové dokumentace?"
+   - Možné odpovědi firmy:
+     a) „Ano, byly provedeny.“  
+        → Reakce: „Prosím o doložení zápisů a výsledků sond.“  
+        → Pokud chybí nebo je nedostatečné: přejít k bodu 3.
+     b) „Ne, provedeny nebyly.“  
+        → Reakce: „Tento stav potvrzuje porušení vašich povinností dle Čl. VIII a IX smlouvy o dílo.“
+
+bod 3.) Shrnutí problémů
+   - Vyjmenuj faktické nedostatky:
+     - žádné sondy,
+     - projekt neodpovídá realitě,
+     - statika neověřena,
+     - navýšení ceny +40 % bez souhlasu.
+   - Zdůrazni porušení smlouvy:
+     - Čl. VIII – povinnost zhotovitele provádět dílo dle schválených postupů,
+     - Čl. IX – změny díla jen písemným dodatkem s dohodou obou stran.
+
+bod 4.) Ukončení smlouvy
+   - Jasně oznámit: „Na základě výše uvedeného ukončuji smlouvu o dílo.“
+   - Předat písemnou dohodu o ukončení smlouvy nebo oznámení.
+   - Zdůraznit:
+     - nárok na vrácení záloh s odečtením skutečně provedené práce,
+     - náhradu škod a investic (projekt, stavební povolení, dotace),
+     - možnost uplatnění nároků vůči pojišťovně a ČKAIT, pokud nebude dohoda.
+
+bod 5.) Diskuse o vrácení peněz a uznaných položkách
+   - Stanovit dohodu o:
+     - uznaných pracích,
+     - částce k vrácení,
+     - termínu vyrovnání.
+   - Možné argumenty firmy:
+     a) „Zálohy byly použity na projekt, koordinaci, povolení…“  
+        → Reakce: „Požaduji konkrétní rozpis provedených prací a výdajů, ne obecné položky.“
+     b) „Demolice byla provedena správně a musí být zaplacena.“  
+        → Reakce: „Demolici uznávám, ale cena a rozsah by byly jiné při správném projektu.“
+
+bod 6.) Uzavření schůzky
+   - Shrnutí dohody nebo zaznamenání, že firma si stanoví interní stanovisko.
+   - Zdůraznit, že máš **dokumentaci a záznamy** pro případné další kroky (pojišťovna, ČKAIT).
+   - Doporučení: schůzku zakončit krátkým zápisem do stavebního deníku s podpisy obou stran.  (viz ### DO DENÍKU)
+
+💡 Tipy:
+- Začni vždy **fakty** (deník, sondy, projekt), ne emocemi.  
+- Každý bod porušení smlouvy dokládej **konkrétně** – článek smlouvy, datum, záznam.  
+- Reakce na argumenty firmy drž stručné, faktické a pevné.  
+- Nepodléhej „diskuzi o zmenovém listu“ – cílem je **ukončení smlouvy**, ne projednávání dalšího projektu.
+ 
+ ---------------------------------------------------
+ 🔑 UNIVERZÁLNÍ „RESET“ VĚTEV (když se ztratíš)
+ |
+ +--> Chaos / tlak / odbočení
+       |
+       +--> Reakce:
+             "Vraťme se k tomu hlavnímu"
+       |
+       +--> "Nebyla provedena sondáž"
+       |
+       +--> "Projekt vychází z neověřeného stavu"
+       |
+       +--> "Proto řešíme chybný návrh, ne vícepráce"
+ ---------------------------------------------------
+ +--> HLAVNÍ SDĚLENÍ
+ |     |
+ |     +--> TY: "Ukončuji smlouvu o dílo"
+ |     |        Důvod: chybný základ → neprovedené sondy, nereálný projekt
+ |     |        Požaduji: vrácení záloh + náhradu škod
+ |     |
+ |     +--> ONI: "To je standardní situace u rekonstrukcí"
+ |           |
+ |           +--> TY: "Standardní je provést sondy před návrhem řešení, ne až během bourání. Jinak nelze bezpečně odhadnout nosnost zdiva a nelze správně navrhnout rekonstrukci."
+ |                 Porušeno: Čl. VIII – dodržovat schválené postupy, kontrola skutečného stavu
+ |
+ +--> SONDY A PROJEKT   (viz take ### SONDY A KONKRETNI CITACE )
+ |     |
+ |     +--> TY: "Kdyby byly provedeny sondy na začátku, tyto náklady a rizika by vůbec nevznikly."
+ |     |
+ |     +--> ONI: "Sondy nebylo možné provést dříve / sondy se dělají až během bourání"
+ |           |
+ |           TY: "Ovlivňují sondy zásadně návrh?"
+             |
+			 +--ONI:- ANO
+				 |     |
+				 |     +--> Reakce:
+				 |           "Pak neměl vzniknout finální projekt."
+				 |
+				 |-- NE
+					   |
+					   +--> Reakce:
+							 "Pak ale nemohly změnit celé řešení."
+							 TY: "Pak neměl být zpracován finální návrh rekonstrukce, protože návrh musí vycházet z ověřeného stavu konstrukce. Nemůžete schválit projekt, který se ukáže jako nerealizovatelný."
+	 |                 		Porušeno: Čl. IX – změny díla bez souhlasu, nesprávný návrh
+  |
+ +--> Oni: "Jsou to vícepráce"
+       |
+       +--> Otázka: "Je původní návrh realizovatelný?"
+             |
+             |-- ANO
+             |     |
+             |     +--> Otázka: "Bez zásadních změn?"
+             |           |
+             |           |-- ANO
+             |           |     +--> => VÍCEPRÁCE
+             |           |
+             |           |-- NE
+             |                 +--> => SPORNÉ
+             |
+             |-- NE
+                   |
+                   +--> => VADNÝ NÁVRH
+                         Reakce:
+                         "Pak nejde o vícepráce, ale chybný návrh."
+						 
+ +--> CHYBNÝ NÁVRH A CENA
+ |     |
+ |     +--> TY: "Projekt neodpovídá realitě, statika špatně, cena navýšena o +40 %."
+ |     |
+ |     +--> ONI: "To je změna rozsahu prací"
+ |           |
+ |           +--> TY: "Nejde o změnu rozsahu, jde o chybný návrh vycházející z neověřeného stavu zdiva. Nesouhlasím s tím, že by se zvýšení ceny odůvodnilo 'víceprácemi'."
+ |                 Porušeno: Čl. VIII a IX – zhotovitel nesmí provádět dílo mimo projekt a bez souhlasu objednatele
+ |
+ |     +--> ONI: "Změny jsou běžné a řeší se dodatkem"
+ |           |
+ |           +--> TY: "Ano, změny se řeší dodatkem, ale ne v rozsahu, který znamená úplně jiné technické řešení a navýšení ceny o 40 %. To je zásadní porušení smlouvy."
+ |
+ +--> ZÁLOHY
+ |     |
+ |     +--> TY: "Požaduji vrácení všech záloh, s přihlédnutím k hodnotě skutečně realizované práce."
+ |     |
+ |     +--> ONI: "Zálohy byly použity na projekt, řízení, koordinaci…"
+ |           |
+ |           +--> TY: "Rozumím, ale potřebuji podrobný rozpis, kolik bylo skutečně odvedeno práce a za co byla záloha použita. Nelze akceptovat obecné vyúčtování."
+ |                 Porušeno: Čl. V a VI – transparentní vyúčtování a zálohy, souhlas objednatele
+ |
+ +--> ZMAŘENÉ NÁKLADY
+ |     |
+ |     +--> PROJEKT
+ |     |     |
+ |     |     +--> ONI: "Projekt byl zpracován správně podle dostupných informací / Projekt byl v pořádku"
+			 |
+			 +--> TY: "Byl založen na ověřeném stavu?"
+					 |
+					 |-- ANO
+					 |     |
+					 |     +--> "Doložte sondy"
+					 |
+					 |-- NE
+						   |
+						   +--> => VADNÝ NÁVRH
+								 Reakce:
+								 "Projekt bez ověření skutečného stavu není správný, protože neprovedené sondy nezaručily reálný stav konstrukce. Takto vzniklé náklady jsou marné."
+								 Porušeno: Čl. VIII – dodržovat postupy a zajišťovat kvalitu
+ 
+ |     |
+ |     +--> STATIKA
+ |     |     |
+ |     |     +--> ONI: "Statik vycházel z podkladů"
+				   |
+				   +--> TY: "Byly konstrukce ověřeny?"
+						 |
+						 |-- ANO
+						 |     |
+						 |     +--> "Doložte způsob ověření (protokol o provedeni sond nebo aspon zapis v deniku)"
+						 |
+						 |-- NE
+							   |
+							   +--> Reakce:
+									 "Posudek je založen na neověřených předpokladech."
+									 "Statik má povinnost ověřit nosné konstrukce fyzicky nebo přiměřeně zjišťovacími sondami, nesmí jen přebírat předpoklady. Jinak se projekt stává nerealizovatelným."
+ |     |			                 Porušeno: Čl. VIII – dodržování předpisů a BOZP (bezpečnost a ochrana zdraví při práci)
+
+ |     |
+ |     +--> POVOLENÍ
+ |     |     |
+ |     |     +--> ONI: "Povolení je vaše rozhodnutí"
+ |     |           |
+ |     |           +--> TY: "Ano, formálně jsem žádost podal, ale 
+ |     |                vy jste připravili projekt a zajišťovali komunikaci
+ |     |                se stavebním úřadem za poplatek. Projekt se ukázal
+ |     |                jako nerealizovatelný, takže vznikly zmařené náklady,
+ |     |                na které si vyhrazuji nárok."
+ |     |
+ |     +--> DOTACE
+ |     |     |
+ |     |     +--> ONI: "Dotace nesouvisí se stavbou"
+ |     |           |
+ |     |           +--> TY: "Dotace byly řešeny pouze kvůli navržené
+ |     |                rekonstrukci, která se ukázala jako nereálná.
+ |     |                Vzniklé náklady jsou tedy škoda způsobená vaším
+ |     |                nesprávným projektem, na kterou si vyhrazuji nárok."
+ |                 		Porušeno: Čl. VIII a IX – škody vzniklé nesprávným návrhem
+ |
+ +--> DEMOLICE
+ |     |
+ |     +--> ONI: "Demolice byla provedena správně a musí být zaplacena"
+ |           |
+ |           +--> TY: "Demolici uznávám, ale její rozsah a cena by byly jiné při správném návrhu od začátku. Částky za zbytečné rozšíření a vícepráce nelze akceptovat."
+ |                 Porušeno: Čl. VIII – provádění díla podle schváleného postupu
+ |           |
+ |           +--> PROTIARGUMENT: "Byla to nutná práce, stavba byla nebezpečná"
+ |                 |
+ |                 +--> REAKCE: "Ano, souhlasím s nutností demolice, ale cena a rozsah musí odpovídat skutečně nezbytnému zásahu, ne podle chybného projektu navýšeného o 40 %."
+ |
+ +--> DOHODA O UKONČENÍ
+ |     |
+ |     +--> TY: "Dohodneme se na uznaných provedených pracích, částce k vrácení a datu vrácení peněz."
+ |     |
+ |     +--> ONI: "To musíme posoudit interně"
+ |           |
+ |           +--> TY: "Rozumím, ale potřebuji konkrétní návrh a termín, jinak budu nucen uplatnit nároky právní cestou, přes pojišťovnu a profesní komoru."
+					|
+					+--> Oni: "Ozveme se"
+								 |
+								 +--> Reakce:   # NEZAPOMENOUT -> trvat na DATU !!! max tyden!!!
+									   "Prosím o konkrétní datum"
+ |
+ +--> TLAK / MOŽNÉ NÁSLEDKY
+       |
+       +--> ONI: "Tohle je sporné, můžeme to řešit právně"
+       |
+       +--> TY: "Rád to vyřeším dohodou, ale jsem připraven uplatnit nároky vůči vaší pojišťovně a podat podnět na ČKAIT, pokud nebude dohoda jasná a konkrétní."
+	          |
+        	   |
+        	   +--> Oni: "Nemáte nárok"
+        			 |
+        			 +--> Reakce:
+        				   "To je otázka odborného posouzení"
+
+
+
+
+“
+
+🚫 MANIPULACE, NA KTEROU SI DÁT POZOR
+------------------------------------
+❌ „Podepište změnový list a vyřešíme to“
+👉 Reakce:
+„Změnový list nepodepíšu, protože nesouhlasím se změnou řešení.“
+
+❌ „Bez toho nemůžeme pokračovat“
+👉 Reakce:
+„Já ale o pokračování za těchto podmínek nemám zájem.“
+
+❌ „Tohle je vaše rozhodnutí“
+👉 Reakce:
+„Moje rozhodnutí vycházelo z vašich odborných podkladů.“
+
+🧠 STRATEGIE (velmi důležité)
+👉 Když se začne diskuze rozpadat:
+------------------
+Vždy se vrať k tomuhle:
+nebyly sondy
+projekt je nereálný
+náklady by nevznikly
+To je tvoje „kotva“.
+
+🔑 SILNÉ VĚTY (používej)
+------------------
+„Tohle není vícepráce, ale důsledek chybného návrhu.“
+„Projekt vznikl bez ověření reality.“
+„Neřeším cenu navíc, řeším chybný základ.“
+„Chci férové vypořádání, ne eskalaci.“
+
+🧩 BONUS – co si hlídej
+------------------
+ticho = tvoje výhoda (nech je mluvit)
+nenech se zatlačit do rychlého souhlasu
+klidně si dělej poznámky před nimi
