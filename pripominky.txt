@@ -54,6 +54,7 @@ když vše selže:
 			### DO DENÍKU NA ZAČÁTKU JEDNANI
 			### DO DENÍKU NA KONCI JEDNANI
 			### SONDY A KONKRETNI CITACE 
+			### NA KONCI SCHUZKY ZMINIT - VETA NA ZAVER
 	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
 	### CITACE SONDY   (x - odkazu)
 	### DOPSAT DO STAVEBNIHO DENIKU
@@ -2245,58 +2246,58 @@ V důsledku toho došlo k chybnému rozhodnutí o rekonstrukci a k nevratné dem
 
 pochybení č.1 - Neproveden stavebně technický průzkum
 ================================================================================
-citace: „Stavebně technický průzkum nebyl proveden, pevnost zdiva tedy nebyla exaktně stanovena.“
+citace (str 3): „Stavebně technický průzkum nebyl proveden, pevnost zdiva tedy nebyla exaktně stanovena.“
 příčina: Projekt byl zpracován na základě předpokladů bez ověření skutečného stavu konstrukcí.
 důsledek: Nesprávné vyhodnocení únosnosti konstrukcí, návrh rekonstrukce byl nerealizovatelný.
 
 pochybení č.2 - Neprovedení sond zdiva
 ================================================================================
-citace: „V rámci realizace zajistí zhotovitel stavby sondy a po odkrytí omítky na obvodových a středních nosných stěnách bude dle ČSN 73 0038 pevnost odborně odhadnuta osobou odborně způsobilou.“
+citace (str 3): „V rámci realizace zajistí zhotovitel stavby sondy a po odkrytí omítky na obvodových a středních nosných stěnách bude dle ČSN 73 0038 pevnost odborně odhadnuta osobou odborně způsobilou.“
 příčina: Zhotovitel neprovedl předepsané sondy ani neověřil pevnost zdiva odborně způsobilou osobou.
 důsledek: Skutečný stav nosných stěn nebyl znám, což vedlo k mylnému předpokladu jejich zachovatelnosti.
 
 pochybení č.3 - Neověření základových konstrukcí sondami
 ================================================================================
-citace: „Takový je předpoklad. Ten musí být ověřen sondou během stavebních prací.“
-citace: „Betonáže budou provedeny na základě podrobné sondy k základové konstrukci.“
+citace (str 3): „Takový je předpoklad. Ten musí být ověřen sondou během stavebních prací.“
+citace (str 12): „Betonáže budou provedeny na základě podrobné sondy k základové konstrukci.“
 příčina: Nebyly provedeny sondy základů a nebyl ověřen jejich skutečný stav.
 důsledek: Základová konstrukce byla považována za vyhovující, přestože ve skutečnosti nevyhovovala, což znemožnilo realizaci návrhu.
 
 pochybení č.4 - Nezajištění geologického posouzení
 ================================================================================
-citace: „Pevnost zeminy a hloubku základové spáry ověří přivolaný geolog během výkopů a tuto skutečnost zapíše do stavebního deníku.“
+citace (str 12): „Pevnost zeminy a hloubku základové spáry ověří přivolaný geolog během výkopů a tuto skutečnost zapíše do stavebního deníku.“
 příčina: Nebyl přizván geolog a nebylo provedeno ověření základových poměrů.
 důsledek: Nebyla ověřena únosnost podloží, což mohlo zásadně ovlivnit návrh založení stavby.
 
 pochybení č.5 - Zahájení prací bez povinné kontroly konstrukce
 ================================================================================
-citace: „Bez této kontroly nelze započít se stavebními pracemi.“
+citace (str 11): „Bez této kontroly nelze započít se stavebními pracemi.“
 příčina: Byly zahájeny bourací práce bez provedení předepsané kontroly stropní konstrukce nad 1.PP.
 důsledek: Práce probíhaly bez znalosti skutečného stavu konstrukce, což vedlo k dodatečnému zjištění její nevyhovující kvality až v průběhu demolice.
 
 pochybení č.6 - Neprovedení průzkumu před bouracími pracemi
 ================================================================================
-citace: „Zhotovitel stavby zajistí zpracování technologického postupu na základě provedeného průzkumu stávajícího stavu bourané stavby.“
-citace: „O provedeném průzkumu vyhotoví zhotovitel stavby zápis.“
+citace (str 13): „zajistí zhotovitel stavby zpracování technologického postupu na základě provedeného průzkumu stávajícího stavu bourané stavby.“
+citace (Str 13): „O provedeném průzkumu vyhotoví zhotovitel stavby zápis.“
 příčina: Nebyl proveden průzkum stávajícího stavu objektu před zahájením bourání a nebyl o něm proveden žádný zápis.
 důsledek: Bourací práce byly zahájeny bez znalosti skutečného stavu konstrukcí, což vedlo k nekontrolovanému odhalení zásadních vad až během demolice.
 
 pochybení č.7 - Nepřizpůsobení postupu po zjištění skutečného stavu
 ================================================================================
-citace: „Jsou-li v průběhu bouracích prací zjištěny skutečnosti, které nebyly průzkumem odhaleny, zajistí zhotovitel bez zbytečného odkladu přizpůsobení technologického postupu těmto skutečnostem.“
+citace (str 13): „Jsou-li v průběhu bouracích prací zjištěny skutečnosti, které nebyly průzkumem odhaleny, zajistí zhotovitel bez zbytečného odkladu přizpůsobení technologického postupu těmto skutečnostem.“
 příčina: Po zjištění nevyhovujícího stavu konstrukcí nebyl adekvátně upraven postup prací.
 důsledek: Místo přehodnocení projektu a zastavení prací došlo k pokračování demolice až do úplného odstranění objektu.
 
 pochybení č.8 - Projekt založený na neověřených předpokladech
 ================================================================================
-citace: „Předpokládá se, že se v rámci rozsahu stávajících svislých stěn nevyskytují trhliny ani jiné dislokace a dutiny.“
-citace: „Lze však předpokládat na základě stavu a stáří budovy, že zdivo svislých nosných konstrukcí není degradováno.“
-příčina: Projektant vycházel z nepodložených předpokladů bez provedení průzkumu.
+citace (str 3): „Předpokládá se, že se v rámci rozsahu stávajících svislých stěn nevyskytují trhliny ani jiné dislokace a dutiny.“
+citace (str 3): „Lze však předpokládat na základě stavu a stáří budovy, že zdivo svislých nosných konstrukcí není degradováno.“
+příčina: Projektant vycházel z nepodložených předpokladů bez provedení průzkumu. (opravdu lze predpokladat u 100 let stare stavby, ze zdivo nosynch konstrukci neni degradovano?) 
 důsledek: Návrh rekonstrukce byl založen na chybných vstupních údajích a nebyl realizovatelný.
 
 pochybení č.9 - Neověření konstrukce stropu nad 1.PP
 ================================================================================
-citace: „Nosná konstrukce nad prostorem 1.PP je provedena jako železobetonová konstrukce, takový je předpoklad, který musí být ověřen sondou.“
+citace (str 3): „Nosná konstrukce nad prostorem 1.PP je provedena jako železobetonová konstrukce, takový je předpoklad, který musí být ověřen sondou.“
 příčina: Nebyla provedena sonda ke zjištění skutečného typu a stavu stropní konstrukce.
 důsledek: Skutečný stav stropu byl zjištěn až při bourání, což vedlo k nutnosti změny rozsahu prací.
 
@@ -2670,8 +2671,8 @@ Současně navrhuji dohodu o konkrétním datu vrácení záloh a uznání hodno
 
 
 
-### NA KONCI SCHUZKY ZMINIT
-„Na základě dnešního jednání vám zašlu oficiální oznámení o ukončení smlouvy o dílo.
+### NA KONCI SCHUZKY ZMINIT - VETA NA ZAVER
+„Na základě dnešního jednání vám zašlu oficiální oznámení o ukončení smluv o dílo.
 V tom e-mailu bude uvedeno číslo smlouvy, přehled uhrazených záloh, vyčíslení uznaných prací a částka k vrácení včetně termínu splatnosti.
 Předpokládám, že se na těchto podkladech shodneme a uzavřeme to dohodou.“
 
