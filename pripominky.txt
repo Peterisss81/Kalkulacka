@@ -51,7 +51,8 @@ když vše selže:
 		### MY TO TAK DELAME A ZATIM SI NIKDO ZA TECH 30 LET NESTEZOVAL
 		### VYJEDNAVANI O ODSTOUPENI 
 			### TAHÁK PRO VYJEDNÁVÁNÍ
-			### DO DENÍKU
+			### DO DENÍKU NA ZAČÁTKU JEDNANI
+			### DO DENÍKU NA KONCI JEDNANI
 			### SONDY A KONKRETNI CITACE 
 	### ODPOVĚDNOST PROJEKTANTA A STŘET ZÁJMŮ - STATICKY POSUDEK - NEREALIZOVATELNY PROJEKT
 	### CITACE SONDY   (x - odkazu)
@@ -2339,12 +2340,6 @@ komplexni verze: (nejlepsi)
 Na základě zjištěného stavu zdiva, neprovedených sond a nedodržení postupů předepsaných projektovou dokumentací, což představuje zároveň porušení povinnosti zhotovitele provádět dílo podle projektové dokumentace a schválených postupů dle Čl. VIII a IX smlouvy o dílo, ukončuji smlouvu o dílo. Vyhrazuji si nárok na vrácení všech zaplacených záloh, s přihlédnutím k hodnotě skutečně realizované práce, a náhradu všech škod, včetně investic do projektu, stavebního povolení a souvisejících nákladů. V případě nevyřešení situace budu nucen uplatnit nároky vůči vaší pojišťovně a případně podat podnět na ČKAIT. Dohodu o ukončení smlouvy vám zašlu emailem.“
 Současně navrhuji, abychom se dohodli na konkrétním datu vrácení záloh a uznání hodnoty provedených prací. Dohodu o ukončení smlouvy vám zašlu emailem.“
 
-### DO DENÍKU
-Zápis do stavebního deníku:
-Na základě zjištěného stavu zdiva, neprovedených sond a nedodržení postupů předepsaných projektovou dokumentací, což představuje zároveň porušení povinnosti zhotovitele provádět dílo podle projektové dokumentace a schválených postupů dle Čl. VIII a IX smlouvy o dílo, ukončuji smlouvy o dílo.
-Vyhrazuji si nárok na vrácení všech zaplacených záloh, s přihlédnutím k hodnotě skutečně realizované práce, a náhradu všech škod, včetně investic do projektu, stavebního povolení a souvisejících nákladů.
-Současně navrhuji dohodu o konkrétním datu vrácení záloh a uznání hodnoty provedených prací. V případě nevyřešení situace budu nucen uplatnit nároky vůči pojišťovně zhotovitele a případně podat podnět na ČKAIT.
-
 
 
 ⚖️ PROČ TO NENÍ „MLHAVÉ“ (tohle je tvoje obrana)
@@ -2649,6 +2644,36 @@ Použij kdykoliv:
 
 
 
+### DO DENÍKU NA ZAČÁTKU JEDNANI
+Na základě předchozího zápisu ze dne [datum] objednatel konstatuje,
+že k dnešnímu dni nebyly doloženy informace o provedení sond
+k ověření skutečného stavu konstrukcí dle projektové dokumentace.
+
+Zhotovitel k tomu uvádí: __________________________
+
+Dále nebyly doloženy podklady, které by prokazovaly,
+že projektová dokumentace odpovídala skutečnému stavu stavby.
+
+Tato skutečnost bude předmětem dalšího jednání.
+
+ONI: Budou se snažit to nepodepsat
+TY: „Je to jen konstatování aktuálního stavu, nic víc. Klidně tam doplňte své vyjádření.“
+TY: „Pokud s tím nesouhlasíte, napište tam svoje stanovisko — od toho tam ten prostor je.“
+
+-> Cíl: "„Ale vždyť jsme si teď na začátku potvrdili, že sondy nebyly doloženy a projekt nebyl ověřený podle skutečného stavu.“
+
+### DO DENÍKU NA KONCI JEDNANI
+Zápis do stavebního deníku:
+Na základě zjištěného stavu zdiva, neprovedených sond a nedodržení postupů předepsaných projektovou dokumentací, což představuje zároveň porušení povinnosti zhotovitele provádět dílo podle projektové dokumentace a schválených postupů dle Čl. VIII a IX smlouvy o dílo, ukončuji smlouvy o dílo.
+Vyhrazuji si nárok na vrácení všech zaplacených záloh, s přihlédnutím k hodnotě skutečně realizované práce, a náhradu všech škod, včetně investic do projektu, stavebního povolení a souvisejících nákladů.
+Současně navrhuji dohodu o konkrétním datu vrácení záloh a uznání hodnoty provedených prací. V případě nevyřešení situace budu nucen uplatnit nároky vůči pojišťovně zhotovitele a případně podat podnět na ČKAIT.
+
+
+
+### NA KONCI SCHUZKY ZMINIT
+„Na základě dnešního jednání vám zašlu oficiální oznámení o ukončení smlouvy o dílo.
+V tom e-mailu bude uvedeno číslo smlouvy, přehled uhrazených záloh, vyčíslení uznaných prací a částka k vrácení včetně termínu splatnosti.
+Předpokládám, že se na těchto podkladech shodneme a uzavřeme to dohodou.“
 
 
 ### TAHÁK PRO VYJEDNÁVÁNÍ 	   
@@ -2665,9 +2690,12 @@ bod 2.) Kontrola stavebního deníku
    - Možné odpovědi firmy:
      a) „Ano, byly provedeny.“  
         → Reakce: „Prosím o doložení zápisů a výsledků sond.“  
-        → Pokud chybí nebo je nedostatečné: přejít k bodu 3.
+        → Pokud chybí nebo je nedostatečné: rovnou napis ### DO DENÍKU NA ZAČÁTKU JEDNANI a přejít k bodu 3.
      b) „Ne, provedeny nebyly.“  
         → Reakce: „Tento stav potvrzuje porušení vašich povinností dle Čl. VIII a IX smlouvy o dílo.“
+		-> a  rovnou napis ### DO DENÍKU NA ZAČÁTKU JEDNANI a přejít k bodu 3.
+	 c) Nic do deniku nedoplnili
+	    -> Reakce: rovnou napis ### DO DENÍKU NA ZAČÁTKU JEDNANI
 
 bod 3.) Shrnutí problémů
    - Vyjmenuj faktické nedostatky:
@@ -2691,7 +2719,7 @@ bod 5.) Diskuse o vrácení peněz a uznaných položkách
    - Stanovit dohodu o:
      - uznaných pracích,
      - částce k vrácení,
-     - termínu vyrovnání.
+     - termínu vyrovnání. # NEZAPOMENOUT
    - Možné argumenty firmy:
      a) „Zálohy byly použity na projekt, koordinaci, povolení…“  
         → Reakce: „Požaduji konkrétní rozpis provedených prací a výdajů, ne obecné položky.“
@@ -2701,7 +2729,7 @@ bod 5.) Diskuse o vrácení peněz a uznaných položkách
 bod 6.) Uzavření schůzky
    - Shrnutí dohody nebo zaznamenání, že firma si stanoví interní stanovisko.
    - Zdůraznit, že máš **dokumentaci a záznamy** pro případné další kroky (pojišťovna, ČKAIT).
-   - Doporučení: schůzku zakončit krátkým zápisem do stavebního deníku s podpisy obou stran.  (viz ### DO DENÍKU)
+   - Doporučení: schůzku zakončit krátkým zápisem do stavebního deníku s podpisy obou stran.  (viz ### DO DENÍKU NA KONCI JEDNANI a rovnou prejit k ### NA KONCI SCHUZKY ZMINIT)
 
 💡 Tipy:
 - Začni vždy **fakty** (deník, sondy, projekt), ne emocemi.  
