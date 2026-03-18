@@ -2687,6 +2687,43 @@ až pak:
 👉 mnohem silnější dopad 
 
 
+✅ CHECKLIST – UKONČENÍ SPOLUPRÁCE S FIRMOU
+
+1️⃣ STAV SOND  
+[ ] Zkontrolovat zápisy ve stavebním deníku ohledně sond.  
+[ ] Poznamenat chybějící vyjádření / nedostatečné informace.  
+[ ] Použít jako startovní bod pro ukončení smlouvy.  
+
+2️⃣ NOVÝ ZMENOVÝ LIST  
+[ ] Připomenout, že nový zmenový list není podepsán.  
+[ ] Jasně zdůraznit, že **nepodepisuješ souhlas s navýšením ceny ani změnou projektu**.  
+
+3️⃣ HLAVNÍ SDĚLENÍ  
+[ ] Říct: "Ukončuji smlouvu o dílo z důvodu chybného základu, neprovedených sond a nedodržení postupů z projektové dokumentace."  
+[ ] Vyzdvihnout porušení povinností dle Čl. VIII a IX smlouvy.  
+
+4️⃣ ZÁLOHY A NÁKLADY  
+[ ] Předložit seznam 16 přesně spočítaných položek.  
+[ ] U bourání: navrhnout slevu podle skutečně odvezené suti (tonážní listy).  
+[ ] Materiál ze záloh: připravit vysvětlení a nechat vyjednat konkrétní částku.  
+[ ] Dohodnout datum vrácení peněz a případnou smluvní pokutu za prodlení.  
+
+5️⃣ PROJEDNÁNÍ POJIŠŤOVNY / ČKAIT  
+[ ] Nadhodit, že pokud se nedohodnete, budeš **uplatňovat nároky přes pojišťovnu a profesní komoru**.  
+
+6️⃣ POVOLENÍ A DOTACE  
+[ ] Připomenout, že jsi firmu platil i za vyřízení stavebního povolení a že **chybný projekt způsobil škody**.  
+[ ] Dotace: zdůraznit, že byly navázány na nereálný projekt.  
+
+7️⃣ DEMOLICE  
+[ ] Připomenout, že demolice uznáváš, ale **její cena a rozsah by byly jiné při správném projektu**.  
+
+8️⃣ ZÁVĚR / DOHODA  
+[ ] Ujistit, že cílem je **dohoda o uznaných položkách, částce a termínu vrácení peněz**.  
+[ ] Pokud odmítnou, klidně říct:  
+    "Právní cestu samozřejmě využiji, ale stále preferuji dohodu, která ušetří čas a náklady oběma stranám."  
+
+
 START – JEDNÁNÍ
 🎯 Zítřejší schůzka – krok za krokem
 
@@ -3112,3 +3149,25 @@ ty máš kontrolu nad směrem jednání
 🔑 Úplně nejdůležitější věta na zítra
 Když by sis měl zapamatovat jen jednu:
 „Kdyby byly provedeny sondy na začátku, tyto náklady by vůbec nevznikly.“
+
+
+
+Super, tady je návrh krátkého skriptu / frází, které můžeš použít během jednání, aby ses udržel na hlavním tématu a nenechal se odbíhat jejich historkami nebo recenzemi:
+1️⃣ Když začne s “historkou o zákaznících” nebo referencemi:
+„Rozumím, děkuji za příklad, ale teď bych se rád vrátil k naší konkrétní smlouvě a aktuálním bodům.“
+„To je zajímavé, ale pojďme nejprve projednat ukončení smlouvy a vrácení záloh.“
+2️⃣ Když začne odbíhat k “jinému řešení nebo novému rozpočtu”:
+„Nový rozpočet není předmětem dnešního jednání. Dnes řešíme ukončení spolupráce a finanční vyrovnání.“
+„Chápu, že jste pracovali na novém návrhu, ale moje rozhodnutí ukončit smlouvu je nezávislé na těchto přípravách.“
+3️⃣ Když se snaží obrátit diskuzi k jejich zkušenostem a úspěchům:
+„Vážím si vašeho portfolia a spokojených zákazníků, ale teď řešíme konkrétní případ a konkrétní smlouvu.“
+„Reference a úspěšné projekty mě v tomto případě neposunou k řešení aktuální situace.“
+4️⃣ Když začne zpochybňovat tvůj nárok na vrácení záloh nebo škod:
+„Ve stavebním deníku je jasně uvedeno, že sondy nebyly provedeny a projekt neodpovídal skutečnému stavu. To potvrzuje, proč nárok existuje.“
+„Podle smlouvy a Čl. VIII a IX jste měli postupovat podle projektové dokumentace, což se nestalo. Proto vyžaduji vyrovnání.“
+5️⃣ Pokud začne “právní tlak” nebo hrozby:
+„Rád bych situaci vyřešil dohodou, ale jsem připraven uplatnit nároky přes pojišťovnu a případně ČKAIT.“
+„Nechci, aby jednání sklouzlo k právním sporům. Chci se soustředit na konkrétní částky a termíny vrácení.“
+6️⃣ Když chceš jasně ukončit jednání s dohodou:
+„Dohodu o ukončení smlouvy vám po jednání zašlu emailem spolu s číslem smlouvy, přehledem záloh a částkou k vrácení, včetně termínu splatnosti.“
+„Prosím, dnes se můžeme domluvit jen na uznaných provedených pracích a termínu vrácení. Ostatní body vyřešíme písemně.“
