@@ -3171,3 +3171,59 @@ Super, tady je návrh krátkého skriptu / frází, které můžeš použít bě
 6️⃣ Když chceš jasně ukončit jednání s dohodou:
 „Dohodu o ukončení smlouvy vám po jednání zašlu emailem spolu s číslem smlouvy, přehledem záloh a částkou k vrácení, včetně termínu splatnosti.“
 „Prosím, dnes se můžeme domluvit jen na uznaných provedených pracích a termínu vrácení. Ostatní body vyřešíme písemně.“
+
+
+
+Připomínky:
+------------
+Statický posudek byl proveden na základě vizuální kontroly.
+- email od pravnika:
+"Ostatně přípravu díla zajišťovaly odborně způsobilé a zejména
+velmi zkušené osoby, jako Ing. Martin Wünsche, zpracovatel statického posudku, nebo Ing. arch.
+Stanislav Wilczek, zpracovatel projektové dokumentace, kteří také nezaznamenali žádné známky
+následně zjištěného havarijního stavu."
+
+- reakce:
+Ing. Martin Wünsche nidky na pozemku v mé přítomnosti nebyl. PD se statickým posudkem byla odevzdaná na stavební urad v prosinci 2024.
+Klice k nemovitosti jsem predal 24.11.2025. 
+Ing. Martin Wünsche tak tedy nemohl provest vizualní kontrolu zevnitr pro ucel posouzeni realizace projektu, leda by se do objektu vloupal.
+Staticky posudek je tak v nasich ocich "nástřelem od stolu".
+Pan Wilczek neni statik.
+
+- staticky posudek uvadi:
+Posouzení stropní konstrukce nad 1S 
+Před započetím se stavebními pracemi bude nutné provést sondu ke stropní konstrukci. Bez této kontroly nelze 
+započít se stavebními pracemi. Na části konstrukce je provedena konstrukce stropu s ocelovými nosníky neznámé dimenze a 
+Hurdis deskami.
+
+- reakce:zadny zaznam o provedene sonde ke stropni konstrukci neni firmou dolozen.
+
+
+
+
+- email od pravnika:
+Po dokončení bouracích prací proběhl další kontrolní den dne 15. 1. 2026, kde byl projednán následující
+postup ohledně základů domu a sklepních prostor. Oproti původnímu zadání jste místo zpevnění
+stávajících základů domu preferovali (na doporučení Vašeho otce, pana Muroně staršího, který zde
+vystupoval jako Váš konzultant) provedení nových základů, nové sklepní stěny a nové stropní
+konstrukce 1. podzemního podlaží.
+
+- reakce 
+toto nové řešení bylo preferované i ze strany zhotovitele
+
+
+- email od pravnika:
+Naopak jste mého klienta nechali po dobu třech měsíců v tom, že v realizaci díla bude
+pokračovat po přezkoumání zaslaných změnových listů, tedy po dobu třech měsíců můj klient vázal své
+kapacity, které tak nemohl využít pro nasmlouvání jiných zakázek.
+
+Má-li ze strany mého klienta dojít k akceptaci dohody, kterou by došlo k ukončení všech vzájemných
+smluvních vztahů, musí taková dohoda odrážet také náklady, resp. ušlý zisk spojené s popsanou
+skutečností. V současnosti můj klient tyto vyčísluje, současně také nechává zpracovat pasport stavby
+zachycující skutečný stav prostavěnosti, jenž bude podkladem vzájemného vypořádání. Tyto
+dokumenty zpracuje do 14 dnů. Poté Vám klient tyto podklady předloží se svým návrhem dohody o
+ukončení smluv o dílo obsahující také vzájemné vypořádání obou stran.
+
+- reakce
+viz casova osa, kdo tedy cekal na koho ? 
+do 22.1.2026 zhotovitel pracoval bez omezeni
