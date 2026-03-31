@@ -3176,6 +3176,9 @@ Super, tady je návrh krátkého skriptu / frází, které můžeš použít bě
 
 Připomínky:
 ------------
+--------------------
+Staticky posudek:
+--------------------
 Statický posudek byl proveden na základě vizuální kontroly.
 - email od pravnika:
 "Ostatně přípravu díla zajišťovaly odborně způsobilé a zejména
@@ -3198,7 +3201,20 @@ Hurdis deskami.
 
 - reakce:zadny zaznam o provedene sonde ke stropni konstrukci neni firmou dolozen.
 
+- D.1.1.1_TECHNICKA_ZPRAVA_MURON.pdf uvadi
+VŠEOBECNÉ ZÁSADY PROVÁDĚNÍ BOURACÍCH A PODCHYCOVACÍCH PRACÍ  
+Vzhledem k charakteru a rozsahu prováděných úprav doporučujeme provádět bourací a 
+podchycovací práce v tomto pořadí. Nejprve provézt vyztužení nosných stěn v 1.S objektu. Poté 
+zašít s vyklizením a demolováním nenosných příček v objektu. Následně provézt bourání střešní 
+konstrukce, nosné konstrukce 2.NP a následně stropní konstrukce nad 1.NP. Na základě zjištění 
+rozsahu bourání bude rozhodnuto o nových výškových kótách, možnosti překladů apod. Dům je 
+celkově zateplen malou vrstvou tepelné izolace EPS – před započetím prací doporučujeme provézt 
+stržení tohoto zateplení k vizuálnímu zjištění případných trhlin v obvodové konstrukci, které 
+bychom mohli opravit. 
 
+- reakce 
+zhotovitel neprovedl vyztuzeni nosnych sten v 1.S objektu. Namisto toho rovnou zacal s demolici od strechy.
+doslo tak k poruseni predepsaneho posupu, ktery si zhotvitel sam stanovil ?
 
 
 - email od pravnika:
@@ -3212,6 +3228,9 @@ konstrukce 1. podzemního podlaží.
 toto nové řešení bylo preferované i ze strany zhotovitele
 
 
+--------------------
+Usly zisk:
+--------------------
 - email od pravnika:
 Naopak jste mého klienta nechali po dobu třech měsíců v tom, že v realizaci díla bude
 pokračovat po přezkoumání zaslaných změnových listů, tedy po dobu třech měsíců můj klient vázal své
@@ -3228,6 +3247,9 @@ ukončení smluv o dílo obsahující také vzájemné vypořádání obou stran
 viz casova osa, kdo tedy cekal na koho ? 
 do 22.1.2026 zhotovitel pracoval bez omezeni
 
+--------------------
+Ztrata duvery:
+--------------------
 - ztrata duvery
 Dalším zásadním důvodem ukončení smluvního vztahu byla ztráta důvěry ve zhotovitele v oblasti cenotvorby. Je pochopitelné, že v důsledku zjištěného stavu konstrukcí došlo k rozšíření rozsahu prací, což mohlo vést k navýšení ceny. Předložená cenová nabídka však obsahovala nesrovnalosti v množstvích a cenách jednotlivých položek, přičemž některé položky byly zjevně nadhodnocené a jiné naopak chyběly.
 
@@ -3239,6 +3261,9 @@ Nektere stavebni ukony v nove cenove nabidce z 11.2.2026 byly za cca tretinovou 
 Nektete zustaly absurdne (az 8x) predrazene (napriklad ve srovnani s cenikem RSU.)
 
 
+--------------------
+Dotace ?:
+--------------------
 - co usle dotace? 
 Na zaklade jejich projektove dokumentace jsme zaplatili 85 000 kč, za vyrizeni dotaci ODPB.
 Dotace nam byly priznany ve vysi cca 1 600 000. 
